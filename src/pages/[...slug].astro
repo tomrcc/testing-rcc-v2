@@ -26,7 +26,7 @@ const pageData = page.data as any;
 const { Content } = await page.render();
 ---
 {pageData.content_blocks ? (
-  <PageLayout frontmatter={pageData} />
+  <PageLayout frontmatter={pageData} slug={page.slug || "index"} />
 ) : (
   <Layout title={pageData.title} seo={pageData.seo}>
     <Content />

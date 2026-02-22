@@ -8,7 +8,10 @@
     "start": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "rosey:generate": "rosey generate --source dist",
+    "rosey:build": "rosey build --source dist --dest dist_translated --default-language-at-root",
+    "rosey:serve": "rosey build --source dist --serve --default-language-at-root"
   },
   "dependencies": {
     "@astrojs/check": "^0.9.5",
@@ -22,6 +25,8 @@
     "punycode": "^2.3.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "rosey": "^2.3.10",
+    "rosey-cloudcannon-connector": "github:tomrcc/rcc-v2",
     "tailwindcss": "^4.1.17",
     "typescript": "^5.9.3"
   },

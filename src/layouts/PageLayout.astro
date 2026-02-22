@@ -8,14 +8,16 @@ type Props = {
     content_blocks: Array<Record<string, any>>;
     seo?: SEOProps;
   };
+  slug: string;
 };
 
 if (!Astro.props.frontmatter) {
   throw new Error("Page frontmatter must be defined");
 }
 const props = Astro.props.frontmatter;
+const { slug } = Astro.props;
 ---
 
 <Layout title={props.title} seo={props?.seo}>
-  <Page content_blocks={props.content_blocks} />
+  <Page content_blocks={props.content_blocks} slug={slug} />
 </Layout>

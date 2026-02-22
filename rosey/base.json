@@ -1,0 +1,191 @@
+{
+  "version": 2,
+  "keys": {
+    "about:hero:button_text": {
+      "original": "Try This Free",
+      "value": null,
+      "pages": {
+        "about/index.html": 1
+      },
+      "total": 1
+    },
+    "about:hero:description": {
+      "original": "<p>We're here to breathe new air into email marketing and help grow your business.</p>\n",
+      "value": null,
+      "pages": {
+        "about/index.html": 1
+      },
+      "total": 1
+    },
+    "about:hero:title": {
+      "original": " On a mission to change email marketing ",
+      "value": null,
+      "pages": {
+        "about/index.html": 1
+      },
+      "total": 1
+    },
+    "contact:simple_hero:description": {
+      "original": "<p>Have a question or suggestion? Feel free to drop us a message!</p>\n",
+      "value": null,
+      "pages": {
+        "contact/index.html": 1
+      },
+      "total": 1
+    },
+    "contact:simple_hero:title": {
+      "original": "Let's talk.",
+      "value": null,
+      "pages": {
+        "contact/index.html": 1
+      },
+      "total": 1
+    },
+    "features:header:description": {
+      "original": "<p>Sendit is the most complete solution to create beautiful email designs, manage mails and send them out at the best price.</p>\n",
+      "value": null,
+      "pages": {
+        "features/index.html": 1
+      },
+      "total": 1
+    },
+    "features:header:title": {
+      "original": "Sendit ",
+      "value": null,
+      "pages": {
+        "features/index.html": 1
+      },
+      "total": 1
+    },
+    "features:header:title_suffix": {
+      "original": "Features",
+      "value": null,
+      "pages": {
+        "features/index.html": 1
+      },
+      "total": 1
+    },
+    "features:hero:button_text": {
+      "original": "Try This Free",
+      "value": null,
+      "pages": {
+        "features/index.html": 1
+      },
+      "total": 1
+    },
+    "features:hero:description": {
+      "original": "<p>Sendit will change the way you think about email and marketing automation.</p>\n",
+      "value": null,
+      "pages": {
+        "features/index.html": 1
+      },
+      "total": 1
+    },
+    "features:hero:title": {
+      "original": " Run the best campaigns ",
+      "value": null,
+      "pages": {
+        "features/index.html": 1
+      },
+      "total": 1
+    },
+    "index:header:description": {
+      "original": "<p>Our platform offers the most advanced features including automated email content creation, dynamic personalization, and customer segmentation.</p>\n",
+      "value": null,
+      "pages": {
+        "index.html": 1
+      },
+      "total": 1
+    },
+    "index:header:title": {
+      "original": "Sendit ",
+      "value": null,
+      "pages": {
+        "index.html": 1
+      },
+      "total": 1
+    },
+    "index:header:title_suffix": {
+      "original": "Features",
+      "value": null,
+      "pages": {
+        "index.html": 1
+      },
+      "total": 1
+    },
+    "index:hero:button_text": {
+      "original": "Try This Free",
+      "value": null,
+      "pages": {
+        "index.html": 1
+      },
+      "total": 1
+    },
+    "index:hero:description": {
+      "original": "<p>With Sendit, you can quickly create beautiful rich emails that capture a reader's attention, engage them, and convert them into customers.</p>\n",
+      "value": null,
+      "pages": {
+        "index.html": 1
+      },
+      "total": 1
+    },
+    "index:hero:title": {
+      "original": " Beautiful web campaigns ",
+      "value": null,
+      "pages": {
+        "index.html": 1
+      },
+      "total": 1
+    },
+    "pricing:simple_hero:description": {
+      "original": "<p>Sendit is easy to get started and we have a pricing plan for businesses of all sizes.</p>\n",
+      "value": null,
+      "pages": {
+        "pricing/index.html": 1
+      },
+      "total": 1
+    },
+    "pricing:simple_hero:title": {
+      "original": "A plan for everyone",
+      "value": null,
+      "pages": {
+        "pricing/index.html": 1
+      },
+      "total": 1
+    },
+    "simple_hero:description": {
+      "original": "<p>We believe that a good email marketing strategy is the key to growth. So we’re helping you grow your business with tools and resources that make email marketing easy.</p>\n",
+      "value": null,
+      "pages": {
+        "blog/2/index.html": 1,
+        "blog/3/index.html": 1,
+        "blog/index.html": 1,
+        "tags/blog/2/index.html": 1,
+        "tags/blog/index.html": 1,
+        "tags/email/index.html": 1,
+        "tags/marketing/2/index.html": 1,
+        "tags/marketing/index.html": 1,
+        "tags/showcase/index.html": 1,
+        "tags/technology/index.html": 1
+      },
+      "total": 10
+    },
+    "simple_hero:title": {
+      "original": "Resources for makers to learn, sell &amp; grow",
+      "value": null,
+      "pages": {
+        "blog/2/index.html": 1,
+        "blog/3/index.html": 1,
+        "blog/index.html": 1,
+        "tags/blog/2/index.html": 1,
+        "tags/blog/index.html": 1,
+        "tags/email/index.html": 1,
+        "tags/marketing/2/index.html": 1,
+        "tags/marketing/index.html": 1,
+        "tags/showcase/index.html": 1,
+        "tags/technology/index.html": 1
+      },
+      "total": 10
+    }
+  }
+}

@@ -440,6 +440,10 @@ commit_templates:
   - label: Custom message
     template_string: '{message}'
 data_config:
+  locales_fr:
+    path: rosey/locales/fr.json
+  locales_de:
+    path: rosey/locales/de.json
   blog-tags:
     path: data/blog-tags.json
   footer:
