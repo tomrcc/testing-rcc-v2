@@ -4,7 +4,7 @@ echo "Generating Rosey base locale"
 npx rosey generate --source dist
 
 echo "Writing locales"
-node writeLocales.mjs
+npx rcc-v2 write-locales --source rosey --locales fr,de
 
 echo "Translating site with Rosey"
 mv ./dist ./_untranslated_site
