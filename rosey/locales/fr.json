@@ -89,7 +89,7 @@
   },
   "index:hero:button_text": {
     "original": "Try This Free",
-    "value": "Try This Free"
+    "value": "Essayez ceci gratuitement"
   },
   "index:hero:description": {
     "original": "<p>With Sendit, you can quickly create beautiful rich emails that capture a reader's attention, engage them, and convert them into customers.</p>\n",
@@ -205,7 +205,7 @@
   },
   "index:counter:description": {
     "original": "<p>We have an extensive library of pre-written sales emails, proven marketing templates, and more to get you started on your next project.</p>\n",
-    "value": "<p>We have an extensive library of pre-written sales emails, proven marketing templates, and more to get you started on your next project.</p>\n"
+    "value": "Nous disposons d'une vaste bibliothèque d'e-mails de vente pré-rédigés, de modèles marketing éprouvés et bien plus encore pour vous aider à démarrer votre prochain projet."
   },
   "index:counter:prefix": {
     "original": " $ ",
@@ -217,15 +217,15 @@
   },
   "index:counter:text": {
     "original": " Venture capital raised ",
-    "value": " Venture capital raised "
+    "value": "Venture capital raised"
   },
   "index:counter:title": {
     "original": "Scale your",
-    "value": "Scale your"
+    "value": "Faites évoluer votre"
   },
   "index:counter:title_suffix": {
     "original": " Business ",
-    "value": " Business "
+    "value": "Entreprise"
   },
   "index:feature:button_text": {
     "original": "Try This Free",

@@ -89,15 +89,15 @@
   },
   "index:hero:button_text": {
     "original": "Try This Free",
-    "value": "Try This Free"
+    "value": "Probieren Sie es kostenlos aus"
   },
   "index:hero:description": {
     "original": "<p>With Sendit, you can quickly create beautiful rich emails that capture a reader's attention, engage them, and convert them into customers.</p>\n",
-    "value": "<p>With Sendit, you can quickly create beautiful rich emails that capture a reader's attention, engage them, and convert them into customers.</p>\n"
+    "value": "Mit Sendit können Sie schnell ansprechende und informative E-Mails erstellen, die die Aufmerksamkeit des Lesers fesseln, ihn einbinden und ihn zu einem Kunden machen."
   },
   "index:hero:title": {
     "original": " Beautiful web campaigns ",
-    "value": " Beautiful web campaigns "
+    "value": "Wunderschöne Webkampagnen"
   },
   "pricing:simple_hero:description": {
     "original": "<p>Sendit is easy to get started and we have a pricing plan for businesses of all sizes.</p>\n",
