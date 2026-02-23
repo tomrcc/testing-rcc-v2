@@ -30,7 +30,9 @@ content_blocks:
       link: /signup
   - _name: global/feature
     title: A new block
-    description: This should automatically be added to the locales, and be avai
+    description: >-
+      This should automatically be added to the locales, and be available for
+      translation in the visual editor.
     image: /images/feature/feature-card-one.png
     image_alt: Message inbox
     button:
