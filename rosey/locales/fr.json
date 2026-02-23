@@ -313,14 +313,14 @@
   },
   "about:feature:button_text": {
     "original": "Try This Free",
-    "value": "Try This Free"
+    "value": "Essayez ceci gratuitement"
   },
   "about:feature:description": {
     "original": "<p>This should automatically be added to the locales, and be avai</p>\n",
-    "value": "<p>This should automatically be added to the locales, and be avai</p>\n"
+    "value": "Cela devrait être automatiquement ajouté aux paramètres régionaux et être disponible pour la traduction dans l'éditeur visuel."
   },
   "about:feature:title": {
     "original": " A new block ",
-    "value": " A new block "
+    "value": "Un nouveau bloc"
   }
 }

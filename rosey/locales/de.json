@@ -317,7 +317,7 @@
   },
   "about:feature:description": {
     "original": "<p>This should automatically be added to the locales, and be avai</p>\n",
-    "value": "<p>This should automatically be added to the locales, and be avai</p>\n"
+    "value": "This is a GERMAN translation!"
   },
   "about:feature:title": {
     "original": " A new block ",
