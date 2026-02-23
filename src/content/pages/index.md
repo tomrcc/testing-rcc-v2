@@ -33,7 +33,7 @@ content_blocks:
         suffix: m
         text: Venture capital raised
       - prefix:
-        number: '2016'
+        number: '2020'
         suffix:
         text: Established in
       - prefix:
