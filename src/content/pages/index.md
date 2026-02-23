@@ -37,9 +37,9 @@ content_blocks:
         suffix:
         text: Established in
       - prefix:
-        number: '40'
+        number: '3'
         suffix: +
-        text: Amazing team members
+        text: Supported languages
       - prefix:
         number: '4322'
         suffix: +
