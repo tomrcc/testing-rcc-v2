@@ -58,7 +58,7 @@
       "total": 1
     },
     "about:feature:description": {
-      "original": "<p>This should automatically be added to the locales, and be avai</p>\n",
+      "original": "<p>This should automatically be added to the locales, and be available for translation in the visual editor.</p>\n",
       "value": null,
       "pages": {
         "about/index.html": 1
