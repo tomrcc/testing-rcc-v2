@@ -55,12 +55,14 @@ const { title, description, button, video } = Astro.props;
             text={title}
             data-prop="title"
             data-editable="text"
+            data-rosey="video_left_right:title"
             class="mb-6 tracking-tight"
           />
           <div 
             class="text-lg text-gray-600 leading-relaxed mb-8 prose prose-lg max-w-none" 
             data-editable="text" 
             data-prop="description" 
+            data-rosey="video_left_right:description"
             set:html={md.render(description)} 
           />
           {button && (
@@ -71,6 +73,7 @@ const { title, description, button, video } = Astro.props;
               text={button.text}
               data-prop="button.text"
               data-editable="text"
+              data-rosey="video_left_right:button_text"
               class="bg-white text-gray-900 border-2 border-gray-900 hover:bg-gray-900 hover:text-white"
             />
           )}

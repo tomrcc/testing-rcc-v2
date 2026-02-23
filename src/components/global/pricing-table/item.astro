@@ -43,6 +43,7 @@ const { tier, highlight_tier, description, currency_symbol, price, has_discount,
   }`}
     data-editable="text"
     data-prop="tier"
+    data-rosey="pricing_item:tier"
   >
     {tier}
   </h5>
@@ -50,7 +51,8 @@ const { tier, highlight_tier, description, currency_symbol, price, has_discount,
   <p 
     class="text-lg xl:text-xl leading-relaxed mb-6 pl-4 xl:pl-6 text-gray-600 font-medium tracking-tight"
     data-prop="description"
-    data-editable="text">
+    data-editable="text"
+    data-rosey="pricing_item:description">
     {description}
   </p>
 
@@ -60,15 +62,15 @@ const { tier, highlight_tier, description, currency_symbol, price, has_discount,
       <>
         <!-- Discount Price Display -->
         <p class="text-4xl xl:text-5xl font-bold pl-4 xl:pl-6 mb-0 mr-4 z-10">
-          <editable-text data-prop="currency_symbol">{currency_symbol}</editable-text>
-          <editable-text data-prop="discount_price">{discount_price}</editable-text>
+          <editable-text data-prop="currency_symbol" data-rosey="pricing_item:currency_symbol">{currency_symbol}</editable-text>
+          <editable-text data-prop="discount_price" data-rosey="pricing_item:discount_price">{discount_price}</editable-text>
         </p>
 
         <!-- Original Price with Strikethrough -->
         <div class="relative flex items-center">
           <p class="text-2xl font-semibold text-gray-500 mb-0 relative z-10">
-            <editable-text data-prop="currency_symbol">{currency_symbol}</editable-text>
-            <editable-text data-prop="price">{price}</editable-text>
+            <editable-text data-prop="currency_symbol" data-rosey="pricing_item:currency_symbol">{currency_symbol}</editable-text>
+            <editable-text data-prop="price" data-rosey="pricing_item:price">{price}</editable-text>
           </p>
           <!-- Strikethrough Vector -->
           <div class="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 z-20">
@@ -91,8 +93,8 @@ const { tier, highlight_tier, description, currency_symbol, price, has_discount,
         <!-- Regular Price Display -->
         <p class="text-4xl xl:text-5xl font-bold pl-4 xl:pl-6 mb-0 z-10">
           <span>
-            <editable-text data-prop="currency_symbol">{currency_symbol}</editable-text>
-            <editable-text data-prop="price">{price}</editable-text>
+            <editable-text data-prop="currency_symbol" data-rosey="pricing_item:currency_symbol">{currency_symbol}</editable-text>
+            <editable-text data-prop="price" data-rosey="pricing_item:price">{price}</editable-text>
           </span>
         </p>
 
@@ -113,7 +115,7 @@ const { tier, highlight_tier, description, currency_symbol, price, has_discount,
               class="flex items-center text-lg xl:text-xl leading-relaxed font-bold tracking-tight text-gray-600"
           >
               <i class="ph-check mr-4 xl:mr-5 text-primary"/>
-              <editable-text data-prop="item"></editable-text>
+              <editable-text data-prop="item" data-rosey="pricing_item:feature_item"></editable-text>
           </li>
       </template>
       <template data-id="false">
@@ -122,7 +124,7 @@ const { tier, highlight_tier, description, currency_symbol, price, has_discount,
               class="flex items-center text-lg xl:text-xl leading-relaxed font-bold tracking-tight text-gray-400"
           >
               <i class="ph-check mr-4 xl:mr-5 text-gray-400"/>
-              <editable-text data-prop="item"></editable-text>
+              <editable-text data-prop="item" data-rosey="pricing_item:feature_item"></editable-text>
           </li>
       </template>
       {features?.length && features?.map((feature) => (
@@ -142,7 +144,7 @@ const { tier, highlight_tier, description, currency_symbol, price, has_discount,
                 : "text-gray-400"
             }`}
           />
-          <editable-text data-prop="item">{feature.item}</editable-text>
+          <editable-text data-prop="item" data-rosey="pricing_item:feature_item">{feature.item}</editable-text>
         </li>
       ))}
     </ul>
@@ -157,6 +159,7 @@ const { tier, highlight_tier, description, currency_symbol, price, has_discount,
           text={button.text}
           data-prop="button.text"
           data-editable="text"
+          data-rosey="pricing_item:button_text"
         />
       )}
     </div>

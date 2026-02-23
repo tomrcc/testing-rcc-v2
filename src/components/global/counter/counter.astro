@@ -31,12 +31,12 @@ export interface Props {
       <div class="w-full">
         <div class="pt-12 pb-9 text-center">
           <Heading level={2} class="text-4xl lg:text-5xl xl:text-6xl font-bold leading-tight mb-6 text-gray-900">
-            <span data-editable="text" data-prop="title">{title}</span>{" "}
-            <span class="text-primary" data-editable="text" data-prop="title_suffix">
+            <span data-editable="text" data-prop="title" data-rosey="counter:title">{title}</span>{" "}
+            <span class="text-primary" data-editable="text" data-prop="title_suffix" data-rosey="counter:title_suffix">
               {title_suffix}
             </span>
           </Heading>
-          <div class="w-3/5 lg:w-4/5 xl:w-3/5 mx-auto text-lg" data-editable="text" data-prop="description" set:html={md.render(description)} />
+          <div class="w-3/5 lg:w-4/5 xl:w-3/5 mx-auto text-lg" data-editable="text" data-prop="description" data-rosey="counter:description" set:html={md.render(description)} />
         </div>
       </div>
       <div class="w-full">
@@ -55,7 +55,8 @@ export interface Props {
                         class="text-5xl font-bold text-gray-900 font-sans leading-tight tracking-wide"
                         style="font-weight: 700; line-height: 1.31; letter-spacing: 0.05px;"
                         data-editable="text"
-                        data-prop="prefix">
+                        data-prop="prefix"
+                        data-rosey="counter:prefix">
                         {number.prefix || ""}
                       </span>
                       {
@@ -63,6 +64,7 @@ export interface Props {
                           <span 
                             data-editable="text"
                             data-prop="number"
+                            data-rosey="counter:number"
                             class="text-5xl font-bold text-gray-900 font-sans leading-tight tracking-wide"
                             style={{ fontWeight: 700, lineHeight: 1.31, letterSpacing: "0.05px" }}>
                               {number.number}
@@ -80,11 +82,12 @@ export interface Props {
                         class="text-5xl font-bold text-gray-900 font-sans leading-tight tracking-wide"
                         style="font-weight: 700; line-height: 1.31; letter-spacing: 0.05px;"
                         data-editable="text"
-                        data-prop="suffix">
+                        data-prop="suffix"
+                        data-rosey="counter:suffix">
                         {number.suffix || ""}
                       </span>
                     </div>
-                    <p class="text-gray-900 text-base mb-0 sm:px-8 sm:pb-0" data-editable="text" data-prop="text">
+                    <p class="text-gray-900 text-base mb-0 sm:px-8 sm:pb-0" data-editable="text" data-prop="text" data-rosey="counter:text">
                       {number.text}
                     </p>
                   </div>
