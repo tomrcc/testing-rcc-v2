@@ -49,6 +49,30 @@
       },
       "total": 1
     },
+    "about:feature:button_text": {
+      "original": "Try This Free",
+      "value": null,
+      "pages": {
+        "about/index.html": 1
+      },
+      "total": 1
+    },
+    "about:feature:description": {
+      "original": "<p>This should automatically be added to the locales, and be avai</p>\n",
+      "value": null,
+      "pages": {
+        "about/index.html": 1
+      },
+      "total": 1
+    },
+    "about:feature:title": {
+      "original": " A new block ",
+      "value": null,
+      "pages": {
+        "about/index.html": 1
+      },
+      "total": 1
+    },
     "about:hero:button_text": {
       "original": "Try This Free",
       "value": null,

@@ -310,5 +310,17 @@
   "pricing:pricing_item:tier": {
     "original": " Free ",
     "value": " Free "
+  },
+  "about:feature:button_text": {
+    "original": "Try This Free",
+    "value": "Try This Free"
+  },
+  "about:feature:description": {
+    "original": "<p>This should automatically be added to the locales, and be avai</p>\n",
+    "value": "<p>This should automatically be added to the locales, and be avai</p>\n"
+  },
+  "about:feature:title": {
+    "original": " A new block ",
+    "value": " A new block "
   }
 }
