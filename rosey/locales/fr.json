@@ -69,11 +69,11 @@
   },
   "features:hero:description": {
     "original": "<p>Sendit will change the way you think about email and marketing automation.</p>\n",
-    "value": "<p>Sendit will change the way you think about email and marketing automation.</p>\n"
+    "value": "Sendit va changer votre façon de penser au marketing par e-mail et à l'automatisation marketing."
   },
   "features:hero:title": {
     "original": " Run the best campaigns ",
-    "value": " Run the best campaigns "
+    "value": "Lancez les meilleures campagnes"
   },
   "index:header:description": {
     "original": "<p>Our platform offers the most advanced features including automated email content creation, dynamic personalization, and customer segmentation.</p>\n",
