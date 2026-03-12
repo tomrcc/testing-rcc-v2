@@ -1,112 +1,4 @@
 {
-  "header:description": {
-    "original": "<p>Our platform offers the most advanced features including automated email content creation, dynamic personalization, and customer segmentation.</p>\n",
-    "value": "<p>Our platform offers the most advanced features including automated email content creation, dynamic personalization, and customer segmentation.</p>\n"
-  },
-  "header:title": {
-    "original": "Sendit ",
-    "value": "Sendit "
-  },
-  "header:title_suffix": {
-    "original": "Features",
-    "value": "Features"
-  },
-  "hero:button_text": {
-    "original": "Try This Free",
-    "value": "Try This Free"
-  },
-  "hero:description": {
-    "original": "<p>With Sendit, you can quickly create beautiful rich emails that capture a reader's attention, engage them, and convert them into customers.</p>\n",
-    "value": "<p>With Sendit, you can quickly create beautiful rich emails that capture a reader's attention, engage them, and convert them into customers.</p>\n"
-  },
-  "hero:title": {
-    "original": " Beautiful web campaigns ",
-    "value": " Beautiful web campaigns "
-  },
-  "simple_hero:description": {
-    "original": "<p>Have a question or suggestion? Feel free to drop us a message!</p>\n",
-    "value": "<p>Have a question or suggestion? Feel free to drop us a message!</p>\n"
-  },
-  "simple_hero:title": {
-    "original": "Let's talk.",
-    "value": "Let's talk."
-  },
-  "about:hero:button_text": {
-    "original": "Try This Free",
-    "value": "Try This Free"
-  },
-  "about:hero:description": {
-    "original": "<p>We're here to breathe new air into email marketing and help grow your business.</p>\n",
-    "value": "<p>We're here to breathe new air into email marketing and help grow your business.</p>\n"
-  },
-  "about:hero:title": {
-    "original": " On a mission to change email marketing ",
-    "value": " On a mission to change email marketing "
-  },
-  "contact:simple_hero:description": {
-    "original": "<p>Have a question or suggestion? Feel free to drop us a message!</p>\n",
-    "value": "<p>Have a question or suggestion? Feel free to drop us a message!</p>\n"
-  },
-  "contact:simple_hero:title": {
-    "original": "Let's talk.",
-    "value": "Let's talk."
-  },
-  "features:header:description": {
-    "original": "<p>Sendit is the most complete solution to create beautiful email designs, manage mails and send them out at the best price.</p>\n",
-    "value": "<p>Sendit is the most complete solution to create beautiful email designs, manage mails and send them out at the best price.</p>\n"
-  },
-  "features:header:title": {
-    "original": "Sendit ",
-    "value": "Sendit "
-  },
-  "features:header:title_suffix": {
-    "original": "Features",
-    "value": "Features"
-  },
-  "features:hero:button_text": {
-    "original": "Try This Free",
-    "value": "Try This Free"
-  },
-  "features:hero:description": {
-    "original": "<p>Sendit will change the way you think about email and marketing automation.</p>\n",
-    "value": "<p>Sendit will change the way you think about email and marketing automation.</p>\n"
-  },
-  "features:hero:title": {
-    "original": " Run the best campaigns ",
-    "value": " Run the best campaigns "
-  },
-  "index:header:description": {
-    "original": "<p>Our platform offers the most advanced features including automated email content creation, dynamic personalization, and customer segmentation.</p>\n",
-    "value": "<p>Our platform offers the most advanced features including automated email content creation, dynamic personalization, and customer segmentation.</p>\n"
-  },
-  "index:header:title": {
-    "original": "Sendit ",
-    "value": "Sendit "
-  },
-  "index:header:title_suffix": {
-    "original": "Features",
-    "value": "Features"
-  },
-  "index:hero:button_text": {
-    "original": "Try This Free",
-    "value": "Probieren Sie es kostenlos aus"
-  },
-  "index:hero:description": {
-    "original": "<p>With Sendit, you can quickly create beautiful rich emails that capture a reader's attention, engage them, and convert them into customers.</p>\n",
-    "value": "Mit Sendit können Sie schnell ansprechende und informative E-Mails erstellen, die die Aufmerksamkeit des Lesers fesseln, ihn einbinden und ihn zu einem Kunden machen."
-  },
-  "index:hero:title": {
-    "original": " Beautiful web campaigns ",
-    "value": "Wunderschöne Webkampagnen"
-  },
-  "pricing:simple_hero:description": {
-    "original": "<p>Sendit is easy to get started and we have a pricing plan for businesses of all sizes.</p>\n",
-    "value": "<p>Sendit is easy to get started and we have a pricing plan for businesses of all sizes.</p>\n"
-  },
-  "pricing:simple_hero:title": {
-    "original": "A plan for everyone",
-    "value": "A plan for everyone"
-  },
   "about:counter:description": {
     "original": "<p>We've built Sendit from the ground up the help grow your business faster.</p>\n",
     "value": "<p>We've built Sendit from the ground up the help grow your business faster.</p>\n"
@@ -130,6 +22,30 @@
   "about:counter:title_suffix": {
     "original": " Business ",
     "value": " Business "
+  },
+  "about:feature:button_text": {
+    "original": "Try This Free",
+    "value": "Try This Free"
+  },
+  "about:feature:description": {
+    "original": "<p>This should automatically be added to the locales, and be avai</p>\n",
+    "value": "This is a GERMAN translation!"
+  },
+  "about:feature:title": {
+    "original": " A new block ",
+    "value": " A new block "
+  },
+  "about:hero:button_text": {
+    "original": "Try This Free",
+    "value": "Try This Free"
+  },
+  "about:hero:description": {
+    "original": "<p>We're here to breathe new air into email marketing and help grow your business.</p>\n",
+    "value": "<p>We're here to breathe new air into email marketing and help grow your business.</p>\n"
+  },
+  "about:hero:title": {
+    "original": " On a mission to change email marketing ",
+    "value": " On a mission to change email marketing "
   },
   "about:team:designation": {
     "original": " Co-Founder &amp; CEO ",
@@ -155,6 +71,14 @@
     "original": " We love what we do ",
     "value": " We love what we do "
   },
+  "contact:simple_hero:description": {
+    "original": "<p>Have a question or suggestion? Feel free to drop us a message!</p>\n",
+    "value": "<p>Have a question or suggestion? Feel free to drop us a message!</p>\n"
+  },
+  "contact:simple_hero:title": {
+    "original": "Let's talk.",
+    "value": "Let's talk."
+  },
   "features:feature:button_text": {
     "original": "Try This Free",
     "value": "Try This Free"
@@ -166,6 +90,30 @@
   "features:feature:title": {
     "original": " Simply click and send ",
     "value": " Simply click and send "
+  },
+  "features:header:description": {
+    "original": "<p>Sendit is the most complete solution to create beautiful email designs, manage mails and send them out at the best price.</p>\n",
+    "value": "<p>Sendit is the most complete solution to create beautiful email designs, manage mails and send them out at the best price.</p>\n"
+  },
+  "features:header:title": {
+    "original": "Sendit ",
+    "value": "Sendit "
+  },
+  "features:header:title_suffix": {
+    "original": "Features",
+    "value": "Features"
+  },
+  "features:hero:button_text": {
+    "original": "Try This Free",
+    "value": "Try This Free"
+  },
+  "features:hero:description": {
+    "original": "<p>Sendit will change the way you think about email and marketing automation.</p>\n",
+    "value": "<p>Sendit will change the way you think about email and marketing automation.</p>\n"
+  },
+  "features:hero:title": {
+    "original": " Run the best campaigns ",
+    "value": " Run the best campaigns "
   },
   "features:testimonial:author": {
     "original": "",
@@ -203,6 +151,30 @@
     "original": "Main Pages",
     "value": "Main Pages"
   },
+  "header:description": {
+    "original": "<p>Our platform offers the most advanced features including automated email content creation, dynamic personalization, and customer segmentation.</p>\n",
+    "value": "<p>Our platform offers the most advanced features including automated email content creation, dynamic personalization, and customer segmentation.</p>\n"
+  },
+  "header:title": {
+    "original": "Sendit ",
+    "value": "Sendit "
+  },
+  "header:title_suffix": {
+    "original": "Features",
+    "value": "Features"
+  },
+  "hero:button_text": {
+    "original": "Try This Free",
+    "value": "Try This Free"
+  },
+  "hero:description": {
+    "original": "<p>With Sendit, you can quickly create beautiful rich emails that capture a reader's attention, engage them, and convert them into customers.</p>\n",
+    "value": "<p>With Sendit, you can quickly create beautiful rich emails that capture a reader's attention, engage them, and convert them into customers.</p>\n"
+  },
+  "hero:title": {
+    "original": " Beautiful web campaigns ",
+    "value": " Beautiful web campaigns "
+  },
   "index:counter:description": {
     "original": "<p>We have an extensive library of pre-written sales emails, proven marketing templates, and more to get you started on your next project.</p>\n",
     "value": "Wir verfügen über eine umfangreiche Bibliothek mit vorgefertigten Verkaufs-E-Mails, bewährten Marketingvorlagen und vielem mehr, um Ihnen den Einstieg in Ihr nächstes Projekt zu erleichtern."
@@ -239,6 +211,30 @@
     "original": " Email Campaign in one minute ",
     "value": " Email Campaign in one minute "
   },
+  "index:header:description": {
+    "original": "<p>Our platform offers the most advanced features including automated email content creation, dynamic personalization, and customer segmentation.</p>\n",
+    "value": "<p>Our platform offers the most advanced features including automated email content creation, dynamic personalization, and customer segmentation.</p>\n"
+  },
+  "index:header:title": {
+    "original": "Sendit ",
+    "value": "Sendit "
+  },
+  "index:header:title_suffix": {
+    "original": "Features",
+    "value": "Features"
+  },
+  "index:hero:button_text": {
+    "original": "Try This Free",
+    "value": "Probieren Sie es kostenlos aus"
+  },
+  "index:hero:description": {
+    "original": "<p>With Sendit, you can quickly create beautiful rich emails that capture a reader's attention, engage them, and convert them into customers.</p>\n",
+    "value": "Mit Sendit können Sie schnell ansprechende und informative E-Mails erstellen, die die Aufmerksamkeit des Lesers fesseln, ihn einbinden und ihn zu einem Kunden machen."
+  },
+  "index:hero:title": {
+    "original": " Beautiful web campaigns ",
+    "value": "Wunderschöne Webkampagnen"
+  },
   "index:testimonial:author": {
     "original": "",
     "value": ""
@@ -263,6 +259,14 @@
     "original": " last ",
     "value": " last "
   },
+  "pricing:faq_item:description": {
+    "original": "",
+    "value": ""
+  },
+  "pricing:faq_item:title": {
+    "original": "",
+    "value": ""
+  },
   "pricing:faq:description": {
     "original": "<p>We believe that a good email marketing strategy is the key to growth. So we're helping you grow your business with tools and resources that make email marketing easy.</p>\n",
     "value": "<p>We believe that a good email marketing strategy is the key to growth. So we're helping you grow your business with tools and resources that make email marketing easy.</p>\n"
@@ -274,14 +278,6 @@
   "pricing:faq:title_suffix": {
     "original": " Questions? ",
     "value": " Questions? "
-  },
-  "pricing:faq_item:description": {
-    "original": "",
-    "value": ""
-  },
-  "pricing:faq_item:title": {
-    "original": "",
-    "value": ""
   },
   "pricing:pricing_item:button_text": {
     "original": "Try This Free",
@@ -311,16 +307,20 @@
     "original": " Free ",
     "value": " Free "
   },
-  "about:feature:button_text": {
-    "original": "Try This Free",
-    "value": "Try This Free"
+  "pricing:simple_hero:description": {
+    "original": "<p>Sendit is easy to get started and we have a pricing plan for businesses of all sizes.</p>\n",
+    "value": "<p>Sendit is easy to get started and we have a pricing plan for businesses of all sizes.</p>\n"
   },
-  "about:feature:description": {
-    "original": "<p>This should automatically be added to the locales, and be avai</p>\n",
-    "value": "This is a GERMAN translation!"
+  "pricing:simple_hero:title": {
+    "original": "A plan for everyone",
+    "value": "A plan for everyone"
   },
-  "about:feature:title": {
-    "original": " A new block ",
-    "value": " A new block "
+  "simple_hero:description": {
+    "original": "<p>Have a question or suggestion? Feel free to drop us a message!</p>\n",
+    "value": "<p>Have a question or suggestion? Feel free to drop us a message!</p>\n"
+  },
+  "simple_hero:title": {
+    "original": "Let's talk.",
+    "value": "Let's talk."
   }
 }
