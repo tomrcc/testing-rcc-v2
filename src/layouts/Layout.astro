@@ -23,7 +23,9 @@ export interface Props {
 
 const { seo } = Astro.props;
 const baseUrl = Astro.site;
-const title = Astro.props.title ? `${Astro.props.title} | ${site.site_title}` : site.site_title;
+const title = Astro.props.title
+  ? `${Astro.props.title} | ${site.site_title}`
+  : site.site_title;
 const description = seo?.page_description || site.description;
 const image = seo?.featured_image || site.image;
 const image_alt = seo?.featured_image_alt || site.image_alt;
@@ -74,15 +76,20 @@ const canonicalURL = new URL(seo?.canonical_url ?? Astro.url.pathname, baseUrl);
     <script>
       if (window?.inEditorMode) {
         import("../scripts/register-components.ts").catch((error) => {
-          console.warn("Failed to load CloudCannon component registration:", error);
+          console.warn(
+            "Failed to load CloudCannon component registration:",
+            error,
+          );
         });
         import("rosey-cloudcannon-connector");
       }
     </script>
-    <editable-component data-component="layouts/Navigation" data-prop="@data[navigation]">
+    <editable-component
+      data-component="layouts/Navigation"
+      data-prop="@data[navigation]">
       <Navigation client:load pageUrl={canonicalURL} />
     </editable-component>
-    <main class="flex-1" data-locales="fr,de">
+    <main class="flex-1" data-locales="fr,de" data-rcc-verbose>
       <slot />
     </main>
     <Footer />
