@@ -103,7 +103,7 @@ const { title, title_suffix, description, testimonials } = Astro.props;
             </div>
           </template>
           {testimonials?.map((testimonial: Testimonial, i: number) => (
-            <div data-editable="array-item">
+            <div data-editable="array-item" data-rosey-ns={String(i)}>
               <div class="bg-white p-6 rounded-xl">
                 <div class="flex items-center gap-4 mt-4 mb-4">
                   {testimonial.image && (

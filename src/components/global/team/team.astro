@@ -27,7 +27,7 @@ const { title, team_members } = Astro.props;
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 lg:gap-6" data-editable="array" data-prop="team_members">
       {
         team_members?.map((member: TeamMember, i: number) => (
-          <div data-editable="array-item">
+          <div data-editable="array-item" data-rosey-ns={String(i)}>
             <div class="text-center group">
               <div class="mb-6 overflow-hidden rounded-2xl">
                 <Image

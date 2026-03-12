@@ -34,7 +34,7 @@ const { content_blocks, slug } = Astro.props;
   data-rosey-root={slug}
 >
   {
-    content_blocks.map((block: any) => {
+    content_blocks.map((block: any, i: number) => {
       const key = block._name;
       const Component = components[key];
       if (!Component) {
@@ -42,7 +42,7 @@ const { content_blocks, slug } = Astro.props;
         return null;
       }
       return (
-        <editable-array-item data-id={block._name} data-component={block._name}>
+        <editable-array-item data-id={block._name} data-component={block._name} data-rosey-ns={String(i)}>
           <editable-component data-component={block._name} data-prop="">
             <Component {...block} />
           </editable-component>

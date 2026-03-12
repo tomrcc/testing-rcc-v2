@@ -42,8 +42,8 @@ const { pricing_tier } = Astro.props;
       data-prop="pricing_tier">
       {
         pricing_tier &&
-          pricing_tier.map((tier) => (
-            <editable-array-item class="w-full lg:w-1/3 px-4">
+          pricing_tier.map((tier, i: number) => (
+            <editable-array-item class="w-full lg:w-1/3 px-4" data-rosey-ns={String(i)}>
               <PricingItem {...tier} />
             </editable-array-item>
           ))

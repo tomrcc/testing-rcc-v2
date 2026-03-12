@@ -127,9 +127,10 @@ const { tier, highlight_tier, description, currency_symbol, price, has_discount,
               <editable-text data-prop="item" data-rosey="pricing_item:feature_item"></editable-text>
           </li>
       </template>
-      {features?.length && features?.map((feature) => (
+      {features?.length && features?.map((feature, i: number) => (
         <li
           data-editable="array-item"
+          data-rosey-ns={String(i)}
           data-id={String(feature.active_feature)}
           class={`flex items-center text-lg xl:text-xl leading-relaxed font-bold tracking-tight ${
             feature.active_feature
