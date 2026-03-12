@@ -1,55 +1,327 @@
 {
   "version": 2,
   "keys": {
-    "about:counter:description": {
-      "original": "<p>We've built Sendit from the ground up the help grow your business faster.</p>\n",
+    "0:0:footer:link_text": {
+      "original": "Home",
       "value": null,
       "pages": {
-        "about/index.html": 1
+        "404.html": 1,
+        "about/index.html": 1,
+        "blog/2/index.html": 1,
+        "blog/3/index.html": 1,
+        "blog/5-things-to-improve-your-email-templates/index.html": 1,
+        "blog/7-things-you-didnt-know-about-email/index.html": 1,
+        "blog/best-email-sending-services/index.html": 1,
+        "blog/blog-showcase/index.html": 1,
+        "blog/email-delivery-tips/index.html": 1,
+        "blog/how-to-host-better-email-marketing-campaigns/index.html": 1,
+        "blog/index.html": 1,
+        "blog/what-are-the-best-email-clients/index.html": 1,
+        "contact/index.html": 1,
+        "features/index.html": 1,
+        "index.html": 1,
+        "login/index.html": 1,
+        "pricing/index.html": 1,
+        "signup/index.html": 1,
+        "tags/blog/2/index.html": 1,
+        "tags/blog/index.html": 1,
+        "tags/email/index.html": 1,
+        "tags/marketing/2/index.html": 1,
+        "tags/marketing/index.html": 1,
+        "tags/showcase/index.html": 1,
+        "tags/technology/index.html": 1
       },
-      "total": 1
+      "total": 25
     },
-    "about:counter:prefix": {
-      "original": " $ ",
+    "0:1:footer:link_text": {
+      "original": "Features",
       "value": null,
       "pages": {
-        "about/index.html": 4
+        "404.html": 1,
+        "about/index.html": 1,
+        "blog/2/index.html": 1,
+        "blog/3/index.html": 1,
+        "blog/5-things-to-improve-your-email-templates/index.html": 1,
+        "blog/7-things-you-didnt-know-about-email/index.html": 1,
+        "blog/best-email-sending-services/index.html": 1,
+        "blog/blog-showcase/index.html": 1,
+        "blog/email-delivery-tips/index.html": 1,
+        "blog/how-to-host-better-email-marketing-campaigns/index.html": 1,
+        "blog/index.html": 1,
+        "blog/what-are-the-best-email-clients/index.html": 1,
+        "contact/index.html": 1,
+        "features/index.html": 1,
+        "index.html": 1,
+        "login/index.html": 1,
+        "pricing/index.html": 1,
+        "signup/index.html": 1,
+        "tags/blog/2/index.html": 1,
+        "tags/blog/index.html": 1,
+        "tags/email/index.html": 1,
+        "tags/marketing/2/index.html": 1,
+        "tags/marketing/index.html": 1,
+        "tags/showcase/index.html": 1,
+        "tags/technology/index.html": 1
       },
-      "total": 4
+      "total": 25
     },
-    "about:counter:suffix": {
-      "original": " m ",
+    "0:2:footer:link_text": {
+      "original": "Price",
       "value": null,
       "pages": {
-        "about/index.html": 4
+        "404.html": 1,
+        "about/index.html": 1,
+        "blog/2/index.html": 1,
+        "blog/3/index.html": 1,
+        "blog/5-things-to-improve-your-email-templates/index.html": 1,
+        "blog/7-things-you-didnt-know-about-email/index.html": 1,
+        "blog/best-email-sending-services/index.html": 1,
+        "blog/blog-showcase/index.html": 1,
+        "blog/email-delivery-tips/index.html": 1,
+        "blog/how-to-host-better-email-marketing-campaigns/index.html": 1,
+        "blog/index.html": 1,
+        "blog/what-are-the-best-email-clients/index.html": 1,
+        "contact/index.html": 1,
+        "features/index.html": 1,
+        "index.html": 1,
+        "login/index.html": 1,
+        "pricing/index.html": 1,
+        "signup/index.html": 1,
+        "tags/blog/2/index.html": 1,
+        "tags/blog/index.html": 1,
+        "tags/email/index.html": 1,
+        "tags/marketing/2/index.html": 1,
+        "tags/marketing/index.html": 1,
+        "tags/showcase/index.html": 1,
+        "tags/technology/index.html": 1
       },
-      "total": 4
+      "total": 25
     },
-    "about:counter:text": {
-      "original": " Venture capital raised ",
+    "0:3:footer:link_text": {
+      "original": "About",
       "value": null,
       "pages": {
-        "about/index.html": 4
+        "404.html": 1,
+        "about/index.html": 1,
+        "blog/2/index.html": 1,
+        "blog/3/index.html": 1,
+        "blog/5-things-to-improve-your-email-templates/index.html": 1,
+        "blog/7-things-you-didnt-know-about-email/index.html": 1,
+        "blog/best-email-sending-services/index.html": 1,
+        "blog/blog-showcase/index.html": 1,
+        "blog/email-delivery-tips/index.html": 1,
+        "blog/how-to-host-better-email-marketing-campaigns/index.html": 1,
+        "blog/index.html": 1,
+        "blog/what-are-the-best-email-clients/index.html": 1,
+        "contact/index.html": 1,
+        "features/index.html": 1,
+        "index.html": 1,
+        "login/index.html": 1,
+        "pricing/index.html": 1,
+        "signup/index.html": 1,
+        "tags/blog/2/index.html": 1,
+        "tags/blog/index.html": 1,
+        "tags/email/index.html": 1,
+        "tags/marketing/2/index.html": 1,
+        "tags/marketing/index.html": 1,
+        "tags/showcase/index.html": 1,
+        "tags/technology/index.html": 1
       },
-      "total": 4
+      "total": 25
     },
-    "about:counter:title": {
-      "original": "Built for your",
+    "0:footer:title": {
+      "original": "Main Pages",
       "value": null,
       "pages": {
-        "about/index.html": 1
+        "404.html": 1,
+        "about/index.html": 1,
+        "blog/2/index.html": 1,
+        "blog/3/index.html": 1,
+        "blog/5-things-to-improve-your-email-templates/index.html": 1,
+        "blog/7-things-you-didnt-know-about-email/index.html": 1,
+        "blog/best-email-sending-services/index.html": 1,
+        "blog/blog-showcase/index.html": 1,
+        "blog/email-delivery-tips/index.html": 1,
+        "blog/how-to-host-better-email-marketing-campaigns/index.html": 1,
+        "blog/index.html": 1,
+        "blog/what-are-the-best-email-clients/index.html": 1,
+        "contact/index.html": 1,
+        "features/index.html": 1,
+        "index.html": 1,
+        "login/index.html": 1,
+        "pricing/index.html": 1,
+        "signup/index.html": 1,
+        "tags/blog/2/index.html": 1,
+        "tags/blog/index.html": 1,
+        "tags/email/index.html": 1,
+        "tags/marketing/2/index.html": 1,
+        "tags/marketing/index.html": 1,
+        "tags/showcase/index.html": 1,
+        "tags/technology/index.html": 1
       },
-      "total": 1
+      "total": 25
     },
-    "about:counter:title_suffix": {
-      "original": " Business ",
+    "1:0:footer:link_text": {
+      "original": "Blog",
       "value": null,
       "pages": {
-        "about/index.html": 1
+        "404.html": 1,
+        "about/index.html": 1,
+        "blog/2/index.html": 1,
+        "blog/3/index.html": 1,
+        "blog/5-things-to-improve-your-email-templates/index.html": 1,
+        "blog/7-things-you-didnt-know-about-email/index.html": 1,
+        "blog/best-email-sending-services/index.html": 1,
+        "blog/blog-showcase/index.html": 1,
+        "blog/email-delivery-tips/index.html": 1,
+        "blog/how-to-host-better-email-marketing-campaigns/index.html": 1,
+        "blog/index.html": 1,
+        "blog/what-are-the-best-email-clients/index.html": 1,
+        "contact/index.html": 1,
+        "features/index.html": 1,
+        "index.html": 1,
+        "login/index.html": 1,
+        "pricing/index.html": 1,
+        "signup/index.html": 1,
+        "tags/blog/2/index.html": 1,
+        "tags/blog/index.html": 1,
+        "tags/email/index.html": 1,
+        "tags/marketing/2/index.html": 1,
+        "tags/marketing/index.html": 1,
+        "tags/showcase/index.html": 1,
+        "tags/technology/index.html": 1
       },
-      "total": 1
+      "total": 25
     },
-    "about:feature:button_text": {
+    "1:1:footer:link_text": {
+      "original": "RSS Feed",
+      "value": null,
+      "pages": {
+        "404.html": 1,
+        "about/index.html": 1,
+        "blog/2/index.html": 1,
+        "blog/3/index.html": 1,
+        "blog/5-things-to-improve-your-email-templates/index.html": 1,
+        "blog/7-things-you-didnt-know-about-email/index.html": 1,
+        "blog/best-email-sending-services/index.html": 1,
+        "blog/blog-showcase/index.html": 1,
+        "blog/email-delivery-tips/index.html": 1,
+        "blog/how-to-host-better-email-marketing-campaigns/index.html": 1,
+        "blog/index.html": 1,
+        "blog/what-are-the-best-email-clients/index.html": 1,
+        "contact/index.html": 1,
+        "features/index.html": 1,
+        "index.html": 1,
+        "login/index.html": 1,
+        "pricing/index.html": 1,
+        "signup/index.html": 1,
+        "tags/blog/2/index.html": 1,
+        "tags/blog/index.html": 1,
+        "tags/email/index.html": 1,
+        "tags/marketing/2/index.html": 1,
+        "tags/marketing/index.html": 1,
+        "tags/showcase/index.html": 1,
+        "tags/technology/index.html": 1
+      },
+      "total": 25
+    },
+    "1:footer:title": {
+      "original": "Community",
+      "value": null,
+      "pages": {
+        "404.html": 1,
+        "about/index.html": 1,
+        "blog/2/index.html": 1,
+        "blog/3/index.html": 1,
+        "blog/5-things-to-improve-your-email-templates/index.html": 1,
+        "blog/7-things-you-didnt-know-about-email/index.html": 1,
+        "blog/best-email-sending-services/index.html": 1,
+        "blog/blog-showcase/index.html": 1,
+        "blog/email-delivery-tips/index.html": 1,
+        "blog/how-to-host-better-email-marketing-campaigns/index.html": 1,
+        "blog/index.html": 1,
+        "blog/what-are-the-best-email-clients/index.html": 1,
+        "contact/index.html": 1,
+        "features/index.html": 1,
+        "index.html": 1,
+        "login/index.html": 1,
+        "pricing/index.html": 1,
+        "signup/index.html": 1,
+        "tags/blog/2/index.html": 1,
+        "tags/blog/index.html": 1,
+        "tags/email/index.html": 1,
+        "tags/marketing/2/index.html": 1,
+        "tags/marketing/index.html": 1,
+        "tags/showcase/index.html": 1,
+        "tags/technology/index.html": 1
+      },
+      "total": 25
+    },
+    "2:0:footer:link_text": {
+      "original": "Contact",
+      "value": null,
+      "pages": {
+        "404.html": 1,
+        "about/index.html": 1,
+        "blog/2/index.html": 1,
+        "blog/3/index.html": 1,
+        "blog/5-things-to-improve-your-email-templates/index.html": 1,
+        "blog/7-things-you-didnt-know-about-email/index.html": 1,
+        "blog/best-email-sending-services/index.html": 1,
+        "blog/blog-showcase/index.html": 1,
+        "blog/email-delivery-tips/index.html": 1,
+        "blog/how-to-host-better-email-marketing-campaigns/index.html": 1,
+        "blog/index.html": 1,
+        "blog/what-are-the-best-email-clients/index.html": 1,
+        "contact/index.html": 1,
+        "features/index.html": 1,
+        "index.html": 1,
+        "login/index.html": 1,
+        "pricing/index.html": 1,
+        "signup/index.html": 1,
+        "tags/blog/2/index.html": 1,
+        "tags/blog/index.html": 1,
+        "tags/email/index.html": 1,
+        "tags/marketing/2/index.html": 1,
+        "tags/marketing/index.html": 1,
+        "tags/showcase/index.html": 1,
+        "tags/technology/index.html": 1
+      },
+      "total": 25
+    },
+    "2:footer:title": {
+      "original": "Company",
+      "value": null,
+      "pages": {
+        "404.html": 1,
+        "about/index.html": 1,
+        "blog/2/index.html": 1,
+        "blog/3/index.html": 1,
+        "blog/5-things-to-improve-your-email-templates/index.html": 1,
+        "blog/7-things-you-didnt-know-about-email/index.html": 1,
+        "blog/best-email-sending-services/index.html": 1,
+        "blog/blog-showcase/index.html": 1,
+        "blog/email-delivery-tips/index.html": 1,
+        "blog/how-to-host-better-email-marketing-campaigns/index.html": 1,
+        "blog/index.html": 1,
+        "blog/what-are-the-best-email-clients/index.html": 1,
+        "contact/index.html": 1,
+        "features/index.html": 1,
+        "index.html": 1,
+        "login/index.html": 1,
+        "pricing/index.html": 1,
+        "signup/index.html": 1,
+        "tags/blog/2/index.html": 1,
+        "tags/blog/index.html": 1,
+        "tags/email/index.html": 1,
+        "tags/marketing/2/index.html": 1,
+        "tags/marketing/index.html": 1,
+        "tags/showcase/index.html": 1,
+        "tags/technology/index.html": 1
+      },
+      "total": 25
+    },
+    "about:0:hero:button_text": {
       "original": "Try This Free",
       "value": null,
       "pages": {
@@ -57,31 +329,7 @@
       },
       "total": 1
     },
-    "about:feature:description": {
-      "original": "<p>This should automatically be added to the locales, and be available for translation in the visual editor.</p>\n",
-      "value": null,
-      "pages": {
-        "about/index.html": 1
-      },
-      "total": 1
-    },
-    "about:feature:title": {
-      "original": " A new block ",
-      "value": null,
-      "pages": {
-        "about/index.html": 1
-      },
-      "total": 1
-    },
-    "about:hero:button_text": {
-      "original": "Try This Free",
-      "value": null,
-      "pages": {
-        "about/index.html": 1
-      },
-      "total": 1
-    },
-    "about:hero:description": {
+    "about:0:hero:description": {
       "original": "<p>We're here to breathe new air into email marketing and help grow your business.</p>\n",
       "value": null,
       "pages": {
@@ -89,7 +337,7 @@
       },
       "total": 1
     },
-    "about:hero:title": {
+    "about:0:hero:title": {
       "original": " On a mission to change email marketing ",
       "value": null,
       "pages": {
@@ -97,31 +345,151 @@
       },
       "total": 1
     },
-    "about:team:designation": {
-      "original": " Co-Founder &amp; CEO ",
-      "value": null,
-      "pages": {
-        "about/index.html": 8
-      },
-      "total": 8
-    },
-    "about:team:name": {
-      "original": " Nikolas Mcconnell ",
-      "value": null,
-      "pages": {
-        "about/index.html": 8
-      },
-      "total": 8
-    },
-    "about:team:title": {
-      "original": " Our leadership team ",
+    "about:1:feature:button_text": {
+      "original": "Try This Free",
       "value": null,
       "pages": {
         "about/index.html": 1
       },
       "total": 1
     },
-    "about:video_left_right:button_text": {
+    "about:1:feature:description": {
+      "original": "<p>This should automatically be added to the locales, and be available for translation in the visual editor.</p>\n",
+      "value": null,
+      "pages": {
+        "about/index.html": 1
+      },
+      "total": 1
+    },
+    "about:1:feature:title": {
+      "original": " A new block ",
+      "value": null,
+      "pages": {
+        "about/index.html": 1
+      },
+      "total": 1
+    },
+    "about:2:0:counter:prefix": {
+      "original": " $ ",
+      "value": null,
+      "pages": {
+        "about/index.html": 1
+      },
+      "total": 1
+    },
+    "about:2:0:counter:suffix": {
+      "original": " m ",
+      "value": null,
+      "pages": {
+        "about/index.html": 1
+      },
+      "total": 1
+    },
+    "about:2:0:counter:text": {
+      "original": " Venture capital raised ",
+      "value": null,
+      "pages": {
+        "about/index.html": 1
+      },
+      "total": 1
+    },
+    "about:2:1:counter:prefix": {
+      "original": "  ",
+      "value": null,
+      "pages": {
+        "about/index.html": 1
+      },
+      "total": 1
+    },
+    "about:2:1:counter:suffix": {
+      "original": "  ",
+      "value": null,
+      "pages": {
+        "about/index.html": 1
+      },
+      "total": 1
+    },
+    "about:2:1:counter:text": {
+      "original": " Established in ",
+      "value": null,
+      "pages": {
+        "about/index.html": 1
+      },
+      "total": 1
+    },
+    "about:2:2:counter:prefix": {
+      "original": "  ",
+      "value": null,
+      "pages": {
+        "about/index.html": 1
+      },
+      "total": 1
+    },
+    "about:2:2:counter:suffix": {
+      "original": " + ",
+      "value": null,
+      "pages": {
+        "about/index.html": 1
+      },
+      "total": 1
+    },
+    "about:2:2:counter:text": {
+      "original": " Amazing team members ",
+      "value": null,
+      "pages": {
+        "about/index.html": 1
+      },
+      "total": 1
+    },
+    "about:2:3:counter:prefix": {
+      "original": "  ",
+      "value": null,
+      "pages": {
+        "about/index.html": 1
+      },
+      "total": 1
+    },
+    "about:2:3:counter:suffix": {
+      "original": " + ",
+      "value": null,
+      "pages": {
+        "about/index.html": 1
+      },
+      "total": 1
+    },
+    "about:2:3:counter:text": {
+      "original": " Active users and growing ",
+      "value": null,
+      "pages": {
+        "about/index.html": 1
+      },
+      "total": 1
+    },
+    "about:2:counter:description": {
+      "original": "<p>We've built Sendit from the ground up the help grow your business faster.</p>\n",
+      "value": null,
+      "pages": {
+        "about/index.html": 1
+      },
+      "total": 1
+    },
+    "about:2:counter:title": {
+      "original": "Built for your",
+      "value": null,
+      "pages": {
+        "about/index.html": 1
+      },
+      "total": 1
+    },
+    "about:2:counter:title_suffix": {
+      "original": " Business ",
+      "value": null,
+      "pages": {
+        "about/index.html": 1
+      },
+      "total": 1
+    },
+    "about:3:video_left_right:button_text": {
       "original": "Follow on Linkedin",
       "value": null,
       "pages": {
@@ -129,7 +497,7 @@
       },
       "total": 1
     },
-    "about:video_left_right:description": {
+    "about:3:video_left_right:description": {
       "original": "<p>Our team has decades of experience working with email marketing campaigns and we’re passionate about helping you connect with your customers.</p>\n",
       "value": null,
       "pages": {
@@ -137,7 +505,7 @@
       },
       "total": 1
     },
-    "about:video_left_right:title": {
+    "about:3:video_left_right:title": {
       "original": " We love what we do ",
       "value": null,
       "pages": {
@@ -145,7 +513,143 @@
       },
       "total": 1
     },
-    "contact:simple_hero:description": {
+    "about:4:0:team:designation": {
+      "original": " Co-Founder &amp; CEO ",
+      "value": null,
+      "pages": {
+        "about/index.html": 1
+      },
+      "total": 1
+    },
+    "about:4:0:team:name": {
+      "original": " Nikolas Mcconnell ",
+      "value": null,
+      "pages": {
+        "about/index.html": 1
+      },
+      "total": 1
+    },
+    "about:4:1:team:designation": {
+      "original": " CMO ",
+      "value": null,
+      "pages": {
+        "about/index.html": 1
+      },
+      "total": 1
+    },
+    "about:4:1:team:name": {
+      "original": " Keiren Mcculloch ",
+      "value": null,
+      "pages": {
+        "about/index.html": 1
+      },
+      "total": 1
+    },
+    "about:4:2:team:designation": {
+      "original": " Head of Marketing ",
+      "value": null,
+      "pages": {
+        "about/index.html": 1
+      },
+      "total": 1
+    },
+    "about:4:2:team:name": {
+      "original": " Piers Reyes ",
+      "value": null,
+      "pages": {
+        "about/index.html": 1
+      },
+      "total": 1
+    },
+    "about:4:3:team:designation": {
+      "original": " Co-founder &amp; CTO ",
+      "value": null,
+      "pages": {
+        "about/index.html": 1
+      },
+      "total": 1
+    },
+    "about:4:3:team:name": {
+      "original": " Zachary Arias ",
+      "value": null,
+      "pages": {
+        "about/index.html": 1
+      },
+      "total": 1
+    },
+    "about:4:4:team:designation": {
+      "original": " Head of Sales ",
+      "value": null,
+      "pages": {
+        "about/index.html": 1
+      },
+      "total": 1
+    },
+    "about:4:4:team:name": {
+      "original": " Harmony Dunlop ",
+      "value": null,
+      "pages": {
+        "about/index.html": 1
+      },
+      "total": 1
+    },
+    "about:4:5:team:designation": {
+      "original": " CRO ",
+      "value": null,
+      "pages": {
+        "about/index.html": 1
+      },
+      "total": 1
+    },
+    "about:4:5:team:name": {
+      "original": " Elize Schwartz ",
+      "value": null,
+      "pages": {
+        "about/index.html": 1
+      },
+      "total": 1
+    },
+    "about:4:6:team:designation": {
+      "original": " Head of Design ",
+      "value": null,
+      "pages": {
+        "about/index.html": 1
+      },
+      "total": 1
+    },
+    "about:4:6:team:name": {
+      "original": " Coen Simmons ",
+      "value": null,
+      "pages": {
+        "about/index.html": 1
+      },
+      "total": 1
+    },
+    "about:4:7:team:designation": {
+      "original": " Head of People ",
+      "value": null,
+      "pages": {
+        "about/index.html": 1
+      },
+      "total": 1
+    },
+    "about:4:7:team:name": {
+      "original": " Fran Figureson ",
+      "value": null,
+      "pages": {
+        "about/index.html": 1
+      },
+      "total": 1
+    },
+    "about:4:team:title": {
+      "original": " Our leadership team ",
+      "value": null,
+      "pages": {
+        "about/index.html": 1
+      },
+      "total": 1
+    },
+    "contact:0:simple_hero:description": {
       "original": "<p>Have a question or suggestion? Feel free to drop us a message!</p>\n",
       "value": null,
       "pages": {
@@ -153,7 +657,7 @@
       },
       "total": 1
     },
-    "contact:simple_hero:title": {
+    "contact:0:simple_hero:title": {
       "original": "Let's talk.",
       "value": null,
       "pages": {
@@ -161,55 +665,7 @@
       },
       "total": 1
     },
-    "features:feature:button_text": {
-      "original": "Try This Free",
-      "value": null,
-      "pages": {
-        "features/index.html": 3
-      },
-      "total": 3
-    },
-    "features:feature:description": {
-      "original": "<p>Make your message stand out, thanks to the guided copywriting and design features, triggering a positive response from your customers.</p>\n",
-      "value": null,
-      "pages": {
-        "features/index.html": 3
-      },
-      "total": 3
-    },
-    "features:feature:title": {
-      "original": " Simply click and send ",
-      "value": null,
-      "pages": {
-        "features/index.html": 3
-      },
-      "total": 3
-    },
-    "features:header:description": {
-      "original": "<p>Sendit is the most complete solution to create beautiful email designs, manage mails and send them out at the best price.</p>\n",
-      "value": null,
-      "pages": {
-        "features/index.html": 1
-      },
-      "total": 1
-    },
-    "features:header:title": {
-      "original": "Sendit ",
-      "value": null,
-      "pages": {
-        "features/index.html": 1
-      },
-      "total": 1
-    },
-    "features:header:title_suffix": {
-      "original": "Features",
-      "value": null,
-      "pages": {
-        "features/index.html": 1
-      },
-      "total": 1
-    },
-    "features:hero:button_text": {
+    "features:0:hero:button_text": {
       "original": "Try This Free",
       "value": null,
       "pages": {
@@ -217,7 +673,7 @@
       },
       "total": 1
     },
-    "features:hero:description": {
+    "features:0:hero:description": {
       "original": "<p>Sendit will change the way you think about email and marketing automation.</p>\n",
       "value": null,
       "pages": {
@@ -225,7 +681,7 @@
       },
       "total": 1
     },
-    "features:hero:title": {
+    "features:0:hero:title": {
       "original": " Run the best campaigns ",
       "value": null,
       "pages": {
@@ -233,15 +689,183 @@
       },
       "total": 1
     },
-    "features:testimonial:author": {
+    "features:1:header:description": {
+      "original": "<p>Sendit is the most complete solution to create beautiful email designs, manage mails and send them out at the best price.</p>\n",
+      "value": null,
+      "pages": {
+        "features/index.html": 1
+      },
+      "total": 1
+    },
+    "features:1:header:title": {
+      "original": "Sendit ",
+      "value": null,
+      "pages": {
+        "features/index.html": 1
+      },
+      "total": 1
+    },
+    "features:1:header:title_suffix": {
+      "original": "Features",
+      "value": null,
+      "pages": {
+        "features/index.html": 1
+      },
+      "total": 1
+    },
+    "features:2:feature:button_text": {
+      "original": "Try This Free",
+      "value": null,
+      "pages": {
+        "features/index.html": 1
+      },
+      "total": 1
+    },
+    "features:2:feature:description": {
+      "original": "<p>Make your message stand out, thanks to the guided copywriting and design features, triggering a positive response from your customers.</p>\n",
+      "value": null,
+      "pages": {
+        "features/index.html": 1
+      },
+      "total": 1
+    },
+    "features:2:feature:title": {
+      "original": " Simply click and send ",
+      "value": null,
+      "pages": {
+        "features/index.html": 1
+      },
+      "total": 1
+    },
+    "features:3:feature:button_text": {
+      "original": "Try This Free",
+      "value": null,
+      "pages": {
+        "features/index.html": 1
+      },
+      "total": 1
+    },
+    "features:3:feature:description": {
+      "original": "<p>Sales analytics and automation made simple: see every sales lead in one place, regardless of where it came from.</p>\n",
+      "value": null,
+      "pages": {
+        "features/index.html": 1
+      },
+      "total": 1
+    },
+    "features:3:feature:title": {
+      "original": " See every lead in one place ",
+      "value": null,
+      "pages": {
+        "features/index.html": 1
+      },
+      "total": 1
+    },
+    "features:4:feature:button_text": {
+      "original": "Try This Free",
+      "value": null,
+      "pages": {
+        "features/index.html": 1
+      },
+      "total": 1
+    },
+    "features:4:feature:description": {
+      "original": "<p>Sendit is used by everyone from small businesses to fortune 500 companies. Browse our collection of email marketing templates and start sending beautiful emails in minutes.</p>\n",
+      "value": null,
+      "pages": {
+        "features/index.html": 1
+      },
+      "total": 1
+    },
+    "features:4:feature:title": {
+      "original": " Free templates to get you started ",
+      "value": null,
+      "pages": {
+        "features/index.html": 1
+      },
+      "total": 1
+    },
+    "features:5:0:testimonial:author": {
+      "original": " Pete Fish ",
+      "value": null,
+      "pages": {
+        "features/index.html": 1
+      },
+      "total": 1
+    },
+    "features:5:0:testimonial:designation": {
+      "original": " CMO at Clear Appeal ",
+      "value": null,
+      "pages": {
+        "features/index.html": 1
+      },
+      "total": 1
+    },
+    "features:5:0:testimonial:message": {
+      "original": " Sendit has taken Clear Appeal to the next level with its beautiful email campaigns. ",
+      "value": null,
+      "pages": {
+        "features/index.html": 1
+      },
+      "total": 1
+    },
+    "features:5:1:testimonial:author": {
+      "original": " Dolly Watson ",
+      "value": null,
+      "pages": {
+        "features/index.html": 1
+      },
+      "total": 1
+    },
+    "features:5:1:testimonial:designation": {
+      "original": " Digital Marketer at Time Cop ",
+      "value": null,
+      "pages": {
+        "features/index.html": 1
+      },
+      "total": 1
+    },
+    "features:5:1:testimonial:message": {
+      "original": " Wow, what a difference Sendit has made. My customers are more engaged than ever. ",
+      "value": null,
+      "pages": {
+        "features/index.html": 1
+      },
+      "total": 1
+    },
+    "features:5:2:testimonial:author": {
+      "original": " Simon Moriarty ",
+      "value": null,
+      "pages": {
+        "features/index.html": 1
+      },
+      "total": 1
+    },
+    "features:5:2:testimonial:designation": {
+      "original": " Head of Marketing at Pinnacle Mines ",
+      "value": null,
+      "pages": {
+        "features/index.html": 1
+      },
+      "total": 1
+    },
+    "features:5:2:testimonial:message": {
+      "original": " I can't imagine life without Sendit now, I have no idea how we were surviving before. ",
+      "value": null,
+      "pages": {
+        "features/index.html": 1
+      },
+      "total": 1
+    },
+    "features:5:testimonial:author": {
       "original": "",
       "value": null,
       "pages": {
-        "features/index.html": 4
+        "features/index.html": 1
       },
-      "total": 4
+      "total": 1
     },
-    "features:testimonial:description": {
+    "features:5:testimonial:description": {
       "original": "<p>Customers from around the world are building game changing email marketing campaigns.</p>\n",
       "value": null,
       "pages": {
@@ -249,23 +873,23 @@
       },
       "total": 1
     },
-    "features:testimonial:designation": {
+    "features:5:testimonial:designation": {
       "original": "",
       "value": null,
       "pages": {
-        "features/index.html": 4
+        "features/index.html": 1
       },
-      "total": 4
+      "total": 1
     },
-    "features:testimonial:message": {
+    "features:5:testimonial:message": {
       "original": "",
       "value": null,
       "pages": {
-        "features/index.html": 4
+        "features/index.html": 1
       },
-      "total": 4
+      "total": 1
     },
-    "features:testimonial:title": {
+    "features:5:testimonial:title": {
       "original": "Build relationships that",
       "value": null,
       "pages": {
@@ -273,7 +897,7 @@
       },
       "total": 1
     },
-    "features:testimonial:title_suffix": {
+    "features:5:testimonial:title_suffix": {
       "original": " last ",
       "value": null,
       "pages": {
@@ -313,167 +937,7 @@
       },
       "total": 25
     },
-    "footer:link_text": {
-      "original": "Home",
-      "value": null,
-      "pages": {
-        "404.html": 7,
-        "about/index.html": 7,
-        "blog/2/index.html": 7,
-        "blog/3/index.html": 7,
-        "blog/5-things-to-improve-your-email-templates/index.html": 7,
-        "blog/7-things-you-didnt-know-about-email/index.html": 7,
-        "blog/best-email-sending-services/index.html": 7,
-        "blog/blog-showcase/index.html": 7,
-        "blog/email-delivery-tips/index.html": 7,
-        "blog/how-to-host-better-email-marketing-campaigns/index.html": 7,
-        "blog/index.html": 7,
-        "blog/what-are-the-best-email-clients/index.html": 7,
-        "contact/index.html": 7,
-        "features/index.html": 7,
-        "index.html": 7,
-        "login/index.html": 7,
-        "pricing/index.html": 7,
-        "signup/index.html": 7,
-        "tags/blog/2/index.html": 7,
-        "tags/blog/index.html": 7,
-        "tags/email/index.html": 7,
-        "tags/marketing/2/index.html": 7,
-        "tags/marketing/index.html": 7,
-        "tags/showcase/index.html": 7,
-        "tags/technology/index.html": 7
-      },
-      "total": 175
-    },
-    "footer:title": {
-      "original": "Main Pages",
-      "value": null,
-      "pages": {
-        "404.html": 3,
-        "about/index.html": 3,
-        "blog/2/index.html": 3,
-        "blog/3/index.html": 3,
-        "blog/5-things-to-improve-your-email-templates/index.html": 3,
-        "blog/7-things-you-didnt-know-about-email/index.html": 3,
-        "blog/best-email-sending-services/index.html": 3,
-        "blog/blog-showcase/index.html": 3,
-        "blog/email-delivery-tips/index.html": 3,
-        "blog/how-to-host-better-email-marketing-campaigns/index.html": 3,
-        "blog/index.html": 3,
-        "blog/what-are-the-best-email-clients/index.html": 3,
-        "contact/index.html": 3,
-        "features/index.html": 3,
-        "index.html": 3,
-        "login/index.html": 3,
-        "pricing/index.html": 3,
-        "signup/index.html": 3,
-        "tags/blog/2/index.html": 3,
-        "tags/blog/index.html": 3,
-        "tags/email/index.html": 3,
-        "tags/marketing/2/index.html": 3,
-        "tags/marketing/index.html": 3,
-        "tags/showcase/index.html": 3,
-        "tags/technology/index.html": 3
-      },
-      "total": 75
-    },
-    "index:counter:description": {
-      "original": "<p>We have an extensive library of pre-written sales emails, proven marketing templates, and more to get you started on your next project.</p>\n",
-      "value": null,
-      "pages": {
-        "index.html": 1
-      },
-      "total": 1
-    },
-    "index:counter:prefix": {
-      "original": " $ ",
-      "value": null,
-      "pages": {
-        "index.html": 4
-      },
-      "total": 4
-    },
-    "index:counter:suffix": {
-      "original": " m ",
-      "value": null,
-      "pages": {
-        "index.html": 4
-      },
-      "total": 4
-    },
-    "index:counter:text": {
-      "original": " Venture capital raised ",
-      "value": null,
-      "pages": {
-        "index.html": 4
-      },
-      "total": 4
-    },
-    "index:counter:title": {
-      "original": "Scale your",
-      "value": null,
-      "pages": {
-        "index.html": 1
-      },
-      "total": 1
-    },
-    "index:counter:title_suffix": {
-      "original": " Business ",
-      "value": null,
-      "pages": {
-        "index.html": 1
-      },
-      "total": 1
-    },
-    "index:feature:button_text": {
-      "original": "Try This Free",
-      "value": null,
-      "pages": {
-        "index.html": 3
-      },
-      "total": 3
-    },
-    "index:feature:description": {
-      "original": "<p>Send an email campaign with one click, in just minutes. Automate your emails and content, while keeping the human touch.</p>\n",
-      "value": null,
-      "pages": {
-        "index.html": 3
-      },
-      "total": 3
-    },
-    "index:feature:title": {
-      "original": " Email Campaign in one minute ",
-      "value": null,
-      "pages": {
-        "index.html": 3
-      },
-      "total": 3
-    },
-    "index:header:description": {
-      "original": "<p>Our platform offers the most advanced features including automated email content creation, dynamic personalization, and customer segmentation.</p>\n",
-      "value": null,
-      "pages": {
-        "index.html": 1
-      },
-      "total": 1
-    },
-    "index:header:title": {
-      "original": "Sendit ",
-      "value": null,
-      "pages": {
-        "index.html": 1
-      },
-      "total": 1
-    },
-    "index:header:title_suffix": {
-      "original": "Features",
-      "value": null,
-      "pages": {
-        "index.html": 1
-      },
-      "total": 1
-    },
-    "index:hero:button_text": {
+    "index:0:hero:button_text": {
       "original": "Try This Free",
       "value": null,
       "pages": {
@@ -481,7 +945,7 @@
       },
       "total": 1
     },
-    "index:hero:description": {
+    "index:0:hero:description": {
       "original": "<p>With Sendit, you can quickly create beautiful rich emails that capture a reader's attention, engage them, and convert them into customers.</p>\n",
       "value": null,
       "pages": {
@@ -489,7 +953,7 @@
       },
       "total": 1
     },
-    "index:hero:title": {
+    "index:0:hero:title": {
       "original": " Beautiful web campaigns ",
       "value": null,
       "pages": {
@@ -497,15 +961,303 @@
       },
       "total": 1
     },
-    "index:testimonial:author": {
+    "index:1:0:counter:prefix": {
+      "original": " $ ",
+      "value": null,
+      "pages": {
+        "index.html": 1
+      },
+      "total": 1
+    },
+    "index:1:0:counter:suffix": {
+      "original": " m ",
+      "value": null,
+      "pages": {
+        "index.html": 1
+      },
+      "total": 1
+    },
+    "index:1:0:counter:text": {
+      "original": " Venture capital raised ",
+      "value": null,
+      "pages": {
+        "index.html": 1
+      },
+      "total": 1
+    },
+    "index:1:1:counter:prefix": {
+      "original": "  ",
+      "value": null,
+      "pages": {
+        "index.html": 1
+      },
+      "total": 1
+    },
+    "index:1:1:counter:suffix": {
+      "original": "  ",
+      "value": null,
+      "pages": {
+        "index.html": 1
+      },
+      "total": 1
+    },
+    "index:1:1:counter:text": {
+      "original": " Established in ",
+      "value": null,
+      "pages": {
+        "index.html": 1
+      },
+      "total": 1
+    },
+    "index:1:2:counter:prefix": {
+      "original": "  ",
+      "value": null,
+      "pages": {
+        "index.html": 1
+      },
+      "total": 1
+    },
+    "index:1:2:counter:suffix": {
+      "original": " + ",
+      "value": null,
+      "pages": {
+        "index.html": 1
+      },
+      "total": 1
+    },
+    "index:1:2:counter:text": {
+      "original": " Supported languages ",
+      "value": null,
+      "pages": {
+        "index.html": 1
+      },
+      "total": 1
+    },
+    "index:1:3:counter:prefix": {
+      "original": "  ",
+      "value": null,
+      "pages": {
+        "index.html": 1
+      },
+      "total": 1
+    },
+    "index:1:3:counter:suffix": {
+      "original": " + ",
+      "value": null,
+      "pages": {
+        "index.html": 1
+      },
+      "total": 1
+    },
+    "index:1:3:counter:text": {
+      "original": " Active users and growing ",
+      "value": null,
+      "pages": {
+        "index.html": 1
+      },
+      "total": 1
+    },
+    "index:1:counter:description": {
+      "original": "<p>We have an extensive library of pre-written sales emails, proven marketing templates, and more to get you started on your next project.</p>\n",
+      "value": null,
+      "pages": {
+        "index.html": 1
+      },
+      "total": 1
+    },
+    "index:1:counter:title": {
+      "original": "Scale your",
+      "value": null,
+      "pages": {
+        "index.html": 1
+      },
+      "total": 1
+    },
+    "index:1:counter:title_suffix": {
+      "original": " Business ",
+      "value": null,
+      "pages": {
+        "index.html": 1
+      },
+      "total": 1
+    },
+    "index:3:header:description": {
+      "original": "<p>Our platform offers the most advanced features including automated email content creation, dynamic personalization, and customer segmentation.</p>\n",
+      "value": null,
+      "pages": {
+        "index.html": 1
+      },
+      "total": 1
+    },
+    "index:3:header:title": {
+      "original": "Sendit ",
+      "value": null,
+      "pages": {
+        "index.html": 1
+      },
+      "total": 1
+    },
+    "index:3:header:title_suffix": {
+      "original": "Features",
+      "value": null,
+      "pages": {
+        "index.html": 1
+      },
+      "total": 1
+    },
+    "index:4:feature:button_text": {
+      "original": "Try This Free",
+      "value": null,
+      "pages": {
+        "index.html": 1
+      },
+      "total": 1
+    },
+    "index:4:feature:description": {
+      "original": "<p>Send an email campaign with one click, in just minutes. Automate your emails and content, while keeping the human touch.</p>\n",
+      "value": null,
+      "pages": {
+        "index.html": 1
+      },
+      "total": 1
+    },
+    "index:4:feature:title": {
+      "original": " Email Campaign in one minute ",
+      "value": null,
+      "pages": {
+        "index.html": 1
+      },
+      "total": 1
+    },
+    "index:5:feature:button_text": {
+      "original": "Try This Free",
+      "value": null,
+      "pages": {
+        "index.html": 1
+      },
+      "total": 1
+    },
+    "index:5:feature:description": {
+      "original": "<p>Sales analytics and automation made simple: see every sales lead in one place, regardless of where it came from.</p>\n",
+      "value": null,
+      "pages": {
+        "index.html": 1
+      },
+      "total": 1
+    },
+    "index:5:feature:title": {
+      "original": " See every Lead in one Place ",
+      "value": null,
+      "pages": {
+        "index.html": 1
+      },
+      "total": 1
+    },
+    "index:6:feature:button_text": {
+      "original": "Try This Free",
+      "value": null,
+      "pages": {
+        "index.html": 1
+      },
+      "total": 1
+    },
+    "index:6:feature:description": {
+      "original": "<p>Sendit is used by everyone from small businesses to fortune 500 companies. Browse our collection of email marketing templates and start sending beautiful emails in minutes.</p>\n",
+      "value": null,
+      "pages": {
+        "index.html": 1
+      },
+      "total": 1
+    },
+    "index:6:feature:title": {
+      "original": " 100% free uploads ",
+      "value": null,
+      "pages": {
+        "index.html": 1
+      },
+      "total": 1
+    },
+    "index:7:0:testimonial:author": {
+      "original": " Pete Fish ",
+      "value": null,
+      "pages": {
+        "index.html": 1
+      },
+      "total": 1
+    },
+    "index:7:0:testimonial:designation": {
+      "original": " CMO at Clear Appeal ",
+      "value": null,
+      "pages": {
+        "index.html": 1
+      },
+      "total": 1
+    },
+    "index:7:0:testimonial:message": {
+      "original": " Sendit has taken Clear Appeal to the next level with its beautiful email campaigns. ",
+      "value": null,
+      "pages": {
+        "index.html": 1
+      },
+      "total": 1
+    },
+    "index:7:1:testimonial:author": {
+      "original": " Dolly Watson ",
+      "value": null,
+      "pages": {
+        "index.html": 1
+      },
+      "total": 1
+    },
+    "index:7:1:testimonial:designation": {
+      "original": " Digital Marketer at Time Cop ",
+      "value": null,
+      "pages": {
+        "index.html": 1
+      },
+      "total": 1
+    },
+    "index:7:1:testimonial:message": {
+      "original": " Wow, what a difference Sendit has made. My customers are more engaged than ever. ",
+      "value": null,
+      "pages": {
+        "index.html": 1
+      },
+      "total": 1
+    },
+    "index:7:2:testimonial:author": {
+      "original": " Simon Moriarty ",
+      "value": null,
+      "pages": {
+        "index.html": 1
+      },
+      "total": 1
+    },
+    "index:7:2:testimonial:designation": {
+      "original": " Head of Marketing at Pinnacle Mines ",
+      "value": null,
+      "pages": {
+        "index.html": 1
+      },
+      "total": 1
+    },
+    "index:7:2:testimonial:message": {
+      "original": " I can't imagine life without Sendit now, I have no idea how we were surviving before. ",
+      "value": null,
+      "pages": {
+        "index.html": 1
+      },
+      "total": 1
+    },
+    "index:7:testimonial:author": {
       "original": "",
       "value": null,
       "pages": {
-        "index.html": 4
+        "index.html": 1
       },
-      "total": 4
+      "total": 1
     },
-    "index:testimonial:description": {
+    "index:7:testimonial:description": {
       "original": "<p>Customers from around the world are building game changing email marketing campaigns.</p>\n",
       "value": null,
       "pages": {
@@ -513,23 +1265,23 @@
       },
       "total": 1
     },
-    "index:testimonial:designation": {
+    "index:7:testimonial:designation": {
       "original": "",
       "value": null,
       "pages": {
-        "index.html": 4
+        "index.html": 1
       },
-      "total": 4
+      "total": 1
     },
-    "index:testimonial:message": {
+    "index:7:testimonial:message": {
       "original": "",
       "value": null,
       "pages": {
-        "index.html": 4
+        "index.html": 1
       },
-      "total": 4
+      "total": 1
     },
-    "index:testimonial:title": {
+    "index:7:testimonial:title": {
       "original": "Build relationships that",
       "value": null,
       "pages": {
@@ -537,7 +1289,7 @@
       },
       "total": 1
     },
-    "index:testimonial:title_suffix": {
+    "index:7:testimonial:title_suffix": {
       "original": " last ",
       "value": null,
       "pages": {
@@ -545,103 +1297,7 @@
       },
       "total": 1
     },
-    "pricing:faq:description": {
-      "original": "<p>We believe that a good email marketing strategy is the key to growth. So we're helping you grow your business with tools and resources that make email marketing easy.</p>\n",
-      "value": null,
-      "pages": {
-        "pricing/index.html": 1
-      },
-      "total": 1
-    },
-    "pricing:faq:title": {
-      "original": "Have",
-      "value": null,
-      "pages": {
-        "pricing/index.html": 1
-      },
-      "total": 1
-    },
-    "pricing:faq:title_suffix": {
-      "original": " Questions? ",
-      "value": null,
-      "pages": {
-        "pricing/index.html": 1
-      },
-      "total": 1
-    },
-    "pricing:faq_item:description": {
-      "original": "",
-      "value": null,
-      "pages": {
-        "pricing/index.html": 6
-      },
-      "total": 6
-    },
-    "pricing:faq_item:title": {
-      "original": "",
-      "value": null,
-      "pages": {
-        "pricing/index.html": 6
-      },
-      "total": 6
-    },
-    "pricing:pricing_item:button_text": {
-      "original": "Try This Free",
-      "value": null,
-      "pages": {
-        "pricing/index.html": 3
-      },
-      "total": 3
-    },
-    "pricing:pricing_item:currency_symbol": {
-      "original": "$",
-      "value": null,
-      "pages": {
-        "pricing/index.html": 5
-      },
-      "total": 5
-    },
-    "pricing:pricing_item:description": {
-      "original": " Everything you need to get started. ",
-      "value": null,
-      "pages": {
-        "pricing/index.html": 3
-      },
-      "total": 3
-    },
-    "pricing:pricing_item:discount_price": {
-      "original": "125",
-      "value": null,
-      "pages": {
-        "pricing/index.html": 2
-      },
-      "total": 2
-    },
-    "pricing:pricing_item:feature_item": {
-      "original": "",
-      "value": null,
-      "pages": {
-        "pricing/index.html": 33
-      },
-      "total": 33
-    },
-    "pricing:pricing_item:price": {
-      "original": "0",
-      "value": null,
-      "pages": {
-        "pricing/index.html": 3
-      },
-      "total": 3
-    },
-    "pricing:pricing_item:tier": {
-      "original": " Free ",
-      "value": null,
-      "pages": {
-        "pricing/index.html": 3
-      },
-      "total": 3
-    },
-    "pricing:simple_hero:description": {
+    "pricing:0:simple_hero:description": {
       "original": "<p>Sendit is easy to get started and we have a pricing plan for businesses of all sizes.</p>\n",
       "value": null,
       "pages": {
@@ -649,8 +1305,504 @@
       },
       "total": 1
     },
-    "pricing:simple_hero:title": {
+    "pricing:0:simple_hero:title": {
       "original": "A plan for everyone",
+      "value": null,
+      "pages": {
+        "pricing/index.html": 1
+      },
+      "total": 1
+    },
+    "pricing:1:0:0:pricing_item:feature_item": {
+      "original": "1 Email Campaign",
+      "value": null,
+      "pages": {
+        "pricing/index.html": 1
+      },
+      "total": 1
+    },
+    "pricing:1:0:1:pricing_item:feature_item": {
+      "original": "1 Year Premium Support",
+      "value": null,
+      "pages": {
+        "pricing/index.html": 1
+      },
+      "total": 1
+    },
+    "pricing:1:0:2:pricing_item:feature_item": {
+      "original": "Regular Update for 1 Year",
+      "value": null,
+      "pages": {
+        "pricing/index.html": 1
+      },
+      "total": 1
+    },
+    "pricing:1:0:3:pricing_item:feature_item": {
+      "original": "90+ Widgets &amp; Extensions",
+      "value": null,
+      "pages": {
+        "pricing/index.html": 1
+      },
+      "total": 1
+    },
+    "pricing:1:0:4:pricing_item:feature_item": {
+      "original": "23+ Templates",
+      "value": null,
+      "pages": {
+        "pricing/index.html": 1
+      },
+      "total": 1
+    },
+    "pricing:1:0:5:pricing_item:feature_item": {
+      "original": "Over 800 Section Blocks",
+      "value": null,
+      "pages": {
+        "pricing/index.html": 1
+      },
+      "total": 1
+    },
+    "pricing:1:0:6:pricing_item:feature_item": {
+      "original": "Support",
+      "value": null,
+      "pages": {
+        "pricing/index.html": 1
+      },
+      "total": 1
+    },
+    "pricing:1:0:7:pricing_item:feature_item": {
+      "original": "3 filters",
+      "value": null,
+      "pages": {
+        "pricing/index.html": 1
+      },
+      "total": 1
+    },
+    "pricing:1:0:8:pricing_item:feature_item": {
+      "original": "Unlimited activity history",
+      "value": null,
+      "pages": {
+        "pricing/index.html": 1
+      },
+      "total": 1
+    },
+    "pricing:1:0:pricing_item:button_text": {
+      "original": "Try This Free",
+      "value": null,
+      "pages": {
+        "pricing/index.html": 1
+      },
+      "total": 1
+    },
+    "pricing:1:0:pricing_item:currency_symbol": {
+      "original": "$",
+      "value": null,
+      "pages": {
+        "pricing/index.html": 1
+      },
+      "total": 1
+    },
+    "pricing:1:0:pricing_item:description": {
+      "original": " Everything you need to get started. ",
+      "value": null,
+      "pages": {
+        "pricing/index.html": 1
+      },
+      "total": 1
+    },
+    "pricing:1:0:pricing_item:feature_item": {
+      "original": "",
+      "value": null,
+      "pages": {
+        "pricing/index.html": 2
+      },
+      "total": 2
+    },
+    "pricing:1:0:pricing_item:price": {
+      "original": "0",
+      "value": null,
+      "pages": {
+        "pricing/index.html": 1
+      },
+      "total": 1
+    },
+    "pricing:1:0:pricing_item:tier": {
+      "original": " Free ",
+      "value": null,
+      "pages": {
+        "pricing/index.html": 1
+      },
+      "total": 1
+    },
+    "pricing:1:1:0:pricing_item:feature_item": {
+      "original": "1 Email Campaign",
+      "value": null,
+      "pages": {
+        "pricing/index.html": 1
+      },
+      "total": 1
+    },
+    "pricing:1:1:1:pricing_item:feature_item": {
+      "original": "1 Year Premium Support",
+      "value": null,
+      "pages": {
+        "pricing/index.html": 1
+      },
+      "total": 1
+    },
+    "pricing:1:1:2:pricing_item:feature_item": {
+      "original": "Regular Update for 1 Year",
+      "value": null,
+      "pages": {
+        "pricing/index.html": 1
+      },
+      "total": 1
+    },
+    "pricing:1:1:3:pricing_item:feature_item": {
+      "original": "90+ Widgets &amp; Extensions",
+      "value": null,
+      "pages": {
+        "pricing/index.html": 1
+      },
+      "total": 1
+    },
+    "pricing:1:1:4:pricing_item:feature_item": {
+      "original": "23+ Templates",
+      "value": null,
+      "pages": {
+        "pricing/index.html": 1
+      },
+      "total": 1
+    },
+    "pricing:1:1:5:pricing_item:feature_item": {
+      "original": "Over 800 Section Blocks",
+      "value": null,
+      "pages": {
+        "pricing/index.html": 1
+      },
+      "total": 1
+    },
+    "pricing:1:1:6:pricing_item:feature_item": {
+      "original": "Support",
+      "value": null,
+      "pages": {
+        "pricing/index.html": 1
+      },
+      "total": 1
+    },
+    "pricing:1:1:7:pricing_item:feature_item": {
+      "original": "3 filters",
+      "value": null,
+      "pages": {
+        "pricing/index.html": 1
+      },
+      "total": 1
+    },
+    "pricing:1:1:8:pricing_item:feature_item": {
+      "original": "Unlimited activity history",
+      "value": null,
+      "pages": {
+        "pricing/index.html": 1
+      },
+      "total": 1
+    },
+    "pricing:1:1:pricing_item:button_text": {
+      "original": "Try This Free",
+      "value": null,
+      "pages": {
+        "pricing/index.html": 1
+      },
+      "total": 1
+    },
+    "pricing:1:1:pricing_item:currency_symbol": {
+      "original": "$",
+      "value": null,
+      "pages": {
+        "pricing/index.html": 2
+      },
+      "total": 2
+    },
+    "pricing:1:1:pricing_item:description": {
+      "original": " More collaborative power and unlimited boards for fast-growing. ",
+      "value": null,
+      "pages": {
+        "pricing/index.html": 1
+      },
+      "total": 1
+    },
+    "pricing:1:1:pricing_item:discount_price": {
+      "original": "125",
+      "value": null,
+      "pages": {
+        "pricing/index.html": 1
+      },
+      "total": 1
+    },
+    "pricing:1:1:pricing_item:feature_item": {
+      "original": "",
+      "value": null,
+      "pages": {
+        "pricing/index.html": 2
+      },
+      "total": 2
+    },
+    "pricing:1:1:pricing_item:price": {
+      "original": "199",
+      "value": null,
+      "pages": {
+        "pricing/index.html": 1
+      },
+      "total": 1
+    },
+    "pricing:1:1:pricing_item:tier": {
+      "original": " Pro ",
+      "value": null,
+      "pages": {
+        "pricing/index.html": 1
+      },
+      "total": 1
+    },
+    "pricing:1:2:0:pricing_item:feature_item": {
+      "original": "1 Email Campaign",
+      "value": null,
+      "pages": {
+        "pricing/index.html": 1
+      },
+      "total": 1
+    },
+    "pricing:1:2:1:pricing_item:feature_item": {
+      "original": "1 Year Premium Support",
+      "value": null,
+      "pages": {
+        "pricing/index.html": 1
+      },
+      "total": 1
+    },
+    "pricing:1:2:2:pricing_item:feature_item": {
+      "original": "Regular Update for 1 Year",
+      "value": null,
+      "pages": {
+        "pricing/index.html": 1
+      },
+      "total": 1
+    },
+    "pricing:1:2:3:pricing_item:feature_item": {
+      "original": "90+ Widgets &amp; Extensions",
+      "value": null,
+      "pages": {
+        "pricing/index.html": 1
+      },
+      "total": 1
+    },
+    "pricing:1:2:4:pricing_item:feature_item": {
+      "original": "23+ Templates",
+      "value": null,
+      "pages": {
+        "pricing/index.html": 1
+      },
+      "total": 1
+    },
+    "pricing:1:2:5:pricing_item:feature_item": {
+      "original": "Over 800 Section Blocks",
+      "value": null,
+      "pages": {
+        "pricing/index.html": 1
+      },
+      "total": 1
+    },
+    "pricing:1:2:6:pricing_item:feature_item": {
+      "original": "Support",
+      "value": null,
+      "pages": {
+        "pricing/index.html": 1
+      },
+      "total": 1
+    },
+    "pricing:1:2:7:pricing_item:feature_item": {
+      "original": "3 filters",
+      "value": null,
+      "pages": {
+        "pricing/index.html": 1
+      },
+      "total": 1
+    },
+    "pricing:1:2:8:pricing_item:feature_item": {
+      "original": "Unlimited activity history",
+      "value": null,
+      "pages": {
+        "pricing/index.html": 1
+      },
+      "total": 1
+    },
+    "pricing:1:2:pricing_item:button_text": {
+      "original": "Try This Free",
+      "value": null,
+      "pages": {
+        "pricing/index.html": 1
+      },
+      "total": 1
+    },
+    "pricing:1:2:pricing_item:currency_symbol": {
+      "original": "$",
+      "value": null,
+      "pages": {
+        "pricing/index.html": 2
+      },
+      "total": 2
+    },
+    "pricing:1:2:pricing_item:description": {
+      "original": " For starters Includes unlimited members ",
+      "value": null,
+      "pages": {
+        "pricing/index.html": 1
+      },
+      "total": 1
+    },
+    "pricing:1:2:pricing_item:discount_price": {
+      "original": "350",
+      "value": null,
+      "pages": {
+        "pricing/index.html": 1
+      },
+      "total": 1
+    },
+    "pricing:1:2:pricing_item:feature_item": {
+      "original": "",
+      "value": null,
+      "pages": {
+        "pricing/index.html": 2
+      },
+      "total": 2
+    },
+    "pricing:1:2:pricing_item:price": {
+      "original": "499",
+      "value": null,
+      "pages": {
+        "pricing/index.html": 1
+      },
+      "total": 1
+    },
+    "pricing:1:2:pricing_item:tier": {
+      "original": " Business ",
+      "value": null,
+      "pages": {
+        "pricing/index.html": 1
+      },
+      "total": 1
+    },
+    "pricing:2:0:faq_item:description": {
+      "original": "<p>No, the prices include unlimited emails. Send to your heart's content.</p>\n",
+      "value": null,
+      "pages": {
+        "pricing/index.html": 1
+      },
+      "total": 1
+    },
+    "pricing:2:0:faq_item:title": {
+      "original": "Is there a maximum numbers of emails I can send each month?",
+      "value": null,
+      "pages": {
+        "pricing/index.html": 1
+      },
+      "total": 1
+    },
+    "pricing:2:1:faq_item:description": {
+      "original": "<p>Right here on this website, or contact our support team.</p>\n",
+      "value": null,
+      "pages": {
+        "pricing/index.html": 1
+      },
+      "total": 1
+    },
+    "pricing:2:1:faq_item:title": {
+      "original": "Where can I find out more information?",
+      "value": null,
+      "pages": {
+        "pricing/index.html": 1
+      },
+      "total": 1
+    },
+    "pricing:2:2:faq_item:description": {
+      "original": "<p>Yes, contact our support team and we'll get you set up on our non-profit plan.</p>\n",
+      "value": null,
+      "pages": {
+        "pricing/index.html": 1
+      },
+      "total": 1
+    },
+    "pricing:2:2:faq_item:title": {
+      "original": "Do you have pricing for non-profits?",
+      "value": null,
+      "pages": {
+        "pricing/index.html": 1
+      },
+      "total": 1
+    },
+    "pricing:2:3:faq_item:description": {
+      "original": "<p>We accept credit cards, checks, and cash.</p>\n",
+      "value": null,
+      "pages": {
+        "pricing/index.html": 1
+      },
+      "total": 1
+    },
+    "pricing:2:3:faq_item:title": {
+      "original": "What forms of payment do you accept?",
+      "value": null,
+      "pages": {
+        "pricing/index.html": 1
+      },
+      "total": 1
+    },
+    "pricing:2:4:faq_item:description": {
+      "original": "<p>All payments are in <strong>USD</strong>.</p>\n",
+      "value": null,
+      "pages": {
+        "pricing/index.html": 1
+      },
+      "total": 1
+    },
+    "pricing:2:4:faq_item:title": {
+      "original": "In which currencies can I make payments?",
+      "value": null,
+      "pages": {
+        "pricing/index.html": 1
+      },
+      "total": 1
+    },
+    "pricing:2:faq:description": {
+      "original": "<p>We believe that a good email marketing strategy is the key to growth. So we're helping you grow your business with tools and resources that make email marketing easy.</p>\n",
+      "value": null,
+      "pages": {
+        "pricing/index.html": 1
+      },
+      "total": 1
+    },
+    "pricing:2:faq:title": {
+      "original": "Have",
+      "value": null,
+      "pages": {
+        "pricing/index.html": 1
+      },
+      "total": 1
+    },
+    "pricing:2:faq:title_suffix": {
+      "original": " Questions? ",
+      "value": null,
+      "pages": {
+        "pricing/index.html": 1
+      },
+      "total": 1
+    },
+    "pricing:2:faq_item:description": {
+      "original": "",
+      "value": null,
+      "pages": {
+        "pricing/index.html": 1
+      },
+      "total": 1
+    },
+    "pricing:2:faq_item:title": {
+      "original": "",
       "value": null,
       "pages": {
         "pricing/index.html": 1
