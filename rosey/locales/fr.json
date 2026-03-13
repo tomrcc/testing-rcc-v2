@@ -509,15 +509,15 @@
   },
   "index:0:hero:button_text": {
     "original": "Try This Free",
-    "value": "Try This Free"
+    "value": "Essayez gratuitement"
   },
   "index:0:hero:description": {
     "original": "<p>With Sendit, you can quickly create beautiful rich emails that capture a reader's attention, engage them, and convert them into customers.</p>\n",
-    "value": "<p>With Sendit, you can quickly create beautiful rich emails that capture a reader's attention, engage them, and convert them into customers.</p>\n"
+    "value": "<p>Avec Sendit, vous pouvez rapidement créer de beaux emails riches qui captent l'attention du lecteur, les engagent et les convertissent en clients.</p>\n"
   },
   "index:0:hero:title": {
     "original": " Beautiful web campaigns ",
-    "value": " Beautiful web campaigns "
+    "value": "De belles campagnes web"
   },
   "index:1:0:counter:prefix": {
     "original": " $ ",
@@ -593,15 +593,15 @@
   },
   "index:4:feature:button_text": {
     "original": "Try This Free",
-    "value": "Try This Free"
+    "value": "Essayez gratuitement"
   },
   "index:4:feature:description": {
     "original": "<p>Send an email campaign with one click, in just minutes. Automate your emails and content, while keeping the human touch.</p>\n",
-    "value": "<p>Send an email campaign with one click, in just minutes. Automate your emails and content, while keeping the human touch.</p>\n"
+    "value": "<p>Envoyez une campagne email en un seul clic, en quelques minutes. Automatisez vos emails et votre contenu, tout en gardant la touche humaine.</p>\n"
   },
   "index:4:feature:title": {
     "original": " Email Campaign in one minute ",
-    "value": " Email Campaign in one minute "
+    "value": "Campagne email en une minute"
   },
   "index:5:feature:button_text": {
     "original": "Try This Free",
