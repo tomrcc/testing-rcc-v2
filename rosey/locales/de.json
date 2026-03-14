@@ -513,11 +513,11 @@
   },
   "index:0:hero:description": {
     "original": "<p>With Sendit, you can quickly create beautiful rich emails that capture a reader's attention, engage them, and convert them into customers.</p>\n",
-    "value": "<p>With Sendit, you can quickly create beautiful rich emails that capture a reader's attention, engage them, and convert them into customers.</p>\n"
+    "value": "Mit Sendit können Sie schnell ansprechende und informative E-Mails erstellen, die die Aufmerksamkeit des Lesers fesseln, ihn einbinden und ihn zu einem Kunden machen."
   },
   "index:0:hero:title": {
     "original": " Beautiful web campaigns ",
-    "value": " Beautiful web campaigns "
+    "value": "Wunderschöne Webkampagnen"
   },
   "index:1:0:counter:prefix": {
     "original": " $ ",
@@ -581,7 +581,7 @@
   },
   "index:3:header:description": {
     "original": "<p>Our platform offers the most advanced features including automated email content creation, dynamic personalization, and customer segmentation.</p>\n",
-    "value": "<p>Our platform offers the most advanced features including automated email content creation, dynamic personalization, and customer segmentation.</p>\n"
+    "value": "Our platform offers the most advanced features including automated email content creation, dynamic personalization, and customer segmentation."
   },
   "index:3:header:title": {
     "original": "Sendit ",
