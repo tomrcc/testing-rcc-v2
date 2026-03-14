@@ -341,7 +341,7 @@
   },
   "index:0:hero:description": {
     "original": "<p>With Sendit, you can quickly create beautiful rich emails that capture a reader's attention, engage them, and convert them into customers.</p>\n",
-    "value": "<p>Avec Sendit, vous pouvez rapidement créer de beaux emails riches qui captent l'attention du lecteur, les engagent et les convertissent en clients.</p>\n"
+    "value": "Avec *Sendit*, vous pouvez rapidement créer de beaux emails riches qui captent l'attention du lecteur, les engagent et les convertissent en clients."
   },
   "index:0:hero:title": {
     "original": " Beautiful web campaigns ",
