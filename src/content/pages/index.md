@@ -13,8 +13,9 @@ content_blocks:
   - _name: global/hero
     title: Beautiful web campaigns
     description: >-
-      With Sendit, you can quickly create beautiful rich emails that capture a
-      reader's attention, engage them, and convert them into customers.
+      With **Sendit**, you *can* quickly create beautiful rich emails that
+      capture a reader's attention, engage them, and convert them into
+      customers.
     image: /images/hero/hero-image.avif
     image_alt: Reports dashboard
     button:
@@ -49,42 +50,42 @@ content_blocks:
     image_alt: Thumbnail for video
     video_url: https://vimeo.com/45830194
   - _name: global/header
-    title: "Sendit "
+    title: 'Sendit '
     title_suffix: Features
     description: >-
       Our platform offers the most advanced features including automated email
       content creation, dynamic personalization, and customer segmentation.
     remove_top_padding: true
   - _name: global/feature
-    image: /images/feature/feature-card-one.png
-    image_alt: Message inbox
     title: Email Campaign in one minute
     description: >-
       Send an email campaign with one click, in just minutes. Automate your
       emails and content, while keeping the human touch.
+    image: /images/feature/feature-card-one.png
+    image_alt: Message inbox
     button:
       link: /signup
       text: Try This Free
     reversed: false
   - _name: global/feature
-    image: /images/feature/feature-card-two.png
-    image_alt: Visitor chart
     title: See every Lead in one Place
     description: >-
       Sales analytics and automation made simple: see every sales lead in one
       place, regardless of where it came from.
+    image: /images/feature/feature-card-two.png
+    image_alt: Visitor chart
     button:
       link: /signup
       text: Try This Free
     reversed: true
   - _name: global/feature
-    image: /images/feature/feature-card-three.png
-    image_alt: File upload
     title: 100% free uploads
     description: >-
       Sendit is used by everyone from small businesses to fortune 500 companies.
       Browse our collection of email marketing templates and start sending
       beautiful emails in minutes.
+    image: /images/feature/feature-card-three.png
+    image_alt: File upload
     button:
       link: /signup
       text: Try This Free
