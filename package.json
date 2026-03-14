@@ -26,7 +26,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "rosey": "^2.3.10",
-    "rosey-cloudcannon-connector": "github:tomrcc/rcc-v2",
+    "rosey-cloudcannon-connector": "github:tomrcc/rcc-v2#stale-translations",
     "tailwindcss": "^4.1.17",
     "typescript": "^5.9.3"
   },
