@@ -1,782 +1,977 @@
 {
   "0:0:footer:link_text": {
     "original": "Home",
-    "value": "Home"
+    "value": "Home",
+    "_base_original": "Home"
   },
   "0:1:footer:link_text": {
     "original": "Features",
-    "value": "Features"
+    "value": "Features",
+    "_base_original": "Features"
   },
   "0:2:footer:link_text": {
     "original": "Price",
-    "value": "Price"
+    "value": "Price",
+    "_base_original": "Price"
   },
   "0:3:footer:link_text": {
     "original": "About",
-    "value": "About"
+    "value": "About",
+    "_base_original": "About"
   },
   "0:footer:title": {
     "original": "Main Pages",
-    "value": "Main Pages"
+    "value": "Main Pages",
+    "_base_original": "Main Pages"
   },
   "1:0:footer:link_text": {
     "original": "Blog",
-    "value": "Blog"
+    "value": "Blog",
+    "_base_original": "Blog"
   },
   "1:1:footer:link_text": {
     "original": "RSS Feed",
-    "value": "RSS Feed"
+    "value": "RSS Feed",
+    "_base_original": "RSS Feed"
   },
   "1:footer:title": {
     "original": "Community",
-    "value": "Community"
+    "value": "Community",
+    "_base_original": "Community"
   },
   "2:0:footer:link_text": {
     "original": "Contact",
-    "value": "Contact"
+    "value": "Contact",
+    "_base_original": "Contact"
   },
   "2:footer:title": {
     "original": "Company",
-    "value": "Company"
+    "value": "Company",
+    "_base_original": "Company"
   },
   "about:0:hero:button_text": {
     "original": "Try This Free",
-    "value": "Try This Free"
+    "value": "Try This Free",
+    "_base_original": "Try This Free"
   },
   "about:0:hero:description": {
     "original": "<p>We're here to breathe new air into email marketing and help grow your business.</p>\n",
-    "value": "<p>We're here to breathe new air into email marketing and help grow your business.</p>\n"
+    "value": "<p>We're here to breathe new air into email marketing and help grow your business.</p>\n",
+    "_base_original": "<p>We're here to breathe new air into email marketing and help grow your business.</p>\n"
   },
   "about:0:hero:title": {
     "original": " On a mission to change email marketing ",
-    "value": " On a mission to change email marketing "
+    "value": " On a mission to change email marketing ",
+    "_base_original": " On a mission to change email marketing "
   },
   "about:1:feature:button_text": {
     "original": "Try This Free",
-    "value": "Try This Free"
+    "value": "Try This Free",
+    "_base_original": "Try This Free"
   },
   "about:1:feature:description": {
     "original": "<p>This should automatically be added to the locales, and be available for translation in the visual editor.</p>\n",
-    "value": "<p>This should automatically be added to the locales, and be available for translation in the visual editor.</p>\n"
+    "value": "<p>This should automatically be added to the locales, and be available for translation in the visual editor.</p>\n",
+    "_base_original": "<p>This should automatically be added to the locales, and be available for translation in the visual editor.</p>\n"
   },
   "about:1:feature:title": {
     "original": " A new block ",
-    "value": " A new block "
+    "value": " A new block ",
+    "_base_original": " A new block "
   },
   "about:2:0:counter:prefix": {
     "original": " $ ",
-    "value": " $ "
+    "value": " $ ",
+    "_base_original": " $ "
   },
   "about:2:0:counter:suffix": {
     "original": " m ",
-    "value": " m "
+    "value": " m ",
+    "_base_original": " m "
   },
   "about:2:0:counter:text": {
     "original": " Venture capital raised ",
-    "value": " Venture capital raised "
+    "value": " Venture capital raised ",
+    "_base_original": " Venture capital raised "
   },
   "about:2:1:counter:prefix": {
     "original": "  ",
-    "value": "  "
+    "value": "  ",
+    "_base_original": "  "
   },
   "about:2:1:counter:suffix": {
     "original": "  ",
-    "value": "  "
+    "value": "  ",
+    "_base_original": "  "
   },
   "about:2:1:counter:text": {
     "original": " Established in ",
-    "value": " Established in "
+    "value": " Established in ",
+    "_base_original": " Established in "
   },
   "about:2:2:counter:prefix": {
     "original": "  ",
-    "value": "  "
+    "value": "  ",
+    "_base_original": "  "
   },
   "about:2:2:counter:suffix": {
     "original": " + ",
-    "value": " + "
+    "value": " + ",
+    "_base_original": " + "
   },
   "about:2:2:counter:text": {
     "original": " Amazing team members ",
-    "value": " Amazing team members "
+    "value": " Amazing team members ",
+    "_base_original": " Amazing team members "
   },
   "about:2:3:counter:prefix": {
     "original": "  ",
-    "value": "  "
+    "value": "  ",
+    "_base_original": "  "
   },
   "about:2:3:counter:suffix": {
     "original": " + ",
-    "value": " + "
+    "value": " + ",
+    "_base_original": " + "
   },
   "about:2:3:counter:text": {
     "original": " Active users and growing ",
-    "value": " Active users and growing "
+    "value": " Active users and growing ",
+    "_base_original": " Active users and growing "
   },
   "about:2:counter:description": {
     "original": "<p>We've built Sendit from the ground up the help grow your business faster.</p>\n",
-    "value": "<p>We've built Sendit from the ground up the help grow your business faster.</p>\n"
+    "value": "<p>We've built Sendit from the ground up the help grow your business faster.</p>\n",
+    "_base_original": "<p>We've built Sendit from the ground up the help grow your business faster.</p>\n"
   },
   "about:2:counter:title": {
     "original": "Built for your",
-    "value": "Built for your"
+    "value": "Built for your",
+    "_base_original": "Built for your"
   },
   "about:2:counter:title_suffix": {
     "original": " Business ",
-    "value": " Business "
+    "value": " Business ",
+    "_base_original": " Business "
   },
   "about:3:video_left_right:button_text": {
     "original": "Follow on Linkedin",
-    "value": "Follow on Linkedin"
+    "value": "Follow on Linkedin",
+    "_base_original": "Follow on Linkedin"
   },
   "about:3:video_left_right:description": {
     "original": "<p>Our team has decades of experience working with email marketing campaigns and we’re passionate about helping you connect with your customers.</p>\n",
-    "value": "<p>Our team has decades of experience working with email marketing campaigns and we’re passionate about helping you connect with your customers.</p>\n"
+    "value": "<p>Our team has decades of experience working with email marketing campaigns and we’re passionate about helping you connect with your customers.</p>\n",
+    "_base_original": "<p>Our team has decades of experience working with email marketing campaigns and we’re passionate about helping you connect with your customers.</p>\n"
   },
   "about:3:video_left_right:title": {
     "original": " We love what we do ",
-    "value": " We love what we do "
+    "value": " We love what we do ",
+    "_base_original": " We love what we do "
   },
   "about:4:0:team:designation": {
     "original": " Co-Founder &amp; CEO ",
-    "value": " Co-Founder &amp; CEO "
+    "value": " Co-Founder &amp; CEO ",
+    "_base_original": " Co-Founder &amp; CEO "
   },
   "about:4:0:team:name": {
     "original": " Nikolas Mcconnell ",
-    "value": " Nikolas Mcconnell "
+    "value": " Nikolas Mcconnell ",
+    "_base_original": " Nikolas Mcconnell "
   },
   "about:4:1:team:designation": {
     "original": " CMO ",
-    "value": " CMO "
+    "value": " CMO ",
+    "_base_original": " CMO "
   },
   "about:4:1:team:name": {
     "original": " Keiren Mcculloch ",
-    "value": " Keiren Mcculloch "
+    "value": " Keiren Mcculloch ",
+    "_base_original": " Keiren Mcculloch "
   },
   "about:4:2:team:designation": {
     "original": " Head of Marketing ",
-    "value": " Head of Marketing "
+    "value": " Head of Marketing ",
+    "_base_original": " Head of Marketing "
   },
   "about:4:2:team:name": {
     "original": " Piers Reyes ",
-    "value": " Piers Reyes "
+    "value": " Piers Reyes ",
+    "_base_original": " Piers Reyes "
   },
   "about:4:3:team:designation": {
     "original": " Co-founder &amp; CTO ",
-    "value": " Co-founder &amp; CTO "
+    "value": " Co-founder &amp; CTO ",
+    "_base_original": " Co-founder &amp; CTO "
   },
   "about:4:3:team:name": {
     "original": " Zachary Arias ",
-    "value": " Zachary Arias "
+    "value": " Zachary Arias ",
+    "_base_original": " Zachary Arias "
   },
   "about:4:4:team:designation": {
     "original": " Head of Sales ",
-    "value": " Head of Sales "
+    "value": " Head of Sales ",
+    "_base_original": " Head of Sales "
   },
   "about:4:4:team:name": {
     "original": " Harmony Dunlop ",
-    "value": " Harmony Dunlop "
+    "value": " Harmony Dunlop ",
+    "_base_original": " Harmony Dunlop "
   },
   "about:4:5:team:designation": {
     "original": " CRO ",
-    "value": " CRO "
+    "value": " CRO ",
+    "_base_original": " CRO "
   },
   "about:4:5:team:name": {
     "original": " Elize Schwartz ",
-    "value": " Elize Schwartz "
+    "value": " Elize Schwartz ",
+    "_base_original": " Elize Schwartz "
   },
   "about:4:6:team:designation": {
     "original": " Head of Design ",
-    "value": " Head of Design "
+    "value": " Head of Design ",
+    "_base_original": " Head of Design "
   },
   "about:4:6:team:name": {
     "original": " Coen Simmons ",
-    "value": " Coen Simmons "
+    "value": " Coen Simmons ",
+    "_base_original": " Coen Simmons "
   },
   "about:4:7:team:designation": {
     "original": " Head of People ",
-    "value": " Head of People "
+    "value": " Head of People ",
+    "_base_original": " Head of People "
   },
   "about:4:7:team:name": {
     "original": " Fran Figureson ",
-    "value": " Fran Figureson "
+    "value": " Fran Figureson ",
+    "_base_original": " Fran Figureson "
   },
   "about:4:team:title": {
     "original": " Our leadership team ",
-    "value": " Our leadership team "
+    "value": " Our leadership team ",
+    "_base_original": " Our leadership team "
   },
   "contact:0:simple_hero:description": {
     "original": "<p>Have a question or suggestion? Feel free to drop us a message!</p>\n",
-    "value": "<p>Have a question or suggestion? Feel free to drop us a message!</p>\n"
+    "value": "<p>Have a question or suggestion? Feel free to drop us a message!</p>\n",
+    "_base_original": "<p>Have a question or suggestion? Feel free to drop us a message!</p>\n"
   },
   "contact:0:simple_hero:title": {
     "original": "Let's talk.",
-    "value": "Let's talk."
+    "value": "Let's talk.",
+    "_base_original": "Let's talk."
   },
   "features:0:hero:button_text": {
     "original": "Try This Free",
-    "value": "Try This Free"
+    "value": "Try This Free",
+    "_base_original": "Try This Free"
   },
   "features:0:hero:description": {
     "original": "<p>Sendit will change the way you think about email and marketing automation.</p>\n",
-    "value": "<p>Sendit will change the way you think about email and marketing automation.</p>\n"
+    "value": "<p>Sendit will change the way you think about email and marketing automation.</p>\n",
+    "_base_original": "<p>Sendit will change the way you think about email and marketing automation.</p>\n"
   },
   "features:0:hero:title": {
     "original": " Run the best campaigns ",
-    "value": " Run the best campaigns "
+    "value": " Run the best campaigns ",
+    "_base_original": " Run the best campaigns "
   },
   "features:1:header:description": {
     "original": "<p>Sendit is the most complete solution to create beautiful email designs, manage mails and send them out at the best price.</p>\n",
-    "value": "<p>Sendit is the most complete solution to create beautiful email designs, manage mails and send them out at the best price.</p>\n"
+    "value": "<p>Sendit is the most complete solution to create beautiful email designs, manage mails and send them out at the best price.</p>\n",
+    "_base_original": "<p>Sendit is the most complete solution to create beautiful email designs, manage mails and send them out at the best price.</p>\n"
   },
   "features:1:header:title": {
     "original": "Sendit ",
-    "value": "Sendit "
+    "value": "Sendit ",
+    "_base_original": "Sendit "
   },
   "features:1:header:title_suffix": {
     "original": "Features",
-    "value": "Features"
+    "value": "Features",
+    "_base_original": "Features"
   },
   "features:2:feature:button_text": {
     "original": "Try This Free",
-    "value": "Try This Free"
+    "value": "Try This Free",
+    "_base_original": "Try This Free"
   },
   "features:2:feature:description": {
     "original": "<p>Make your message stand out, thanks to the guided copywriting and design features, triggering a positive response from your customers.</p>\n",
-    "value": "<p>Make your message stand out, thanks to the guided copywriting and design features, triggering a positive response from your customers.</p>\n"
+    "value": "<p>Make your message stand out, thanks to the guided copywriting and design features, triggering a positive response from your customers.</p>\n",
+    "_base_original": "<p>Make your message stand out, thanks to the guided copywriting and design features, triggering a positive response from your customers.</p>\n"
   },
   "features:2:feature:title": {
     "original": " Simply click and send ",
-    "value": " Simply click and send "
+    "value": " Simply click and send ",
+    "_base_original": " Simply click and send "
   },
   "features:3:feature:button_text": {
     "original": "Try This Free",
-    "value": "Try This Free"
+    "value": "Try This Free",
+    "_base_original": "Try This Free"
   },
   "features:3:feature:description": {
     "original": "<p>Sales analytics and automation made simple: see every sales lead in one place, regardless of where it came from.</p>\n",
-    "value": "<p>Sales analytics and automation made simple: see every sales lead in one place, regardless of where it came from.</p>\n"
+    "value": "<p>Sales analytics and automation made simple: see every sales lead in one place, regardless of where it came from.</p>\n",
+    "_base_original": "<p>Sales analytics and automation made simple: see every sales lead in one place, regardless of where it came from.</p>\n"
   },
   "features:3:feature:title": {
     "original": " See every lead in one place ",
-    "value": " See every lead in one place "
+    "value": " See every lead in one place ",
+    "_base_original": " See every lead in one place "
   },
   "features:4:feature:button_text": {
     "original": "Try This Free",
-    "value": "Try This Free"
+    "value": "Try This Free",
+    "_base_original": "Try This Free"
   },
   "features:4:feature:description": {
     "original": "<p>Sendit is used by everyone from small businesses to fortune 500 companies. Browse our collection of email marketing templates and start sending beautiful emails in minutes.</p>\n",
-    "value": "<p>Sendit is used by everyone from small businesses to fortune 500 companies. Browse our collection of email marketing templates and start sending beautiful emails in minutes.</p>\n"
+    "value": "<p>Sendit is used by everyone from small businesses to fortune 500 companies. Browse our collection of email marketing templates and start sending beautiful emails in minutes.</p>\n",
+    "_base_original": "<p>Sendit is used by everyone from small businesses to fortune 500 companies. Browse our collection of email marketing templates and start sending beautiful emails in minutes.</p>\n"
   },
   "features:4:feature:title": {
     "original": " Free templates to get you started ",
-    "value": " Free templates to get you started "
+    "value": " Free templates to get you started ",
+    "_base_original": " Free templates to get you started "
   },
   "features:5:0:testimonial:author": {
     "original": " Pete Fish ",
-    "value": " Pete Fish "
+    "value": " Pete Fish ",
+    "_base_original": " Pete Fish "
   },
   "features:5:0:testimonial:designation": {
     "original": " CMO at Clear Appeal ",
-    "value": " CMO at Clear Appeal "
+    "value": " CMO at Clear Appeal ",
+    "_base_original": " CMO at Clear Appeal "
   },
   "features:5:0:testimonial:message": {
     "original": " Sendit has taken Clear Appeal to the next level with its beautiful email campaigns. ",
-    "value": " Sendit has taken Clear Appeal to the next level with its beautiful email campaigns. "
+    "value": " Sendit has taken Clear Appeal to the next level with its beautiful email campaigns. ",
+    "_base_original": " Sendit has taken Clear Appeal to the next level with its beautiful email campaigns. "
   },
   "features:5:1:testimonial:author": {
     "original": " Dolly Watson ",
-    "value": " Dolly Watson "
+    "value": " Dolly Watson ",
+    "_base_original": " Dolly Watson "
   },
   "features:5:1:testimonial:designation": {
     "original": " Digital Marketer at Time Cop ",
-    "value": " Digital Marketer at Time Cop "
+    "value": " Digital Marketer at Time Cop ",
+    "_base_original": " Digital Marketer at Time Cop "
   },
   "features:5:1:testimonial:message": {
     "original": " Wow, what a difference Sendit has made. My customers are more engaged than ever. ",
-    "value": " Wow, what a difference Sendit has made. My customers are more engaged than ever. "
+    "value": " Wow, what a difference Sendit has made. My customers are more engaged than ever. ",
+    "_base_original": " Wow, what a difference Sendit has made. My customers are more engaged than ever. "
   },
   "features:5:2:testimonial:author": {
     "original": " Simon Moriarty ",
-    "value": " Simon Moriarty "
+    "value": " Simon Moriarty ",
+    "_base_original": " Simon Moriarty "
   },
   "features:5:2:testimonial:designation": {
     "original": " Head of Marketing at Pinnacle Mines ",
-    "value": " Head of Marketing at Pinnacle Mines "
+    "value": " Head of Marketing at Pinnacle Mines ",
+    "_base_original": " Head of Marketing at Pinnacle Mines "
   },
   "features:5:2:testimonial:message": {
     "original": " I can't imagine life without Sendit now, I have no idea how we were surviving before. ",
-    "value": " I can't imagine life without Sendit now, I have no idea how we were surviving before. "
+    "value": " I can't imagine life without Sendit now, I have no idea how we were surviving before. ",
+    "_base_original": " I can't imagine life without Sendit now, I have no idea how we were surviving before. "
   },
   "features:5:testimonial:author": {
     "original": "",
-    "value": ""
+    "value": "",
+    "_base_original": ""
   },
   "features:5:testimonial:description": {
     "original": "<p>Customers from around the world are building game changing email marketing campaigns.</p>\n",
-    "value": "<p>Customers from around the world are building game changing email marketing campaigns.</p>\n"
+    "value": "<p>Customers from around the world are building game changing email marketing campaigns.</p>\n",
+    "_base_original": "<p>Customers from around the world are building game changing email marketing campaigns.</p>\n"
   },
   "features:5:testimonial:designation": {
     "original": "",
-    "value": ""
+    "value": "",
+    "_base_original": ""
   },
   "features:5:testimonial:message": {
     "original": "",
-    "value": ""
+    "value": "",
+    "_base_original": ""
   },
   "features:5:testimonial:title": {
     "original": "Build relationships that",
-    "value": "Build relationships that"
+    "value": "Build relationships that",
+    "_base_original": "Build relationships that"
   },
   "features:5:testimonial:title_suffix": {
     "original": " last ",
-    "value": " last "
+    "value": " last ",
+    "_base_original": " last "
   },
   "footer:copyright": {
     "original": "MyCompany. All rights reserved.",
-    "value": "MyCompany. All rights reserved."
+    "value": "MyCompany. All rights reserved.",
+    "_base_original": "MyCompany. All rights reserved."
   },
   "index:0:hero:button_text": {
     "original": "Try This Free",
-    "value": "Essayez gratuitement"
+    "value": "Essayez gratuitement",
+    "_base_original": "Try This Free"
   },
   "index:0:hero:description": {
     "original": "<p>With Sendit, you can quickly create beautiful rich emails that capture a reader's attention, engage them, and convert them into customers.</p>\n",
-    "value": "Avec <strong>Sendit</strong>, vous <em>pouvez</em> rapidement créer de beaux emails riches qui captent l'attention du lecteur, les engagent et les convertissent en clients."
+    "value": "Avec <strong>Sendit</strong>, vous <em>pouvez</em> rapidement créer de beaux emails riches qui captent l'attention du lecteur, les engagent et les convertissent en clients.",
+    "_base_original": "<p>With <strong>Sendit</strong>, you <em>can</em> quickly create beautiful rich emails that capture a reader's attention, engage them, and convert them into customers.</p>\n"
   },
   "index:0:hero:title": {
     "original": " Beautiful web campaigns ",
-    "value": "De belles campagnes web"
+    "value": "De belles campagnes web",
+    "_base_original": " Beautiful web campaigns "
   },
   "index:1:0:counter:prefix": {
     "original": " $ ",
-    "value": " $ "
+    "value": " $ ",
+    "_base_original": " $ "
   },
   "index:1:0:counter:suffix": {
     "original": " m ",
-    "value": " m "
+    "value": " m ",
+    "_base_original": " m "
   },
   "index:1:0:counter:text": {
     "original": " Venture capital raised ",
-    "value": " Venture capital raised "
+    "value": " Venture capital raised ",
+    "_base_original": " Venture capital raised "
   },
   "index:1:1:counter:prefix": {
     "original": "  ",
-    "value": "  "
+    "value": "  ",
+    "_base_original": "  "
   },
   "index:1:1:counter:suffix": {
     "original": "  ",
-    "value": "  "
+    "value": "  ",
+    "_base_original": "  "
   },
   "index:1:1:counter:text": {
     "original": " Established in ",
-    "value": " Established in "
+    "value": " Established in ",
+    "_base_original": " Established in "
   },
   "index:1:2:counter:prefix": {
     "original": "  ",
-    "value": "  "
+    "value": "  ",
+    "_base_original": "  "
   },
   "index:1:2:counter:suffix": {
     "original": " + ",
-    "value": " + "
+    "value": " + ",
+    "_base_original": " + "
   },
   "index:1:2:counter:text": {
     "original": " Supported languages ",
-    "value": " Supported languages "
+    "value": " Supported languages ",
+    "_base_original": " Supported languages "
   },
   "index:1:3:counter:prefix": {
     "original": "  ",
-    "value": "  "
+    "value": "  ",
+    "_base_original": "  "
   },
   "index:1:3:counter:suffix": {
     "original": " + ",
-    "value": " + "
+    "value": " + ",
+    "_base_original": " + "
   },
   "index:1:3:counter:text": {
     "original": " Active users and growing ",
-    "value": " Active users and growing "
+    "value": " Active users and growing ",
+    "_base_original": " Active users and growing "
   },
   "index:1:counter:description": {
     "original": "<p>We have an extensive library of pre-written sales emails, proven marketing templates, and more to get you started on your next project.</p>\n",
-    "value": "<p>We have an extensive library of pre-written sales emails, proven marketing templates, and more to get you started on your next project.</p>\n"
+    "value": "<p>We have an extensive library of pre-written sales emails, proven marketing templates, and more to get you started on your next project.</p>\n",
+    "_base_original": "<p>We have an extensive library of pre-written sales emails, proven marketing templates, and more to get you started on your next project.</p>\n"
   },
   "index:1:counter:title": {
     "original": "Scale your",
-    "value": "Scale your"
+    "value": "Scale your",
+    "_base_original": "Scale your"
   },
   "index:1:counter:title_suffix": {
     "original": " Business ",
-    "value": " Business "
+    "value": " Business ",
+    "_base_original": " Business "
   },
   "index:3:header:description": {
     "original": "<p>Our platform offers the most advanced features including automated email content creation, dynamic personalization, and customer segmentation.</p>\n",
-    "value": "<p>Our platform offers the most advanced features including automated email content creation, dynamic personalization, and customer segmentation.</p>\n"
+    "value": "<p>Our platform offers the most advanced features including automated email content creation, dynamic personalization, and customer segmentation.</p>\n",
+    "_base_original": "<p>Our platform offers the most advanced features including automated email content creation, dynamic personalization, and customer segmentation.</p>\n"
   },
   "index:3:header:title": {
     "original": "Sendit ",
-    "value": "Sendit "
+    "value": "Sendit ",
+    "_base_original": "Sendit "
   },
   "index:3:header:title_suffix": {
     "original": "Features",
-    "value": "Features"
+    "value": "Features",
+    "_base_original": "Features"
   },
   "index:4:feature:button_text": {
     "original": "Try This Free",
-    "value": "Essayez gratuitement"
+    "value": "Essayez gratuitement",
+    "_base_original": "Try This Free"
   },
   "index:4:feature:description": {
     "original": "<p>Send an email campaign with one click, in just minutes. Automate your emails and content, while keeping the human touch.</p>\n",
-    "value": "<p>Envoyez une campagne email en un seul clic, en quelques minutes. Automatisez vos emails et votre contenu, tout en gardant la touche humaine.</p>\n"
+    "value": "<p>Envoyez une campagne email en un seul clic, en quelques minutes. Automatisez vos emails et votre contenu, tout en gardant la touche humaine.</p>\n",
+    "_base_original": "<p>Send an email campaign with one click, in just minutes. Automate your emails and content, while keeping the human touch.</p>\n"
   },
   "index:4:feature:title": {
     "original": " Email Campaign in one minute ",
-    "value": "Campagne email en une minute"
+    "value": "Campagne email en une minute",
+    "_base_original": " Email Campaign in one minute "
   },
   "index:5:feature:button_text": {
     "original": "Try This Free",
-    "value": "Try This Free"
+    "value": "Try This Free",
+    "_base_original": "Try This Free"
   },
   "index:5:feature:description": {
     "original": "<p>Sales analytics and automation made simple: see every sales lead in one place, regardless of where it came from.</p>\n",
-    "value": "<p>Sales analytics and automation made simple: see every sales lead in one place, regardless of where it came from.</p>\n"
+    "value": "<p>Sales analytics and automation made simple: see every sales lead in one place, regardless of where it came from.</p>\n",
+    "_base_original": "<p>Sales analytics and automation made simple: see every sales lead in one place, regardless of where it came from.</p>\n"
   },
   "index:5:feature:title": {
     "original": " See every Lead in one Place ",
-    "value": " See every Lead in one Place "
+    "value": " See every Lead in one Place ",
+    "_base_original": " See every Lead in one Place "
   },
   "index:6:feature:button_text": {
     "original": "Try This Free",
-    "value": "Try This Free"
+    "value": "Try This Free",
+    "_base_original": "Try This Free"
   },
   "index:6:feature:description": {
     "original": "<p>Sendit is used by everyone from small businesses to fortune 500 companies. Browse our collection of email marketing templates and start sending beautiful emails in minutes.</p>\n",
-    "value": "<p>Sendit is used by everyone from small businesses to fortune 500 companies. Browse our collection of email marketing templates and start sending beautiful emails in minutes.</p>\n"
+    "value": "<p>Sendit is used by everyone from small businesses to fortune 500 companies. Browse our collection of email marketing templates and start sending beautiful emails in minutes.</p>\n",
+    "_base_original": "<p>Sendit is used by everyone from small businesses to fortune 500 companies. Browse our collection of email marketing templates and start sending beautiful emails in minutes.</p>\n"
   },
   "index:6:feature:title": {
     "original": " 100% free uploads ",
-    "value": " 100% free uploads "
+    "value": " 100% free uploads ",
+    "_base_original": " 100% free uploads "
   },
   "index:7:0:testimonial:author": {
     "original": " Pete Fish ",
-    "value": " Pete Fish "
+    "value": " Pete Fish ",
+    "_base_original": " Pete Fish "
   },
   "index:7:0:testimonial:designation": {
     "original": " CMO at Clear Appeal ",
-    "value": " CMO at Clear Appeal "
+    "value": " CMO at Clear Appeal ",
+    "_base_original": " CMO at Clear Appeal "
   },
   "index:7:0:testimonial:message": {
     "original": " Sendit has taken Clear Appeal to the next level with its beautiful email campaigns. ",
-    "value": " Sendit has taken Clear Appeal to the next level with its beautiful email campaigns. "
+    "value": " Sendit has taken Clear Appeal to the next level with its beautiful email campaigns. ",
+    "_base_original": " Sendit has taken Clear Appeal to the next level with its beautiful email campaigns. "
   },
   "index:7:1:testimonial:author": {
     "original": " Dolly Watson ",
-    "value": " Dolly Watson "
+    "value": " Dolly Watson ",
+    "_base_original": " Dolly Watson "
   },
   "index:7:1:testimonial:designation": {
     "original": " Digital Marketer at Time Cop ",
-    "value": " Digital Marketer at Time Cop "
+    "value": " Digital Marketer at Time Cop ",
+    "_base_original": " Digital Marketer at Time Cop "
   },
   "index:7:1:testimonial:message": {
     "original": " Wow, what a difference Sendit has made. My customers are more engaged than ever. ",
-    "value": " Wow, what a difference Sendit has made. My customers are more engaged than ever. "
+    "value": " Wow, what a difference Sendit has made. My customers are more engaged than ever. ",
+    "_base_original": " Wow, what a difference Sendit has made. My customers are more engaged than ever. "
   },
   "index:7:2:testimonial:author": {
     "original": " Simon Moriarty ",
-    "value": " Simon Moriarty "
+    "value": " Simon Moriarty ",
+    "_base_original": " Simon Moriarty "
   },
   "index:7:2:testimonial:designation": {
     "original": " Head of Marketing at Pinnacle Mines ",
-    "value": " Head of Marketing at Pinnacle Mines "
+    "value": " Head of Marketing at Pinnacle Mines ",
+    "_base_original": " Head of Marketing at Pinnacle Mines "
   },
   "index:7:2:testimonial:message": {
     "original": " I can't imagine life without Sendit now, I have no idea how we were surviving before. ",
-    "value": " I can't imagine life without Sendit now, I have no idea how we were surviving before. "
+    "value": " I can't imagine life without Sendit now, I have no idea how we were surviving before. ",
+    "_base_original": " I can't imagine life without Sendit now, I have no idea how we were surviving before. "
   },
   "index:7:testimonial:author": {
     "original": "",
-    "value": ""
+    "value": "",
+    "_base_original": ""
   },
   "index:7:testimonial:description": {
     "original": "<p>Customers from around the world are building game changing email marketing campaigns.</p>\n",
-    "value": "<p>Customers from around the world are building game changing email marketing campaigns.</p>\n"
+    "value": "<p>Customers from around the world are building game changing email marketing campaigns.</p>\n",
+    "_base_original": "<p>Customers from around the world are building game changing email marketing campaigns.</p>\n"
   },
   "index:7:testimonial:designation": {
     "original": "",
-    "value": ""
+    "value": "",
+    "_base_original": ""
   },
   "index:7:testimonial:message": {
     "original": "",
-    "value": ""
+    "value": "",
+    "_base_original": ""
   },
   "index:7:testimonial:title": {
     "original": "Build relationships that",
-    "value": "Build relationships that"
+    "value": "Build relationships that",
+    "_base_original": "Build relationships that"
   },
   "index:7:testimonial:title_suffix": {
     "original": " last ",
-    "value": " last "
+    "value": " last ",
+    "_base_original": " last "
   },
   "pricing:0:simple_hero:description": {
     "original": "<p>Sendit is easy to get started and we have a pricing plan for businesses of all sizes.</p>\n",
-    "value": "<p>Sendit is easy to get started and we have a pricing plan for businesses of all sizes.</p>\n"
+    "value": "<p>Sendit is easy to get started and we have a pricing plan for businesses of all sizes.</p>\n",
+    "_base_original": "<p>Sendit is easy to get started and we have a pricing plan for businesses of all sizes.</p>\n"
   },
   "pricing:0:simple_hero:title": {
     "original": "A plan for everyone",
-    "value": "A plan for everyone"
+    "value": "A plan for everyone",
+    "_base_original": "A plan for everyone"
   },
   "pricing:1:0:0:pricing_item:feature_item": {
     "original": "1 Email Campaign",
-    "value": "1 Email Campaign"
+    "value": "1 Email Campaign",
+    "_base_original": "1 Email Campaign"
   },
   "pricing:1:0:1:pricing_item:feature_item": {
     "original": "1 Year Premium Support",
-    "value": "1 Year Premium Support"
+    "value": "1 Year Premium Support",
+    "_base_original": "1 Year Premium Support"
   },
   "pricing:1:0:2:pricing_item:feature_item": {
     "original": "Regular Update for 1 Year",
-    "value": "Regular Update for 1 Year"
+    "value": "Regular Update for 1 Year",
+    "_base_original": "Regular Update for 1 Year"
   },
   "pricing:1:0:3:pricing_item:feature_item": {
     "original": "90+ Widgets &amp; Extensions",
-    "value": "90+ Widgets &amp; Extensions"
+    "value": "90+ Widgets &amp; Extensions",
+    "_base_original": "90+ Widgets &amp; Extensions"
   },
   "pricing:1:0:4:pricing_item:feature_item": {
     "original": "23+ Templates",
-    "value": "23+ Templates"
+    "value": "23+ Templates",
+    "_base_original": "23+ Templates"
   },
   "pricing:1:0:5:pricing_item:feature_item": {
     "original": "Over 800 Section Blocks",
-    "value": "Over 800 Section Blocks"
+    "value": "Over 800 Section Blocks",
+    "_base_original": "Over 800 Section Blocks"
   },
   "pricing:1:0:6:pricing_item:feature_item": {
     "original": "Support",
-    "value": "Support"
+    "value": "Support",
+    "_base_original": "Support"
   },
   "pricing:1:0:7:pricing_item:feature_item": {
     "original": "3 filters",
-    "value": "3 filters"
+    "value": "3 filters",
+    "_base_original": "3 filters"
   },
   "pricing:1:0:8:pricing_item:feature_item": {
     "original": "Unlimited activity history",
-    "value": "Unlimited activity history"
+    "value": "Unlimited activity history",
+    "_base_original": "Unlimited activity history"
   },
   "pricing:1:0:pricing_item:button_text": {
     "original": "Try This Free",
-    "value": "Try This Free"
+    "value": "Try This Free",
+    "_base_original": "Try This Free"
   },
   "pricing:1:0:pricing_item:currency_symbol": {
     "original": "$",
-    "value": "$"
+    "value": "$",
+    "_base_original": "$"
   },
   "pricing:1:0:pricing_item:description": {
     "original": " Everything you need to get started. ",
-    "value": " Everything you need to get started. "
+    "value": " Everything you need to get started. ",
+    "_base_original": " Everything you need to get started. "
   },
   "pricing:1:0:pricing_item:feature_item": {
     "original": "",
-    "value": ""
+    "value": "",
+    "_base_original": ""
   },
   "pricing:1:0:pricing_item:price": {
     "original": "0",
-    "value": "0"
+    "value": "0",
+    "_base_original": "0"
   },
   "pricing:1:0:pricing_item:tier": {
     "original": " Free ",
-    "value": " Free "
+    "value": " Free ",
+    "_base_original": " Free "
   },
   "pricing:1:1:0:pricing_item:feature_item": {
     "original": "1 Email Campaign",
-    "value": "1 Email Campaign"
+    "value": "1 Email Campaign",
+    "_base_original": "1 Email Campaign"
   },
   "pricing:1:1:1:pricing_item:feature_item": {
     "original": "1 Year Premium Support",
-    "value": "1 Year Premium Support"
+    "value": "1 Year Premium Support",
+    "_base_original": "1 Year Premium Support"
   },
   "pricing:1:1:2:pricing_item:feature_item": {
     "original": "Regular Update for 1 Year",
-    "value": "Regular Update for 1 Year"
+    "value": "Regular Update for 1 Year",
+    "_base_original": "Regular Update for 1 Year"
   },
   "pricing:1:1:3:pricing_item:feature_item": {
     "original": "90+ Widgets &amp; Extensions",
-    "value": "90+ Widgets &amp; Extensions"
+    "value": "90+ Widgets &amp; Extensions",
+    "_base_original": "90+ Widgets &amp; Extensions"
   },
   "pricing:1:1:4:pricing_item:feature_item": {
     "original": "23+ Templates",
-    "value": "23+ Templates"
+    "value": "23+ Templates",
+    "_base_original": "23+ Templates"
   },
   "pricing:1:1:5:pricing_item:feature_item": {
     "original": "Over 800 Section Blocks",
-    "value": "Over 800 Section Blocks"
+    "value": "Over 800 Section Blocks",
+    "_base_original": "Over 800 Section Blocks"
   },
   "pricing:1:1:6:pricing_item:feature_item": {
     "original": "Support",
-    "value": "Support"
+    "value": "Support",
+    "_base_original": "Support"
   },
   "pricing:1:1:7:pricing_item:feature_item": {
     "original": "3 filters",
-    "value": "3 filters"
+    "value": "3 filters",
+    "_base_original": "3 filters"
   },
   "pricing:1:1:8:pricing_item:feature_item": {
     "original": "Unlimited activity history",
-    "value": "Unlimited activity history"
+    "value": "Unlimited activity history",
+    "_base_original": "Unlimited activity history"
   },
   "pricing:1:1:pricing_item:button_text": {
     "original": "Try This Free",
-    "value": "Try This Free"
+    "value": "Try This Free",
+    "_base_original": "Try This Free"
   },
   "pricing:1:1:pricing_item:currency_symbol": {
     "original": "$",
-    "value": "$"
+    "value": "$",
+    "_base_original": "$"
   },
   "pricing:1:1:pricing_item:description": {
     "original": " More collaborative power and unlimited boards for fast-growing. ",
-    "value": " More collaborative power and unlimited boards for fast-growing. "
+    "value": " More collaborative power and unlimited boards for fast-growing. ",
+    "_base_original": " More collaborative power and unlimited boards for fast-growing. "
   },
   "pricing:1:1:pricing_item:discount_price": {
     "original": "125",
-    "value": "125"
+    "value": "125",
+    "_base_original": "125"
   },
   "pricing:1:1:pricing_item:feature_item": {
     "original": "",
-    "value": ""
+    "value": "",
+    "_base_original": ""
   },
   "pricing:1:1:pricing_item:price": {
     "original": "199",
-    "value": "199"
+    "value": "199",
+    "_base_original": "199"
   },
   "pricing:1:1:pricing_item:tier": {
     "original": " Pro ",
-    "value": " Pro "
+    "value": " Pro ",
+    "_base_original": " Pro "
   },
   "pricing:1:2:0:pricing_item:feature_item": {
     "original": "1 Email Campaign",
-    "value": "1 Email Campaign"
+    "value": "1 Email Campaign",
+    "_base_original": "1 Email Campaign"
   },
   "pricing:1:2:1:pricing_item:feature_item": {
     "original": "1 Year Premium Support",
-    "value": "1 Year Premium Support"
+    "value": "1 Year Premium Support",
+    "_base_original": "1 Year Premium Support"
   },
   "pricing:1:2:2:pricing_item:feature_item": {
     "original": "Regular Update for 1 Year",
-    "value": "Regular Update for 1 Year"
+    "value": "Regular Update for 1 Year",
+    "_base_original": "Regular Update for 1 Year"
   },
   "pricing:1:2:3:pricing_item:feature_item": {
     "original": "90+ Widgets &amp; Extensions",
-    "value": "90+ Widgets &amp; Extensions"
+    "value": "90+ Widgets &amp; Extensions",
+    "_base_original": "90+ Widgets &amp; Extensions"
   },
   "pricing:1:2:4:pricing_item:feature_item": {
     "original": "23+ Templates",
-    "value": "23+ Templates"
+    "value": "23+ Templates",
+    "_base_original": "23+ Templates"
   },
   "pricing:1:2:5:pricing_item:feature_item": {
     "original": "Over 800 Section Blocks",
-    "value": "Over 800 Section Blocks"
+    "value": "Over 800 Section Blocks",
+    "_base_original": "Over 800 Section Blocks"
   },
   "pricing:1:2:6:pricing_item:feature_item": {
     "original": "Support",
-    "value": "Support"
+    "value": "Support",
+    "_base_original": "Support"
   },
   "pricing:1:2:7:pricing_item:feature_item": {
     "original": "3 filters",
-    "value": "3 filters"
+    "value": "3 filters",
+    "_base_original": "3 filters"
   },
   "pricing:1:2:8:pricing_item:feature_item": {
     "original": "Unlimited activity history",
-    "value": "Unlimited activity history"
+    "value": "Unlimited activity history",
+    "_base_original": "Unlimited activity history"
   },
   "pricing:1:2:pricing_item:button_text": {
     "original": "Try This Free",
-    "value": "Try This Free"
+    "value": "Try This Free",
+    "_base_original": "Try This Free"
   },
   "pricing:1:2:pricing_item:currency_symbol": {
     "original": "$",
-    "value": "$"
+    "value": "$",
+    "_base_original": "$"
   },
   "pricing:1:2:pricing_item:description": {
     "original": " For starters Includes unlimited members ",
-    "value": " For starters Includes unlimited members "
+    "value": " For starters Includes unlimited members ",
+    "_base_original": " For starters Includes unlimited members "
   },
   "pricing:1:2:pricing_item:discount_price": {
     "original": "350",
-    "value": "350"
+    "value": "350",
+    "_base_original": "350"
   },
   "pricing:1:2:pricing_item:feature_item": {
     "original": "",
-    "value": ""
+    "value": "",
+    "_base_original": ""
   },
   "pricing:1:2:pricing_item:price": {
     "original": "499",
-    "value": "499"
+    "value": "499",
+    "_base_original": "499"
   },
   "pricing:1:2:pricing_item:tier": {
     "original": " Business ",
-    "value": " Business "
+    "value": " Business ",
+    "_base_original": " Business "
   },
   "pricing:2:0:faq_item:description": {
     "original": "<p>No, the prices include unlimited emails. Send to your heart's content.</p>\n",
-    "value": "<p>No, the prices include unlimited emails. Send to your heart's content.</p>\n"
+    "value": "<p>No, the prices include unlimited emails. Send to your heart's content.</p>\n",
+    "_base_original": "<p>No, the prices include unlimited emails. Send to your heart's content.</p>\n"
   },
   "pricing:2:0:faq_item:title": {
     "original": "Is there a maximum numbers of emails I can send each month?",
-    "value": "Is there a maximum numbers of emails I can send each month?"
+    "value": "Is there a maximum numbers of emails I can send each month?",
+    "_base_original": "Is there a maximum numbers of emails I can send each month?"
   },
   "pricing:2:1:faq_item:description": {
     "original": "<p>Right here on this website, or contact our support team.</p>\n",
-    "value": "<p>Right here on this website, or contact our support team.</p>\n"
+    "value": "<p>Right here on this website, or contact our support team.</p>\n",
+    "_base_original": "<p>Right here on this website, or contact our support team.</p>\n"
   },
   "pricing:2:1:faq_item:title": {
     "original": "Where can I find out more information?",
-    "value": "Where can I find out more information?"
+    "value": "Where can I find out more information?",
+    "_base_original": "Where can I find out more information?"
   },
   "pricing:2:2:faq_item:description": {
     "original": "<p>Yes, contact our support team and we'll get you set up on our non-profit plan.</p>\n",
-    "value": "<p>Yes, contact our support team and we'll get you set up on our non-profit plan.</p>\n"
+    "value": "<p>Yes, contact our support team and we'll get you set up on our non-profit plan.</p>\n",
+    "_base_original": "<p>Yes, contact our support team and we'll get you set up on our non-profit plan.</p>\n"
   },
   "pricing:2:2:faq_item:title": {
     "original": "Do you have pricing for non-profits?",
-    "value": "Do you have pricing for non-profits?"
+    "value": "Do you have pricing for non-profits?",
+    "_base_original": "Do you have pricing for non-profits?"
   },
   "pricing:2:3:faq_item:description": {
     "original": "<p>We accept credit cards, checks, and cash.</p>\n",
-    "value": "<p>We accept credit cards, checks, and cash.</p>\n"
+    "value": "<p>We accept credit cards, checks, and cash.</p>\n",
+    "_base_original": "<p>We accept credit cards, checks, and cash.</p>\n"
   },
   "pricing:2:3:faq_item:title": {
     "original": "What forms of payment do you accept?",
-    "value": "What forms of payment do you accept?"
+    "value": "What forms of payment do you accept?",
+    "_base_original": "What forms of payment do you accept?"
   },
   "pricing:2:4:faq_item:description": {
     "original": "<p>All payments are in <strong>USD</strong>.</p>\n",
-    "value": "<p>All payments are in <strong>USD</strong>.</p>\n"
+    "value": "<p>All payments are in <strong>USD</strong>.</p>\n",
+    "_base_original": "<p>All payments are in <strong>USD</strong>.</p>\n"
   },
   "pricing:2:4:faq_item:title": {
     "original": "In which currencies can I make payments?",
-    "value": "In which currencies can I make payments?"
+    "value": "In which currencies can I make payments?",
+    "_base_original": "In which currencies can I make payments?"
   },
   "pricing:2:faq_item:description": {
     "original": "",
-    "value": ""
+    "value": "",
+    "_base_original": ""
   },
   "pricing:2:faq_item:title": {
     "original": "",
-    "value": ""
+    "value": "",
+    "_base_original": ""
   },
   "pricing:2:faq:description": {
     "original": "<p>We believe that a good email marketing strategy is the key to growth. So we're helping you grow your business with tools and resources that make email marketing easy.</p>\n",
-    "value": "<p>We believe that a good email marketing strategy is the key to growth. So we're helping you grow your business with tools and resources that make email marketing easy.</p>\n"
+    "value": "<p>We believe that a good email marketing strategy is the key to growth. So we're helping you grow your business with tools and resources that make email marketing easy.</p>\n",
+    "_base_original": "<p>We believe that a good email marketing strategy is the key to growth. So we're helping you grow your business with tools and resources that make email marketing easy.</p>\n"
   },
   "pricing:2:faq:title": {
     "original": "Have",
-    "value": "Have"
+    "value": "Have",
+    "_base_original": "Have"
   },
   "pricing:2:faq:title_suffix": {
     "original": " Questions? ",
-    "value": " Questions? "
+    "value": " Questions? ",
+    "_base_original": " Questions? "
   },
   "simple_hero:description": {
     "original": "<p>Have a question or suggestion? Feel free to drop us a message!</p>\n",
-    "value": "<p>Have a question or suggestion? Feel free to drop us a message!</p>\n"
+    "value": "<p>Have a question or suggestion? Feel free to drop us a message!</p>\n",
+    "_base_original": ""
   },
   "simple_hero:title": {
     "original": "Let's talk.",
-    "value": "Let's talk."
+    "value": "Let's talk.",
+    "_base_original": "Technology"
   }
 }
