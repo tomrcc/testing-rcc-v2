@@ -425,7 +425,7 @@
     "_base_original": "Try This Free"
   },
   "index:0:hero:description": {
-    "original": "<p>With Sendit, you can quickly create beautiful rich emails that capture a reader's attention, engage them, and convert them into customers.</p>\n",
+    "original": "<p>With <strong>Sendit</strong>, you <em>can</em> quickly create beautiful rich emails that capture a reader's attention, engage them, and convert them into customers.</p>\n",
     "value": "Avec <strong>Sendit</strong>, vous <em>pouvez</em> rapidement créer de beaux emails riches qui captent l'attention du lecteur, les engagent et les convertissent en clients.",
     "_base_original": "<p>With <strong>Sendit</strong>, you <em>can</em> quickly create beautiful rich emails that capture a reader's attention, engage them, and convert them into customers.</p>\n"
   },
@@ -500,8 +500,8 @@
     "_base_original": "<p>We have an extensive library of pre-written sales emails, proven marketing templates, and more to get you started on your next project.</p>\n"
   },
   "index:1:counter:title": {
-    "original": "Scale your",
-    "value": "Scale your",
+    "original": "Change your",
+    "value": "Changez votre",
     "_base_original": "Change your"
   },
   "index:1:counter:title_suffix": {
