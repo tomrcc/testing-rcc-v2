@@ -22,7 +22,7 @@ content_blocks:
       text: Try This Free
       link: /signup/
   - _name: global/counter
-    title: Scale your
+    title: Change your
     title_suffix: Business
     description: >-
       We have an extensive library of pre-written sales emails, proven marketing
