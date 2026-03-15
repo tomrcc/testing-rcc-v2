@@ -532,12 +532,12 @@
   "index:4:feature:description": {
     "original": "<p>Send an email campaign with one click, in just minutes. Automate your emails and content, while keeping the human touch.</p>\n",
     "value": "<p>Envoyez une campagne email en un seul clic, en quelques minutes. Automatisez vos emails et votre contenu, tout en gardant la touche humaine.</p>\n",
-    "_base_original": "<p>Send an email campaign with one click, in just minutes. Automate your emails and content, while keeping the human touch.</p>\n"
+    "_base_original": "<p><strong>Send</strong> an email campaign with one click, in just minutes. Automate your emails and content, while keeping the human touch.</p>\n"
   },
   "index:4:feature:title": {
     "original": " Email Campaign in one minute ",
     "value": "Campagne email en une minute",
-    "_base_original": " Email Campaign in one minute "
+    "_base_original": " Changed for a test "
   },
   "index:5:feature:button_text": {
     "original": "Try This Free",
