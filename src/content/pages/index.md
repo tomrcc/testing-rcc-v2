@@ -57,9 +57,9 @@ content_blocks:
       content creation, dynamic personalization, and customer segmentation.
     remove_top_padding: true
   - _name: global/feature
-    title: Email Campaign in one minute
+    title: Changed for a test
     description: >-
-      Send an email campaign with one click, in just minutes. Automate your
+      **Send** an email campaign with one click, in just minutes. Automate your
       emails and content, while keeping the human touch.
     image: /images/feature/feature-card-one.png
     image_alt: Message inbox
