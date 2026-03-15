@@ -505,7 +505,7 @@
     "_base_original": "Change your"
   },
   "index:1:counter:title_suffix": {
-    "original": " Business ",
+    "original": " Numbers ",
     "value": " Business ",
     "_base_original": " Numbers "
   },
@@ -530,13 +530,13 @@
     "_base_original": "Try This Free"
   },
   "index:4:feature:description": {
-    "original": "<p>Send an email campaign with one click, in just minutes. Automate your emails and content, while keeping the human touch.</p>\n",
+    "original": "<p><strong>Send</strong> an email campaign with one click, in just minutes. Automate your emails and content, while keeping the human touch.</p>\n",
     "value": "<p>Envoyez une campagne email en un seul clic, en quelques minutes. Automatisez vos emails et votre contenu, tout en gardant la touche humaine.</p>\n",
     "_base_original": "<p><strong>Send</strong> an email campaign with one click, in just minutes. Automate your emails and content, while keeping the human touch.</p>\n"
   },
   "index:4:feature:title": {
-    "original": " Email Campaign in one minute ",
-    "value": "Campagne email en une minute",
+    "original": " Changed for a test ",
+    "value": "Translated for a test",
     "_base_original": " Changed for a test "
   },
   "index:5:feature:button_text": {
