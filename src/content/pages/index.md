@@ -23,7 +23,7 @@ content_blocks:
       link: /signup/
   - _name: global/counter
     title: Change your
-    title_suffix: Business
+    title_suffix: Numbers
     description: >-
       We have an extensive library of pre-written sales emails, proven marketing
       templates, and more to get you started on your next project.
