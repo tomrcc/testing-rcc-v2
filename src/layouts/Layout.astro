@@ -89,7 +89,7 @@ const canonicalURL = new URL(seo?.canonical_url ?? Astro.url.pathname, baseUrl);
       data-prop="@data[navigation]">
       <Navigation client:load pageUrl={canonicalURL} />
     </editable-component>
-    <main class="flex-1" data-locales="fr,de" data-rcc-verbose>
+    <main class="flex-1" data-rcc-verbose>
       <slot />
     </main>
     <Footer />

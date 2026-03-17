@@ -4,7 +4,7 @@ echo "Generating Rosey base locale"
 npx rosey generate --source dist
 
 echo "Writing locales"
-npx rosey-cloudcannon-connector write-locales --source rosey --locales fr,de
+npx rosey-cloudcannon-connector write-locales --source rosey --dest dist
 
 echo "Translating site with Rosey"
 mv ./dist ./_untranslated_site
