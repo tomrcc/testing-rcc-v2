@@ -12,10 +12,7 @@ seo:
 content_blocks:
   - _name: global/hero
     title: Beautiful web campaigns
-    description: >-
-      With **Sendit**, you *can* quickly create beautiful rich emails that
-      capture a reader's attention, engage them, and convert them into
-      customers!
+    description: This has completely changed
     image: /images/hero/hero-image.avif
     image_alt: Reports dashboard
     button:
