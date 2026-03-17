@@ -946,7 +946,7 @@
       "total": 1
     },
     "index:0:hero:description": {
-      "original": "<p>With <strong>Sendit</strong>, you <em>can</em> quickly create beautiful rich emails that capture a reader's attention, engage them, and convert them into customers.</p>\n",
+      "original": "<p>With <strong>Sendit</strong>, you <em>can</em> quickly create beautiful rich emails that capture a reader's attention, engage them, and convert them into customers!</p>\n",
       "value": null,
       "pages": {
         "index.html": 1
@@ -1066,7 +1066,7 @@
       "total": 1
     },
     "index:1:counter:title": {
-      "original": "Change your",
+      "original": "Change the",
       "value": null,
       "pages": {
         "index.html": 1

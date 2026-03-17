@@ -427,7 +427,7 @@
   "index:0:hero:description": {
     "original": "<p>With <strong>Sendit</strong>, you <em>can</em> quickly create beautiful rich emails that capture a reader's attention, engage them, and convert them into customers.</p>\n",
     "value": "Mit <em>Sendit</em> können <strong>Sie</strong> schnell <a href=\"/\">ansprechende</a> und informative E-Mails erstellen, die die Aufmerksamkeit des Lesers fesseln, ihn einbinden und ihn zu einem Kunden machen.",
-    "_base_original": "<p>With <strong>Sendit</strong>, you <em>can</em> quickly create beautiful rich emails that capture a reader's attention, engage them, and convert them into customers.</p>\n"
+    "_base_original": "<p>With <strong>Sendit</strong>, you <em>can</em> quickly create beautiful rich emails that capture a reader's attention, engage them, and convert them into customers!</p>\n"
   },
   "index:0:hero:title": {
     "original": " Beautiful web campaigns ",
@@ -502,7 +502,7 @@
   "index:1:counter:title": {
     "original": "Change your",
     "value": "Scale your",
-    "_base_original": "Change your"
+    "_base_original": "Change the"
   },
   "index:1:counter:title_suffix": {
     "original": " Numbers ",
