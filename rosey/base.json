@@ -946,7 +946,7 @@
       "total": 1
     },
     "index:0:hero:description": {
-      "original": "<p>This has completely changed</p>\n",
+      "original": "<p>This has completely changed!</p>\n",
       "value": null,
       "pages": {
         "index.html": 1
@@ -954,7 +954,7 @@
       "total": 1
     },
     "index:0:hero:title": {
-      "original": " Beautiful web campaigns ",
+      "original": " Testing the stale translations ",
       "value": null,
       "pages": {
         "index.html": 1
