@@ -15,14 +15,14 @@ content_blocks:
     description: >-
       With **Sendit**, you *can* quickly create beautiful rich emails that
       capture a reader's attention, engage them, and convert them into
-      customers.
+      customers!
     image: /images/hero/hero-image.avif
     image_alt: Reports dashboard
     button:
       text: Try This Free
       link: /signup/
   - _name: global/counter
-    title: Change your
+    title: Change the
     title_suffix: Numbers
     description: >-
       We have an extensive library of pre-written sales emails, proven marketing
