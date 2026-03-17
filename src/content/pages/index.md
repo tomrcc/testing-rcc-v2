@@ -11,8 +11,8 @@ seo:
   no_index: false
 content_blocks:
   - _name: global/hero
-    title: Beautiful web campaigns
-    description: This has completely changed
+    title: Testing the stale translations
+    description: This has completely changed!
     image: /images/hero/hero-image.avif
     image_alt: Reports dashboard
     button:
