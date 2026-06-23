@@ -785,31 +785,7 @@
       },
       "total": 1
     },
-    "features:5:0:testimonial:author": {
-      "original": " Pete Fish ",
-      "value": null,
-      "pages": {
-        "features/index.html": 1
-      },
-      "total": 1
-    },
-    "features:5:0:testimonial:designation": {
-      "original": " CMO at Clear Appeal ",
-      "value": null,
-      "pages": {
-        "features/index.html": 1
-      },
-      "total": 1
-    },
-    "features:5:0:testimonial:message": {
-      "original": " Sendit has taken Clear Appeal to the next level with its beautiful email campaigns. ",
-      "value": null,
-      "pages": {
-        "features/index.html": 1
-      },
-      "total": 1
-    },
-    "features:5:1:testimonial:author": {
+    "features:5:t-dolly:testimonial:author": {
       "original": " Dolly Watson ",
       "value": null,
       "pages": {
@@ -817,7 +793,7 @@
       },
       "total": 1
     },
-    "features:5:1:testimonial:designation": {
+    "features:5:t-dolly:testimonial:designation": {
       "original": " Digital Marketer at Time Cop ",
       "value": null,
       "pages": {
@@ -825,7 +801,7 @@
       },
       "total": 1
     },
-    "features:5:1:testimonial:message": {
+    "features:5:t-dolly:testimonial:message": {
       "original": " Wow, what a difference Sendit has made. My customers are more engaged than ever. ",
       "value": null,
       "pages": {
@@ -833,7 +809,31 @@
       },
       "total": 1
     },
-    "features:5:2:testimonial:author": {
+    "features:5:t-pete:testimonial:author": {
+      "original": " Pete Fish ",
+      "value": null,
+      "pages": {
+        "features/index.html": 1
+      },
+      "total": 1
+    },
+    "features:5:t-pete:testimonial:designation": {
+      "original": " CMO at Clear Appeal ",
+      "value": null,
+      "pages": {
+        "features/index.html": 1
+      },
+      "total": 1
+    },
+    "features:5:t-pete:testimonial:message": {
+      "original": " Sendit has taken Clear Appeal to the next level with its beautiful email campaigns. ",
+      "value": null,
+      "pages": {
+        "features/index.html": 1
+      },
+      "total": 1
+    },
+    "features:5:t-simon:testimonial:author": {
       "original": " Simon Moriarty ",
       "value": null,
       "pages": {
@@ -841,7 +841,7 @@
       },
       "total": 1
     },
-    "features:5:2:testimonial:designation": {
+    "features:5:t-simon:testimonial:designation": {
       "original": " Head of Marketing at Pinnacle Mines ",
       "value": null,
       "pages": {
@@ -849,7 +849,7 @@
       },
       "total": 1
     },
-    "features:5:2:testimonial:message": {
+    "features:5:t-simon:testimonial:message": {
       "original": " I can't imagine life without Sendit now, I have no idea how we were surviving before. ",
       "value": null,
       "pages": {
@@ -1177,31 +1177,7 @@
       },
       "total": 1
     },
-    "index:7:0:testimonial:author": {
-      "original": " Pete Fish ",
-      "value": null,
-      "pages": {
-        "index.html": 1
-      },
-      "total": 1
-    },
-    "index:7:0:testimonial:designation": {
-      "original": " CMO at Clear Appeal ",
-      "value": null,
-      "pages": {
-        "index.html": 1
-      },
-      "total": 1
-    },
-    "index:7:0:testimonial:message": {
-      "original": " Sendit has taken Clear Appeal to the next level with its beautiful email campaigns. ",
-      "value": null,
-      "pages": {
-        "index.html": 1
-      },
-      "total": 1
-    },
-    "index:7:1:testimonial:author": {
+    "index:7:t-dolly:testimonial:author": {
       "original": " Dolly Watson ",
       "value": null,
       "pages": {
@@ -1209,7 +1185,7 @@
       },
       "total": 1
     },
-    "index:7:1:testimonial:designation": {
+    "index:7:t-dolly:testimonial:designation": {
       "original": " Digital Marketer at Time Cop ",
       "value": null,
       "pages": {
@@ -1217,7 +1193,7 @@
       },
       "total": 1
     },
-    "index:7:1:testimonial:message": {
+    "index:7:t-dolly:testimonial:message": {
       "original": " Wow, what a difference Sendit has made. My customers are more engaged than ever. ",
       "value": null,
       "pages": {
@@ -1225,7 +1201,31 @@
       },
       "total": 1
     },
-    "index:7:2:testimonial:author": {
+    "index:7:t-pete:testimonial:author": {
+      "original": " Pete Fish ",
+      "value": null,
+      "pages": {
+        "index.html": 1
+      },
+      "total": 1
+    },
+    "index:7:t-pete:testimonial:designation": {
+      "original": " CMO at Clear Appeal ",
+      "value": null,
+      "pages": {
+        "index.html": 1
+      },
+      "total": 1
+    },
+    "index:7:t-pete:testimonial:message": {
+      "original": " Sendit has taken Clear Appeal to the next level with its beautiful email campaigns. ",
+      "value": null,
+      "pages": {
+        "index.html": 1
+      },
+      "total": 1
+    },
+    "index:7:t-simon:testimonial:author": {
       "original": " Simon Moriarty ",
       "value": null,
       "pages": {
@@ -1233,7 +1233,7 @@
       },
       "total": 1
     },
-    "index:7:2:testimonial:designation": {
+    "index:7:t-simon:testimonial:designation": {
       "original": " Head of Marketing at Pinnacle Mines ",
       "value": null,
       "pages": {
@@ -1241,7 +1241,7 @@
       },
       "total": 1
     },
-    "index:7:2:testimonial:message": {
+    "index:7:t-simon:testimonial:message": {
       "original": " I can't imagine life without Sendit now, I have no idea how we were surviving before. ",
       "value": null,
       "pages": {
@@ -1810,7 +1810,7 @@
       "total": 1
     },
     "simple_hero:description": {
-      "original": "",
+      "original": "<p>We believe that a good email marketing strategy is the key to growth. So we’re helping you grow your business with tools and resources that make email marketing easy.</p>\n",
       "value": null,
       "pages": {
         "blog/2/index.html": 1,
@@ -1827,7 +1827,7 @@
       "total": 10
     },
     "simple_hero:title": {
-      "original": "Technology",
+      "original": "Resources for makers to learn, sell &amp; grow",
       "value": null,
       "pages": {
         "blog/2/index.html": 1,

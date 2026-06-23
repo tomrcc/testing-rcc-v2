@@ -66,21 +66,24 @@ content_blocks:
       Customers from around the world are building game changing email marketing
       campaigns.
     testimonials:
-      - image: /images/testimonial/logo-2.jpg
+      - _uuid: t-pete
+        image: /images/testimonial/logo-2.jpg
         image_alt: Profile photo of Pete Fish
         author: Pete Fish
         designation: CMO at Clear Appeal
         message: >-
           Sendit has taken Clear Appeal to the next level with its beautiful
           email campaigns.
-      - image: /images/testimonial/logo-3.jpg
+      - _uuid: t-dolly
+        image: /images/testimonial/logo-3.jpg
         image_alt: Profile photo of Dolly Watson
         author: Dolly Watson
         designation: Digital Marketer at Time Cop
         message: >-
           Wow, what a difference Sendit has made. My customers are more engaged
           than ever.
-      - image: /images/testimonial/logo-4.jpg
+      - _uuid: t-simon
+        image: /images/testimonial/logo-4.jpg
         image_alt: Profile photo of Simon Moriarty
         author: Simon Moriarty
         designation: Head of Marketing at Pinnacle Mines

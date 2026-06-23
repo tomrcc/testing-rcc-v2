@@ -21,12 +21,16 @@ _structures:
   testimonial:
     values:
       - value:
+          _uuid:
           image: /images/testimonial/logo-2.jpg
           image_alt: Profile photo of the Head of Development
           author: Sherlock Homes
           designation: Head of Dev. at Company
           message: Eget eu massa et consectetur. Mauris donec. Leo a, id sed duis proin sodales. Turpis viverra diam porttitor mattis morbi ac amet.
         _inputs:
+          _uuid:
+            hidden: true
+            instance_value: UUID
           image:
             type: image
             options:

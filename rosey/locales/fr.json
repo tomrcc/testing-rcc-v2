@@ -339,47 +339,47 @@
     "value": " Free templates to get you started ",
     "_base_original": " Free templates to get you started "
   },
-  "features:5:0:testimonial:author": {
-    "original": " Pete Fish ",
-    "value": " Pete Fish ",
-    "_base_original": " Pete Fish "
-  },
-  "features:5:0:testimonial:designation": {
-    "original": " CMO at Clear Appeal ",
-    "value": " CMO at Clear Appeal ",
-    "_base_original": " CMO at Clear Appeal "
-  },
-  "features:5:0:testimonial:message": {
-    "original": " Sendit has taken Clear Appeal to the next level with its beautiful email campaigns. ",
-    "value": " Sendit has taken Clear Appeal to the next level with its beautiful email campaigns. ",
-    "_base_original": " Sendit has taken Clear Appeal to the next level with its beautiful email campaigns. "
-  },
-  "features:5:1:testimonial:author": {
+  "features:5:t-dolly:testimonial:author": {
     "original": " Dolly Watson ",
-    "value": " Dolly Watson ",
+    "value": "Dolly — Position 2 (FR)",
     "_base_original": " Dolly Watson "
   },
-  "features:5:1:testimonial:designation": {
+  "features:5:t-dolly:testimonial:designation": {
     "original": " Digital Marketer at Time Cop ",
     "value": " Digital Marketer at Time Cop ",
     "_base_original": " Digital Marketer at Time Cop "
   },
-  "features:5:1:testimonial:message": {
+  "features:5:t-dolly:testimonial:message": {
     "original": " Wow, what a difference Sendit has made. My customers are more engaged than ever. ",
     "value": " Wow, what a difference Sendit has made. My customers are more engaged than ever. ",
     "_base_original": " Wow, what a difference Sendit has made. My customers are more engaged than ever. "
   },
-  "features:5:2:testimonial:author": {
+  "features:5:t-pete:testimonial:author": {
+    "original": " Pete Fish ",
+    "value": "Pete — Position 1 (FR)",
+    "_base_original": " Pete Fish "
+  },
+  "features:5:t-pete:testimonial:designation": {
+    "original": " CMO at Clear Appeal ",
+    "value": " CMO at Clear Appeal ",
+    "_base_original": " CMO at Clear Appeal "
+  },
+  "features:5:t-pete:testimonial:message": {
+    "original": " Sendit has taken Clear Appeal to the next level with its beautiful email campaigns. ",
+    "value": " Sendit has taken Clear Appeal to the next level with its beautiful email campaigns. ",
+    "_base_original": " Sendit has taken Clear Appeal to the next level with its beautiful email campaigns. "
+  },
+  "features:5:t-simon:testimonial:author": {
     "original": " Simon Moriarty ",
-    "value": " Simon Moriarty ",
+    "value": "Simon — Position 3 (FR)",
     "_base_original": " Simon Moriarty "
   },
-  "features:5:2:testimonial:designation": {
+  "features:5:t-simon:testimonial:designation": {
     "original": " Head of Marketing at Pinnacle Mines ",
     "value": " Head of Marketing at Pinnacle Mines ",
     "_base_original": " Head of Marketing at Pinnacle Mines "
   },
-  "features:5:2:testimonial:message": {
+  "features:5:t-simon:testimonial:message": {
     "original": " I can't imagine life without Sendit now, I have no idea how we were surviving before. ",
     "value": " I can't imagine life without Sendit now, I have no idea how we were surviving before. ",
     "_base_original": " I can't imagine life without Sendit now, I have no idea how we were surviving before. "
@@ -569,47 +569,47 @@
     "value": " 100% free uploads ",
     "_base_original": " 100% free uploads "
   },
-  "index:7:0:testimonial:author": {
-    "original": " Pete Fish ",
-    "value": " Pete Fish ",
-    "_base_original": " Pete Fish "
-  },
-  "index:7:0:testimonial:designation": {
-    "original": " CMO at Clear Appeal ",
-    "value": " CMO at Clear Appeal ",
-    "_base_original": " CMO at Clear Appeal "
-  },
-  "index:7:0:testimonial:message": {
-    "original": " Sendit has taken Clear Appeal to the next level with its beautiful email campaigns. ",
-    "value": " Sendit has taken Clear Appeal to the next level with its beautiful email campaigns. ",
-    "_base_original": " Sendit has taken Clear Appeal to the next level with its beautiful email campaigns. "
-  },
-  "index:7:1:testimonial:author": {
+  "index:7:t-dolly:testimonial:author": {
     "original": " Dolly Watson ",
-    "value": " Dolly Watson ",
+    "value": "Dolly — Position 2 (FR)",
     "_base_original": " Dolly Watson "
   },
-  "index:7:1:testimonial:designation": {
+  "index:7:t-dolly:testimonial:designation": {
     "original": " Digital Marketer at Time Cop ",
     "value": " Digital Marketer at Time Cop ",
     "_base_original": " Digital Marketer at Time Cop "
   },
-  "index:7:1:testimonial:message": {
+  "index:7:t-dolly:testimonial:message": {
     "original": " Wow, what a difference Sendit has made. My customers are more engaged than ever. ",
     "value": " Wow, what a difference Sendit has made. My customers are more engaged than ever. ",
     "_base_original": " Wow, what a difference Sendit has made. My customers are more engaged than ever. "
   },
-  "index:7:2:testimonial:author": {
+  "index:7:t-pete:testimonial:author": {
+    "original": " Pete Fish ",
+    "value": "Pete — Position 1 (FR)",
+    "_base_original": " Pete Fish "
+  },
+  "index:7:t-pete:testimonial:designation": {
+    "original": " CMO at Clear Appeal ",
+    "value": " CMO at Clear Appeal ",
+    "_base_original": " CMO at Clear Appeal "
+  },
+  "index:7:t-pete:testimonial:message": {
+    "original": " Sendit has taken Clear Appeal to the next level with its beautiful email campaigns. ",
+    "value": " Sendit has taken Clear Appeal to the next level with its beautiful email campaigns. ",
+    "_base_original": " Sendit has taken Clear Appeal to the next level with its beautiful email campaigns. "
+  },
+  "index:7:t-simon:testimonial:author": {
     "original": " Simon Moriarty ",
-    "value": " Simon Moriarty ",
+    "value": "Simon — Position 3 (FR)",
     "_base_original": " Simon Moriarty "
   },
-  "index:7:2:testimonial:designation": {
+  "index:7:t-simon:testimonial:designation": {
     "original": " Head of Marketing at Pinnacle Mines ",
     "value": " Head of Marketing at Pinnacle Mines ",
     "_base_original": " Head of Marketing at Pinnacle Mines "
   },
-  "index:7:2:testimonial:message": {
+  "index:7:t-simon:testimonial:message": {
     "original": " I can't imagine life without Sendit now, I have no idea how we were surviving before. ",
     "value": " I can't imagine life without Sendit now, I have no idea how we were surviving before. ",
     "_base_original": " I can't imagine life without Sendit now, I have no idea how we were surviving before. "
@@ -967,11 +967,11 @@
   "simple_hero:description": {
     "original": "<p>Have a question or suggestion? Feel free to drop us a message!</p>\n",
     "value": "<p>Have a question or suggestion? Feel free to drop us a message!</p>\n",
-    "_base_original": ""
+    "_base_original": "<p>We believe that a good email marketing strategy is the key to growth. So we’re helping you grow your business with tools and resources that make email marketing easy.</p>\n"
   },
   "simple_hero:title": {
     "original": "Let's talk.",
     "value": "Let's talk.",
-    "_base_original": "Technology"
+    "_base_original": "Resources for makers to learn, sell &amp; grow"
   }
 }
