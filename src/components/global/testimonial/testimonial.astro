@@ -61,11 +61,9 @@ const { title, title_suffix, description, testimonials } = Astro.props;
           class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8"
           data-editable="array"
           data-prop="testimonials"
-          data-component-key="_name"
-          data-id-key="_uuid"
         >
           {testimonials?.map((testimonial: Testimonial) => (
-            <div data-editable="array-item" data-id={testimonial._uuid}>
+            <div data-editable="array-item" data-component="global/testimonial-item">
               <TestimonialItem {...testimonial} />
             </div>
           ))}
