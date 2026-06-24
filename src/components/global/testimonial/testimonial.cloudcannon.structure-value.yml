@@ -29,7 +29,8 @@ _structures:
           message: Eget eu massa et consectetur. Mauris donec. Leo a, id sed duis proin sodales. Turpis viverra diam porttitor mattis morbi ac amet.
         _inputs:
           _uuid:
-            hidden: true
+            type: text
+            hidden: false
             instance_value: UUID
           image:
             type: image
