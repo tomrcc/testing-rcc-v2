@@ -21,6 +21,7 @@ _structures:
   testimonial:
     values:
       - value:
+          _name: global/testimonial-item
           _uuid:
           image: /images/testimonial/logo-2.jpg
           image_alt: Profile photo of the Head of Development
@@ -28,6 +29,8 @@ _structures:
           designation: Head of Dev. at Company
           message: Eget eu massa et consectetur. Mauris donec. Leo a, id sed duis proin sodales. Turpis viverra diam porttitor mattis morbi ac amet.
         _inputs:
+          _name:
+            hidden: true
           _uuid:
             type: text
             hidden: false

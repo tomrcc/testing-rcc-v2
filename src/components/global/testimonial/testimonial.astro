@@ -1,6 +1,6 @@
 ---
-import { Image } from "astro:assets";
 import MarkdownIt from "markdown-it";
+import TestimonialItem from "./testimonial-item.astro";
 const md = new MarkdownIt({ html: true });
 
 // Define TypeScript interfaces
@@ -61,57 +61,12 @@ const { title, title_suffix, description, testimonials } = Astro.props;
           class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8"
           data-editable="array"
           data-prop="testimonials"
+          data-component-key="_name"
+          data-id-key="_uuid"
         >
-          {testimonials?.map((testimonial: Testimonial, i: number) => (
-            <div
-              data-editable="array-item"
-              data-rosey-ns={testimonial._uuid}
-            >
-              <div class="bg-white p-6 rounded-xl">
-                <div class="flex items-center gap-4 mt-4 mb-4">
-                  {testimonial.image && (
-                    <div class="shrink-0">
-                      <Image
-                        data-editable="image"
-                        data-prop-src="image"
-                        data-prop-alt="image_alt"
-                        src={testimonial.image}
-                        alt={testimonial.image_alt || ""}
-                        loading="lazy"
-                        width={80}
-                        height={80}
-                        class="w-20 h-20 rounded-full object-cover"
-                      />
-                    </div>
-                  )}
-                  <div class="flex-1">
-                    <h3
-                      class="font-semibold text-gray-900"
-                      data-editable="text"
-                      data-prop="author"
-                      data-rosey="testimonial:author"
-                    >
-                      {testimonial.author}
-                    </h3>
-                    <p
-                      class="text-gray-600"
-                      data-editable="text"
-                      data-prop="designation"
-                      data-rosey="testimonial:designation"
-                    >
-                      {testimonial.designation}
-                    </p>
-                  </div>
-                </div>
-                <p
-                  class="text-gray-700 leading-relaxed"
-                  data-editable="text"
-                  data-prop="message"
-                  data-rosey="testimonial:message"
-                >
-                  {testimonial.message}
-                </p>
-              </div>
+          {testimonials?.map((testimonial: Testimonial) => (
+            <div data-editable="array-item" data-id={testimonial._uuid}>
+              <TestimonialItem {...testimonial} />
             </div>
           ))}
         </div>

@@ -34,6 +34,7 @@ import GlobalLogin from "../components/global/login/login.astro";
 import GlobalSignup from "../components/global/signup/signup.astro";
 import GlobalSimpleHero from "../components/global/simple-hero/simple-hero.astro";
 import GlobalTestimonial from "../components/global/testimonial/testimonial.astro";
+import GlobalTestimonialItem from "../components/global/testimonial/testimonial-item.astro";
 import GlobalVideo from "../components/global/video/video.astro";
 import LayoutsFooter from "../components/layouts/footer.astro";
 import GlobalPricingTable from "../components/global/pricing-table/pricing-table.astro";
@@ -55,6 +56,7 @@ const astroComponentRegistrations = [
   { name: "global/signup", component: GlobalSignup },
   { name: "global/simple-hero", component: GlobalSimpleHero },
   { name: "global/testimonial", component: GlobalTestimonial },
+  { name: "global/testimonial-item", component: GlobalTestimonialItem },
   { name: "layouts/footer", component: LayoutsFooter },
   { name: "global/pricing-table", component: GlobalPricingTable },
   { name: "global/pricing-item", component: GlobalPricingItem },

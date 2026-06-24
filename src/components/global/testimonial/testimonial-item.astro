@@ -1,0 +1,73 @@
+---
+import { Image } from "astro:assets";
+
+interface Props {
+  _uuid?: string;
+  image?: string;
+  image_alt?: string;
+  author?: string;
+  designation?: string;
+  message?: string;
+}
+
+const { _uuid, image, image_alt, author, designation, message } = Astro.props;
+---
+
+{/*
+  EXPERIMENT: each testimonial is now its OWN registered component.
+  `data-rosey-ns` lives on THIS component's root, so it is regenerated (with the
+  item's real _uuid) whenever CloudCannon renders the component for a new or
+  reordered row — instead of being baked onto a cloned array-item wrapper that
+  goes stale. See the "Sub-arrays within widget components" note.
+*/}
+<div
+  data-editable="component"
+  data-component="global/testimonial-item"
+  data-rosey-ns={_uuid}
+>
+  <div class="bg-white p-6 rounded-xl">
+    <div class="flex items-center gap-4 mt-4 mb-4">
+      {image && (
+        <div class="shrink-0">
+          <Image
+            data-editable="image"
+            data-prop-src="image"
+            data-prop-alt="image_alt"
+            src={image}
+            alt={image_alt || ""}
+            loading="lazy"
+            width={80}
+            height={80}
+            class="w-20 h-20 rounded-full object-cover"
+          />
+        </div>
+      )}
+      <div class="flex-1">
+        <h3
+          class="font-semibold text-gray-900"
+          data-editable="text"
+          data-prop="author"
+          data-rosey="testimonial:author"
+        >
+          {author}
+        </h3>
+        <p
+          class="text-gray-600"
+          data-editable="text"
+          data-prop="designation"
+          data-rosey="testimonial:designation"
+        >
+          {designation}
+        </p>
+      </div>
+    </div>
+    <p
+      class="text-gray-700 leading-relaxed"
+      data-editable="text"
+      data-prop="message"
+      data-rosey="testimonial:message"
+    >
+      {message}
+    </p>
+  </div>
+</div>
