@@ -65,6 +65,7 @@ const { title, title_suffix, description, testimonials } = Astro.props;
           <template>
             <div 
               data-editable="array-item" 
+              data-prop-data-rosey-ns="_uuid"
               >
               <div class="bg-white p-6 rounded-xl">
                 <div class="flex items-center gap-4 mt-4 mb-4">
@@ -106,7 +107,11 @@ const { title, title_suffix, description, testimonials } = Astro.props;
             </div>
           </template>
           {testimonials?.map((testimonial: Testimonial, i: number) => (
-            <div data-editable="array-item" data-rosey-ns={testimonial._uuid}>
+            <div
+              data-editable="array-item"
+              data-rosey-ns={testimonial._uuid}
+              data-prop-data-rosey-ns="_uuid"
+            >
               <div class="bg-white p-6 rounded-xl">
                 <div class="flex items-center gap-4 mt-4 mb-4">
                   {testimonial.image && (
