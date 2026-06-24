@@ -62,49 +62,6 @@ const { title, title_suffix, description, testimonials } = Astro.props;
           data-editable="array"
           data-prop="testimonials"
         >
-          <template>
-            <div 
-              data-editable="array-item" 
-              >
-              <div class="bg-white p-6 rounded-xl">
-                <div class="flex items-center gap-4 mt-4 mb-4">
-                  {
-                    <div class="shrink-0">
-                      <img
-                        data-editable="image"
-                        data-prop-src="image"
-                        data-prop-alt="image_alt"
-                        loading="lazy"
-                        width={80}
-                        height={80}
-                        class="w-20 h-20 rounded-full object-cover"
-                      />
-                    </div>
-                  }
-                  <div class="flex-1">
-                    <h3
-                      class="font-semibold text-gray-900"
-                      data-editable="text"
-                      data-prop="author"
-                      data-rosey="testimonial:author"
-                    />
-                    <p
-                      class="text-gray-600"
-                      data-editable="text"
-                      data-prop="designation"
-                      data-rosey="testimonial:designation"
-                    />
-                  </div>
-                </div>
-                <p
-                  class="text-gray-700 leading-relaxed"
-                  data-editable="text"
-                  data-prop="message"
-                  data-rosey="testimonial:message"
-                />
-              </div>
-            </div>
-          </template>
           {testimonials?.map((testimonial: Testimonial, i: number) => (
             <div
               data-editable="array-item"
