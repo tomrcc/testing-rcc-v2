@@ -364,25 +364,10 @@
     "value": " I can't imagine life without Sendit now, I have no idea how we were surviving before. ",
     "_base_original": " I can't imagine life without Sendit now, I have no idea how we were surviving before. "
   },
-  "features:5:testimonial:author": {
-    "original": "",
-    "value": "",
-    "_base_original": ""
-  },
   "features:5:testimonial:description": {
     "original": "<p>Customers from around the world are building game changing email marketing campaigns.</p>\n",
     "value": "<p>Customers from around the world are building game changing email marketing campaigns.</p>\n",
     "_base_original": "<p>Customers from around the world are building game changing email marketing campaigns.</p>\n"
-  },
-  "features:5:testimonial:designation": {
-    "original": "",
-    "value": "",
-    "_base_original": ""
-  },
-  "features:5:testimonial:message": {
-    "original": "",
-    "value": "",
-    "_base_original": ""
   },
   "features:5:testimonial:title": {
     "original": "Build relationships that",
@@ -443,11 +428,6 @@
     "original": " Supported languages ",
     "value": " Supported languages ",
     "_base_original": " Supported languages "
-  },
-  "index:1:3:counter:prefix": {
-    "original": "  ",
-    "value": "  ",
-    "_base_original": "  "
   },
   "index:1:3:counter:suffix": {
     "original": " + ",
@@ -738,11 +718,6 @@
     "original": "125",
     "value": "125",
     "_base_original": "125"
-  },
-  "pricing:1:1:pricing_item:feature_item": {
-    "original": "",
-    "value": "",
-    "_base_original": ""
   },
   "pricing:1:1:pricing_item:price": {
     "original": "199",
