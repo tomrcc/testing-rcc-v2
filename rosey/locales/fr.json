@@ -94,25 +94,10 @@
     "value": " Venture capital raised ",
     "_base_original": " Venture capital raised "
   },
-  "about:2:1:counter:prefix": {
-    "original": "  ",
-    "value": "  ",
-    "_base_original": "  "
-  },
-  "about:2:1:counter:suffix": {
-    "original": "  ",
-    "value": "  ",
-    "_base_original": "  "
-  },
   "about:2:1:counter:text": {
     "original": " Established in ",
     "value": " Established in ",
     "_base_original": " Established in "
-  },
-  "about:2:2:counter:prefix": {
-    "original": "  ",
-    "value": "  ",
-    "_base_original": "  "
   },
   "about:2:2:counter:suffix": {
     "original": " + ",
@@ -123,11 +108,6 @@
     "original": " Amazing team members ",
     "value": " Amazing team members ",
     "_base_original": " Amazing team members "
-  },
-  "about:2:3:counter:prefix": {
-    "original": "  ",
-    "value": "  ",
-    "_base_original": "  "
   },
   "about:2:3:counter:suffix": {
     "original": " + ",
@@ -449,25 +429,10 @@
     "value": " Venture capital raised ",
     "_base_original": " Venture capital raised "
   },
-  "index:1:1:counter:prefix": {
-    "original": "  ",
-    "value": "  ",
-    "_base_original": "  "
-  },
-  "index:1:1:counter:suffix": {
-    "original": "  ",
-    "value": "  ",
-    "_base_original": "  "
-  },
   "index:1:1:counter:text": {
     "original": " Established in ",
     "value": " Established in ",
     "_base_original": " Established in "
-  },
-  "index:1:2:counter:prefix": {
-    "original": "  ",
-    "value": "  ",
-    "_base_original": "  "
   },
   "index:1:2:counter:suffix": {
     "original": " + ",
@@ -614,25 +579,10 @@
     "value": " I can't imagine life without Sendit now, I have no idea how we were surviving before. ",
     "_base_original": " I can't imagine life without Sendit now, I have no idea how we were surviving before. "
   },
-  "index:7:testimonial:author": {
-    "original": "",
-    "value": "",
-    "_base_original": ""
-  },
   "index:7:testimonial:description": {
     "original": "<p>Customers from around the world are building game changing email marketing campaigns.</p>\n",
     "value": "<p>Customers from around the world are building game changing email marketing campaigns.</p>\n",
     "_base_original": "<p>Customers from around the world are building game changing email marketing campaigns.</p>\n"
-  },
-  "index:7:testimonial:designation": {
-    "original": "",
-    "value": "",
-    "_base_original": ""
-  },
-  "index:7:testimonial:message": {
-    "original": "",
-    "value": "",
-    "_base_original": ""
   },
   "index:7:testimonial:title": {
     "original": "Build relationships that",
@@ -713,11 +663,6 @@
     "original": " Everything you need to get started. ",
     "value": " Everything you need to get started. ",
     "_base_original": " Everything you need to get started. "
-  },
-  "pricing:1:0:pricing_item:feature_item": {
-    "original": "",
-    "value": "",
-    "_base_original": ""
   },
   "pricing:1:0:pricing_item:price": {
     "original": "0",
@@ -874,11 +819,6 @@
     "value": "350",
     "_base_original": "350"
   },
-  "pricing:1:2:pricing_item:feature_item": {
-    "original": "",
-    "value": "",
-    "_base_original": ""
-  },
   "pricing:1:2:pricing_item:price": {
     "original": "499",
     "value": "499",
@@ -938,16 +878,6 @@
     "original": "In which currencies can I make payments?",
     "value": "In which currencies can I make payments?",
     "_base_original": "In which currencies can I make payments?"
-  },
-  "pricing:2:faq_item:description": {
-    "original": "",
-    "value": "",
-    "_base_original": ""
-  },
-  "pricing:2:faq_item:title": {
-    "original": "",
-    "value": "",
-    "_base_original": ""
   },
   "pricing:2:faq:description": {
     "original": "<p>We believe that a good email marketing strategy is the key to growth. So we're helping you grow your business with tools and resources that make email marketing easy.</p>\n",
