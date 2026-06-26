@@ -5,43 +5,53 @@
   "copyright": "MyCompany. All rights reserved.",
   "sections": [
     {
+      "_uuid": "ca6c21f8-b055-446c-8cd3-2ca6552efe37",
       "title": "Main Pages",
       "links": [
         {
+          "_uuid": "5b6c73b7-03fa-4464-ae2b-78c8594ada52",
           "text": "Home",
           "link": "/"
         },
         {
+          "_uuid": "e301011c-7675-41e0-b3b6-b7cb765c3875",
           "text": "Features",
           "link": "/features/"
         },
         {
+          "_uuid": "fe6dbc6a-15b9-4a0b-a949-9dd109331d23",
           "text": "Price",
           "link": "/pricing/"
         },
         {
+          "_uuid": "e2fc5dea-3127-495a-bf14-925be5f3371c",
           "text": "About",
           "link": "/about/"
         }
       ]
     },
     {
+      "_uuid": "ed771f99-ff4d-43da-a217-693385413e1c",
       "title": "Community",
       "links": [
         {
+          "_uuid": "4b9250a3-488e-4618-a574-8463d06ddbb7",
           "text": "Blog",
           "link": "/blog/"
         },
         {
+          "_uuid": "7a0c02db-9653-499b-b4b2-947ce1544a21",
           "text": "RSS Feed",
           "link": "/feed.xml"
         }
       ]
     },
     {
+      "_uuid": "74d7fbde-5859-425c-879d-e87611b8dcf1",
       "title": "Company",
       "links": [
         {
+          "_uuid": "a4b8e964-4707-4321-9d5d-c9ab080518f2",
           "text": "Contact",
           "link": "/contact/"
         }

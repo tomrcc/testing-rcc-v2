@@ -13,6 +13,7 @@ interface Button {
 }
 
 interface PricingTier {
+  _uuid?: string;
   tier: string;
   highlight_tier: boolean;
   description: string;
@@ -43,7 +44,7 @@ const { pricing_tier } = Astro.props;
       {
         pricing_tier &&
           pricing_tier.map((tier, i: number) => (
-            <editable-array-item class="w-full lg:w-1/3 px-4" data-rosey-ns={String(i)}>
+            <editable-array-item class="w-full lg:w-1/3 px-4">
               <PricingItem {...tier} />
             </editable-array-item>
           ))

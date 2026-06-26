@@ -4,6 +4,7 @@ tags: []
 
 value:
   _name: global/signup
+  _uuid:
   title: Create Account
   form:
     fullname:
@@ -23,6 +24,10 @@ value:
       text: Log In
 
 _inputs:
+  _uuid:
+    type: text
+    hidden: true
+    instance_value: UUID
   form:
     type: object
     options:

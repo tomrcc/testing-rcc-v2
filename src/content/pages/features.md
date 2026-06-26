@@ -11,6 +11,7 @@ seo:
   no_index: false
 content_blocks:
   - _name: global/hero
+    _uuid: 8b46de22-0439-45ef-98cc-0f44c9ce22d1
     title: Run the best campaigns
     description: Sendit will change the way you think about email and marketing automation.
     button:
@@ -19,6 +20,7 @@ content_blocks:
     image: /images/feature/feature-hero.png
     image_alt: Charts
   - _name: global/header
+    _uuid: 386bc522-396a-4e6e-9272-b7bbbba4aa5e
     title: "Sendit "
     title_suffix: Features
     description: >-
@@ -26,6 +28,7 @@ content_blocks:
       manage mails and send them out at the best price.
     remove_top_padding: false
   - _name: global/feature
+    _uuid: 319f1ab1-2482-4ad8-96b4-a6bc7d3ca090
     image: /images/feature/feature-card-one.png
     image_alt: Message inbox
     title: Simply click and send
@@ -37,6 +40,7 @@ content_blocks:
       text: Try This Free
     reversed: false
   - _name: global/feature
+    _uuid: a7b04c0e-71fa-49ff-9346-426363db910e
     image: /images/feature/feature-card-two.png
     image_alt: Visitor chart
     title: See every lead in one place
@@ -48,6 +52,7 @@ content_blocks:
       text: Try This Free
     reversed: true
   - _name: global/feature
+    _uuid: ca8babe1-211d-470c-9754-a81e6eb66fdf
     image: /images/feature/feature-card-three.png
     image_alt: Upload box
     title: Free templates to get you started
@@ -60,6 +65,7 @@ content_blocks:
       text: Try This Free
     reversed: false
   - _name: global/testimonial
+    _uuid: 4df790cb-c512-42af-b6cc-5b59c5769285
     title: Build relationships that
     title_suffix: last
     description: >-

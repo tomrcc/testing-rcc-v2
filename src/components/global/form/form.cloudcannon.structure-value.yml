@@ -4,6 +4,7 @@ tags: []
 
 value:
   _name: global/form
+  _uuid:
   address:
     heading: Office Address
     address: 1421 San Pedro St, Los Angeles, CA 90015
@@ -37,6 +38,10 @@ value:
       text: Send message
   
 _inputs:
+  _uuid:
+    type: text
+    hidden: true
+    instance_value: UUID
   placeholder:
     comment: The placeholder text inside the input before a value has been entered. Does not live update.
   form:

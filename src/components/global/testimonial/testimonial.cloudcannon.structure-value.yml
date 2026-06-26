@@ -4,12 +4,17 @@ tags: []
 
 value:
   _name: global/testimonial
+  _uuid:
   title: We Felt Proud When People Love our
   title_suffix: Product
   description: We believe that a good email marketing strategy is the key to growth. So we’re helping you grow your business with tools and resources that make email marketing easy.
   testimonials:
 
 _inputs:
+  _uuid:
+    type: text
+    hidden: true
+    instance_value: UUID
   description:
     type: markdown
   testimonials:

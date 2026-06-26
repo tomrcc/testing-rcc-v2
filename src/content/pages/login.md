@@ -10,6 +10,7 @@ seo:
   no_index: false
 content_blocks:
   - _name: global/login
+    _uuid: 6c57e75a-206c-42ed-a0ec-ffbc8b9bcf90
     title: Log In
     fullname:
       heading: Full Name

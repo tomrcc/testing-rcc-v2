@@ -374,11 +374,16 @@ _structures:
     style: select
     values:
       - value:
+          _uuid:
           title:
           links:
         preview:
           icon: sort
         _inputs:
+          _uuid:
+            type: text
+            hidden: true
+            instance_value: UUID
           links:
             type: array
             options:
@@ -391,8 +396,14 @@ _structures:
       - preview:
           icon: link
         value:
+          _uuid:
           text:
           link:
+        _inputs:
+          _uuid:
+            type: text
+            hidden: true
+            instance_value: UUID
   nav_items:
     style: select
     values:

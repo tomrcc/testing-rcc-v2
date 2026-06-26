@@ -4,6 +4,13 @@ tags: []
 
 value:
   _name: global/video
+  _uuid:
   image: /images/video/video-thum.avif
   image_alt: Thumbnail for video
   video_url: https://vimeo.com/45830194
+
+_inputs:
+  _uuid:
+    type: text
+    hidden: true
+    instance_value: UUID

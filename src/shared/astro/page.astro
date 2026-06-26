@@ -42,7 +42,7 @@ const { content_blocks, slug } = Astro.props;
         return null;
       }
       return (
-        <editable-array-item data-id={block._name} data-component={block._name} data-rosey-ns={String(i)}>
+        <editable-array-item data-id={block._name} data-component={block._name} data-rosey-ns={block._uuid}>
           <editable-component data-component={block._name} data-prop="">
             <Component {...block} />
           </editable-component>

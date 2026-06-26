@@ -4,6 +4,7 @@ tags: []
 
 value:
   _name: global/login
+  _uuid:
   title: Log In
   fullname:
     heading: Full Name
@@ -20,6 +21,10 @@ value:
     text: Create an Account
 
 _inputs:
+  _uuid:
+    type: text
+    hidden: true
+    instance_value: UUID
   fullname:
     options:
       preview:

@@ -10,14 +10,16 @@ interface FaqItemProps {
 interface Props {
   faq: FaqItemProps;
   i: number;
+  _uuid?: string;
 }
 
-const { faq, i, ...rest } = Astro.props;
+const { faq, i, _uuid, ...rest } = Astro.props;
 ---
 
 <details
   class="bg-white rounded-xl shadow-sm border border-gray-200 overflow-hidden group"
   open={i === 0}
+  data-rosey-ns={_uuid}
   {...rest}>
   <summary
     class="w-full px-6 py-6 text-left flex items-center justify-between transition-colors duration-200 cursor-pointer list-none">

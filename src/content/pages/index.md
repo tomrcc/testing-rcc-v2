@@ -11,6 +11,7 @@ seo:
   no_index: false
 content_blocks:
   - _name: global/hero
+    _uuid: 052b4d4f-2960-407f-bf1b-958d833f4cdd
     title: Testing the stale translations
     description: This has completely changed!
     image: /images/hero/hero-image.avif
@@ -19,6 +20,7 @@ content_blocks:
       text: Try This Free
       link: /signup/
   - _name: global/counter
+    _uuid: dcc563d5-8910-40a1-972d-e99df4476192
     title: Change the
     title_suffix: Numbers
     description: >-
@@ -27,26 +29,32 @@ content_blocks:
     alternate_style: false
     numbers:
       - prefix: $
+        _uuid: ba8b5544-ca18-422f-8f00-c1270a51a68a
         number: '211'
         suffix: m
         text: Venture capital raised
       - prefix:
+        _uuid: 8b54b2bb-ee97-4498-9fb0-5768d59f4583
         number: '2020'
         suffix:
         text: Established in
       - prefix:
+        _uuid: 18494946-e278-4b0b-8eb1-d7a49afb189c
         number: '3'
         suffix: +
         text: Supported languages
       - prefix:
+        _uuid: d35888f6-11bc-4827-9b21-63f2a5c26ca3
         number: '4322'
         suffix: +
         text: Active users and growing
   - _name: global/video
+    _uuid: 78c893eb-635e-4408-b6bb-53e49f4eb4a8
     image: /images/video/video-thum.avif
     image_alt: Thumbnail for video
     video_url: https://vimeo.com/45830194
   - _name: global/header
+    _uuid: 6bc12c8b-c7a5-41dc-aea2-1331552311cb
     title: 'Sendit '
     title_suffix: Features
     description: >-
@@ -54,6 +62,7 @@ content_blocks:
       content creation, dynamic personalization, and customer segmentation.
     remove_top_padding: true
   - _name: global/feature
+    _uuid: ba2f2656-6963-4132-b42f-7e4948ca5c1e
     title: Changed for a test
     description: >-
       **Send** an email campaign with one click, in just minutes. Automate your
@@ -65,6 +74,7 @@ content_blocks:
       text: Try This Free
     reversed: false
   - _name: global/feature
+    _uuid: e3f234bc-d5ae-471e-943e-74ad624d811a
     title: See every Lead in one Place
     description: >-
       Sales analytics and automation made simple: see every sales lead in one
@@ -76,6 +86,7 @@ content_blocks:
       text: Try This Free
     reversed: true
   - _name: global/feature
+    _uuid: b7636660-bc27-4d87-ac61-aec1c91b3898
     title: 100% free uploads
     description: >-
       Sendit is used by everyone from small businesses to fortune 500 companies.
@@ -88,6 +99,7 @@ content_blocks:
       text: Try This Free
     reversed: false
   - _name: global/testimonial
+    _uuid: 5d2769c2-6ee5-4927-9028-33bbeebbe3ee
     title: Build relationships that
     title_suffix: last
     description: >-

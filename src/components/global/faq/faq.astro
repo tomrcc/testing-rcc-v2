@@ -6,6 +6,7 @@ const md = new MarkdownIt({ html: true });
 
 // Define TypeScript interfaces
 interface FaqItemData {
+  _uuid?: string;
   title: string;
   description: string;
 }
@@ -54,6 +55,7 @@ const { title_suffix, description, FAQ, title } = Astro.props;
             <div
               class="space-y-4 grid gap-3"
               data-editable="array"
+              data-component="global/faqItem"
               data-prop="FAQ"
             >
               {
@@ -62,7 +64,7 @@ const { title_suffix, description, FAQ, title } = Astro.props;
                 </template>
               }
               {FAQ?.map((q: FaqItemData, i: number) => (
-                <FaqItem faq={q} i={i} data-editable="array-item" data-rosey-ns={String(i)} />
+                <FaqItem faq={q} i={i} _uuid={q._uuid} data-editable="array-item" />
               ))}
             </div>
           </div>

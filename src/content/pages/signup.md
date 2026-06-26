@@ -10,6 +10,7 @@ seo:
   no_index: false
 content_blocks:
   - _name: global/signup
+    _uuid: f5743e77-e956-4a25-bb2e-d2080bb935be
     title: Create Account
     form:
       fullname:

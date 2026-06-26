@@ -4,6 +4,7 @@ tags: []
 
 value:
   _name: global/pricing-table
+  _uuid:
   pricing_tier:
     - tier: free
       highlight_tier: false
@@ -20,6 +21,10 @@ value:
         text: Try This Free
 
 _inputs:
+  _uuid:
+    type: text
+    hidden: true
+    instance_value: UUID
   pricing_tier:
     type: array
     options:
@@ -29,6 +34,7 @@ _structures:
   pricing_tier:
     values:
       - value:
+          _uuid:
           tier:
           highlight_tier: false
           description:
@@ -38,9 +44,13 @@ _structures:
           discount_price:
           features:
           button:
-            link: 
+            link:
             text:
         _inputs:
+          _uuid:
+            type: text
+            hidden: true
+            instance_value: UUID
           tier:
             type: text
             comment: The label displayed at the top of the pricing card.
@@ -82,9 +92,14 @@ _structures:
           feature:
             values:
               - value:
-                  item: 
+                  _uuid:
+                  item:
                   active_feature: true
                 _inputs:
+                  _uuid:
+                    type: text
+                    hidden: true
+                    instance_value: UUID
                   active_feature:
                     type: switch
                     comment: Active/Inactive styles will be applied after a save & build.

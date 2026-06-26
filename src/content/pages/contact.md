@@ -10,9 +10,11 @@ seo:
   no_index: false
 content_blocks:
   - _name: global/simple-hero
+    _uuid: dc0aa9ec-a5a8-44c9-93d2-edda88055b7a
     title: Let's talk.
     description: Have a question or suggestion? Feel free to drop us a message!
   - _name: global/form
+    _uuid: 3e52951a-8e13-45dd-99a1-9f784d100868
     address:
       heading: Contact Details
       address: 123 Train St, San Francisco, CA 9107

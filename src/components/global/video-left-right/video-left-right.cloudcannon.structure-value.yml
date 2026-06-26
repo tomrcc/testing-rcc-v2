@@ -4,6 +4,7 @@ tags: []
 
 value:
   _name: global/video-left-right
+  _uuid:
   title: We Love our works
   description: On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish.
   button:
@@ -15,6 +16,10 @@ value:
     link: https://vimeo.com/45830194
 
 _inputs:
+  _uuid:
+    type: text
+    hidden: true
+    instance_value: UUID
   description:
     type: markdown
 

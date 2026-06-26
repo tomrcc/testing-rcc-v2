@@ -4,17 +4,56 @@ tags: []
 
 value:
   _name: global/team
+  _uuid:
   title: Our leadership & Team Members
   team_members:
-    - name: Cody Fisher
+    - _uuid:
+      name: Cody Fisher
       designation: Co-Founder & CEO
       image: /images/team/1.jpg
       image_alt: "Team member: Cody Fisher"
 
 _inputs:
+  _uuid:
+    type: text
+    hidden: true
+    instance_value: UUID
+  team_members:
+    type: array
+    options:
+      structures: _structures.team_member
   image:
     type: image
     options:
       resize_style: crop
       prevent_resize_existing_files: true
       expandable: true
+
+_structures:
+  team_member:
+    values:
+      - value:
+          _uuid:
+          name:
+          designation:
+          image:
+          image_alt:
+        _inputs:
+          _uuid:
+            type: text
+            hidden: true
+            instance_value: UUID
+          image:
+            type: image
+            options:
+              resize_style: crop
+              prevent_resize_existing_files: true
+              expandable: true
+        preview:
+          icon: person
+          text:
+            - key: name
+          subtext:
+            - key: designation
+          image:
+            - key: image
