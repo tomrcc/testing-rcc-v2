@@ -390,14 +390,14 @@
     "_base_original": "Try This Free"
   },
   "index:052b4d4f-2960-407f-bf1b-958d833f4cdd:hero:description": {
-    "original": "<p>This has completely changed!</p>\n",
-    "value": "<p>This has completely changed!</p>\n",
-    "_base_original": "<p>This has completely changed!</p>\n"
+    "original": "<p>This is a <em>test</em> <strong>Astro</strong> site for how multilingual content management works in CloudCannon, with the new Rosey CloudCannon Connector.</p>",
+    "value": "<p>Testing whether this still works. French French French.</p>",
+    "_base_original": "<p>This is a <em>test</em> <strong>Astro</strong> site for how multilingual content management works in CloudCannon, with the new Rosey CloudCannon Connector.</p>"
   },
   "index:052b4d4f-2960-407f-bf1b-958d833f4cdd:hero:title": {
-    "original": " Testing the stale translations ",
-    "value": " Testing the stale translations ",
-    "_base_original": " Testing the stale translations "
+    "original": "Multilingual Test",
+    "value": "French Test",
+    "_base_original": "Multilingual Test"
   },
   "index:5d2769c2-6ee5-4927-9028-33bbeebbe3ee:t-dolly:testimonial:author": {
     "original": " Dolly Watson ",

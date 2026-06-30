@@ -12,8 +12,10 @@ seo:
 content_blocks:
   - _name: global/hero
     _uuid: 052b4d4f-2960-407f-bf1b-958d833f4cdd
-    title: Testing the stale translations
-    description: This has completely changed!
+    title: Multilingual Test
+    description: >-
+      This is a *test* **Astro** site for how multilingual content management
+      works in CloudCannon, with the new Rosey CloudCannon Connector.
     image: /images/hero/hero-image.avif
     image_alt: Reports dashboard
     button:
@@ -28,23 +30,23 @@ content_blocks:
       templates, and more to get you started on your next project.
     alternate_style: false
     numbers:
-      - prefix: $
-        _uuid: ba8b5544-ca18-422f-8f00-c1270a51a68a
+      - _uuid: ba8b5544-ca18-422f-8f00-c1270a51a68a
+        prefix: $
         number: '211'
         suffix: m
         text: Venture capital raised
-      - prefix:
-        _uuid: 8b54b2bb-ee97-4498-9fb0-5768d59f4583
+      - _uuid: 8b54b2bb-ee97-4498-9fb0-5768d59f4583
+        prefix:
         number: '2020'
         suffix:
         text: Established in
-      - prefix:
-        _uuid: 18494946-e278-4b0b-8eb1-d7a49afb189c
+      - _uuid: 18494946-e278-4b0b-8eb1-d7a49afb189c
+        prefix:
         number: '3'
         suffix: +
         text: Supported languages
-      - prefix:
-        _uuid: d35888f6-11bc-4827-9b21-63f2a5c26ca3
+      - _uuid: d35888f6-11bc-4827-9b21-63f2a5c26ca3
+        prefix:
         number: '4322'
         suffix: +
         text: Active users and growing
