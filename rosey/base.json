@@ -922,7 +922,7 @@
       "total": 1
     },
     "index:052b4d4f-2960-407f-bf1b-958d833f4cdd:hero:description": {
-      "original": "<p>This has completely changed!</p>\n",
+      "original": "<p>This is a <em>test</em> <strong>Astro</strong> site for how multilingual content management works in CloudCannon, with the new Rosey CloudCannon Connector.</p>\n",
       "value": null,
       "pages": {
         "index.html": 1
@@ -930,7 +930,7 @@
       "total": 1
     },
     "index:052b4d4f-2960-407f-bf1b-958d833f4cdd:hero:title": {
-      "original": " Testing the stale translations ",
+      "original": " Multilingual Test ",
       "value": null,
       "pages": {
         "index.html": 1
