@@ -20,6 +20,7 @@ interface VideoType {
 }
 
 interface Props {
+  _uuid?: string;
   title: string;
   description: string;
   button?: ButtonType;
@@ -27,10 +28,10 @@ interface Props {
 }
 
 
-const { title, description, button, video } = Astro.props;
+const { _uuid, title, description, button, video } = Astro.props;
 ---
 
-<section class="py-16 xl:py-24 2xl:py-32">
+<section data-rosey-ns={_uuid} class="py-16 xl:py-24 2xl:py-32">
   <!-- Video Modal -->
   <Modal id="about-video-modal" size={"7xl"} showCloseButton unloadOnClose>
     <div slot="header">

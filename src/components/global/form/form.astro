@@ -31,6 +31,7 @@ interface ContactForm {
 }
 
 interface Props {
+  _uuid?: string;
   address?: ContactInfo;
   phone?: ContactInfo;
   email?: ContactInfo;
@@ -38,10 +39,10 @@ interface Props {
 }
 
 
-const { address, phone, email, form } = Astro.props;
+const { _uuid, address, phone, email, form } = Astro.props;
 ---
 
-<section class="mb-20">
+<section data-rosey-ns={_uuid} class="mb-20">
   <div class="bg-primary/10 bg-linear-to-b from-cyan-primary/10 to-white lg:h-60 -z-30 relative "></div>
   <div class="max-w-7xl pt-10 mx-auto px-4 sm:px-6 lg:px-8">
     <div class="grid lg:grid-cols-12 gap-8 lg:gap-16">

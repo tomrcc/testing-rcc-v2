@@ -17,6 +17,7 @@ interface HeroImage {
 }
 
 interface Props {
+  _uuid?: string;
   title: string;
   description: string;
   button?: ButtonType;
@@ -28,7 +29,7 @@ interface Props {
 }
 
 
-const { title, description, button, image, image_alt, hero_images } = Astro.props;
+const { _uuid, title, description, button, image, image_alt, hero_images } = Astro.props;
 
 // Helper function to get placement class
 const getPlacementClass = (placement: string) => {
@@ -50,7 +51,7 @@ const hasSingleImage = image && image_alt;
 ---
 
 
-<section class="relative isolate pt-24 bg-primary/5 overflow-hidden">
+<section data-rosey-ns={_uuid} class="relative isolate pt-24 bg-primary/5 overflow-hidden">
   <!-- Background shape with optimized image mask -->
   <div
     class="hidden lg:block absolute top-0 left-0 -z-10 w-96 h-[671px] bg-primary/70"

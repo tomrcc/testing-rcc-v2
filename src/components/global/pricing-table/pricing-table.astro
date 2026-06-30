@@ -26,13 +26,14 @@ interface PricingTier {
 }
 
 interface Props {
+  _uuid?: string;
   pricing_tier: PricingTier[];
 }
 
-const { pricing_tier } = Astro.props;
+const { _uuid, pricing_tier } = Astro.props;
 ---
 
-<section class="relative pb-16 lg:pb-20 2xl:pb-32">
+<section data-rosey-ns={_uuid} class="relative pb-16 lg:pb-20 2xl:pb-32">
   <div class="bg-primary/10 bg-linear-to-b from-cyan-primary/10 to-white h-70">
   </div>
   <div class="max-w-7xl -mt-70 mx-auto px-4 sm:px-6 lg:px-8">

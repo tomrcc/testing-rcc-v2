@@ -11,14 +11,15 @@ interface TeamMember {
 }
 
 interface Props {
+  _uuid?: string;
   title: string;
   team_members: TeamMember[];
 }
 
-const { title, team_members } = Astro.props;
+const { _uuid, title, team_members } = Astro.props;
 ---
 
-<section class="py-16 xl:py-24 2xl:py-32">
+<section data-rosey-ns={_uuid} class="py-16 xl:py-24 2xl:py-32">
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
     <div class="max-w-4xl xl:max-w-3xl mx-auto mb-12 lg:mb-16">
       <div class="text-center">

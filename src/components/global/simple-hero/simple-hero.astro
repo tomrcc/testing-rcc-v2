@@ -4,14 +4,15 @@ const md = new MarkdownIt({ html: true });
 
 // Define TypeScript interfaces
 interface Props {
+  _uuid?: string;
   title: string;
   description: string;
 }
 
-const { title, description } = Astro.props;
+const { _uuid, title, description } = Astro.props;
 ---
 
-<section class="bg-primary/10 py-35 xl:py-24 2xl:py-32">
+<section data-rosey-ns={_uuid} class="bg-primary/10 py-35 xl:py-24 2xl:py-32">
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
     <div class="flex justify-center">
       <div class="w-full lg:w-2/3 text-center">

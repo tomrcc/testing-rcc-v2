@@ -6,7 +6,7 @@ import Heading from "../../shared/Heading.astro";
 const md = new MarkdownIt({ html: true });
 
 // Receive all props as the block for CloudCannon compatibility
-const { title, title_suffix, description, numbers, alternate_style } = Astro.props;
+const { _uuid, title, title_suffix, description, numbers, alternate_style } = Astro.props;
 
 interface CounterNumber {
   _uuid?: string;
@@ -17,6 +17,7 @@ interface CounterNumber {
 }
 
 export interface Props {
+  _uuid?: string;
   title: string;
   title_suffix?: string;
   description: string;
@@ -26,7 +27,7 @@ export interface Props {
 }
 ---
 
-<section class={`${alternate_style ? "bg-muted pb-20 lg:pb-52" : ""}`} id="counter-up">
+<section data-rosey-ns={_uuid} class={`${alternate_style ? "bg-muted pb-20 lg:pb-52" : ""}`} id="counter-up">
   <div class="w-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
     <div class="flex flex-wrap">
       <div class="w-full">

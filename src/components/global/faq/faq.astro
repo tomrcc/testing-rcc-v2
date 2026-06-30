@@ -12,16 +12,17 @@ interface FaqItemData {
 }
 
 interface Props {
+  _uuid?: string;
   title: string;
   title_suffix: string;
   description: string;
   FAQ: FaqItemData[];
 }
 
-const { title_suffix, description, FAQ, title } = Astro.props;
+const { _uuid, title_suffix, description, FAQ, title } = Astro.props;
 ---
 
-<section class="py-16 xl:py-24 2xl:py-32 bg-primary/10">
+<section data-rosey-ns={_uuid} class="py-16 xl:py-24 2xl:py-32 bg-primary/10">
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
     <div class="flex justify-center">
       <div class="w-full lg:w-2/3 text-center">

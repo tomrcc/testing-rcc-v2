@@ -14,16 +14,18 @@ interface Testimonial {
 }
 
 interface Props {
+  _uuid?: string;
   title: string;
   title_suffix: string;
   description: string;
   testimonials: Testimonial[];
 }
 
-const { title, title_suffix, description, testimonials } = Astro.props;
+const { _uuid, title, title_suffix, description, testimonials } = Astro.props;
 ---
 
 <section
+  data-rosey-ns={_uuid}
   class="bg-black relative border-b border-gray-800 sm:border-b-0 overflow-hidden py-16 lg:py-20"
 >
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">

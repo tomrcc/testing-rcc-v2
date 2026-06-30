@@ -41,8 +41,11 @@ const { content_blocks, slug } = Astro.props;
         console.warn(`Unknown component for block key '${key}'`, block);
         return null;
       }
+      // data-rosey-ns lives on each component's own root (rendered from data),
+      // NOT on this CC-managed array-item wrapper — a cloned wrapper carries a
+      // stale/duplicate ns when CC adds a row. See testimonial-item for the pattern.
       return (
-        <editable-array-item data-rosey-ns={block._uuid} data-id={block._uuid} data-component={block._name}>
+        <editable-array-item data-id={block._uuid} data-component={block._name}>
           <editable-component data-component={block._name} data-prop="">
             <Component {...block} />
           </editable-component>

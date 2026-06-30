@@ -3,9 +3,10 @@ import Modal from "@components/shared/Modal.astro";
 import Vimeo from "@components/shared/Vimeo.astro";
 import { Image } from "astro:assets";
 
-const { image, image_alt, video_url } = Astro.props;
+const { _uuid, image, image_alt, video_url } = Astro.props;
 
 export interface Props {
+  _uuid?: string;
   image: string;
   image_alt: string;
   video_url: string;
@@ -13,7 +14,7 @@ export interface Props {
 }
 ---
 
-<section class="relative py-22 overflow-hidden">
+<section data-rosey-ns={_uuid} class="relative py-22 overflow-hidden">
   <!-- Video Modal -->
   <Modal id="video-modal" size={"7xl"} showCloseButton unloadOnClose>
     <div slot="header">

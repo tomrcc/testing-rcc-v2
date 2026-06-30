@@ -4,16 +4,17 @@ import Text from "../../shared/Text.astro";
 
 // Define TypeScript interfaces
 interface Props {
+  _uuid?: string;
   title: string;
   title_suffix: string;
   description: string;
   remove_top_padding?: boolean;
 }
 
-const { title, title_suffix, description, remove_top_padding } = Astro.props;
+const { _uuid, title, title_suffix, description, remove_top_padding } = Astro.props;
 ---
 
-<section class="py-0">
+<section data-rosey-ns={_uuid} class="py-0">
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
     <div class="flex">
       <div class="w-full lg:w-2/3 mx-auto">
