@@ -29,7 +29,7 @@ const { content_blocks, slug } = Astro.props;
   tabindex="-1"
   data-editable="array"
   data-prop="content_blocks"
-  data-id-key="_name"
+  data-id-key="_uuid"
   data-component-key="_name"
   data-rosey-root={slug}
 >
@@ -42,7 +42,7 @@ const { content_blocks, slug } = Astro.props;
         return null;
       }
       return (
-        <editable-array-item data-id={block._name} data-component={block._name} data-rosey-ns={block._uuid}>
+        <editable-array-item data-id={block._uuid} data-component={block._name} data-rosey-ns={block._uuid}>
           <editable-component data-component={block._name} data-prop="">
             <Component {...block} />
           </editable-component>
