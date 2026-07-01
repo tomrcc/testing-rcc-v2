@@ -5,7 +5,7 @@ collections_config:
   pages:
     path: src/content/pages
     icon: wysiwyg
-    url: /[slug]/
+    url: /en/[slug]/
     disable_url: false
     _enabled_editors:
       - visual
@@ -27,7 +27,7 @@ collections_config:
         remove_extra_inputs: true
         name: New Page
         icon: notes
-        new_preview_url: /
+        new_preview_url: /en/
       paginated_collection:
         path: .cloudcannon/schemas/paginated-collection.md
         reorder_inputs: true
@@ -39,7 +39,7 @@ collections_config:
     path: src/content/blog
     name: Blog Posts
     icon: newspaper
-    url: /blog/[slug]/
+    url: /en/blog/[slug]/
     disable_url: false
     _enabled_editors:
       - visual
