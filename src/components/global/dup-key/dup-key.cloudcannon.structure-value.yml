@@ -1,0 +1,21 @@
+label: Duplicate Key Test
+icon: content_copy
+tags: []
+
+value:
+  _name: global/dup-key
+  _uuid:
+  heading: Shared heading text
+
+_inputs:
+  _uuid:
+    type: text
+    hidden: true
+    instance_value: UUID
+  heading:
+    type: text
+
+preview:
+  text: Duplicate Key Test
+  subtext:
+    - key: heading

@@ -1,0 +1,43 @@
+---
+// Duplicate-key test component.
+//
+// Renders the SAME translatable field twice. Both <editable-text> elements
+// resolve to the identical Rosey key (dup_key:heading) and bind to the same
+// data-prop (heading), so they are "the same id" from RCC's point of view.
+//
+// Use it to observe what happens when you edit one copy:
+//   • In a locale (RCC): the edit writes to the locale file, which fires the
+//     dataset "change" event; RCC's listener refreshes every non-focused editor
+//     sharing the key, so Copy B should live-update to match Copy A.
+//   • In Original (CloudCannon source editing): both bind to the same data-prop,
+//     so both should reflect the change too.
+interface Props {
+  _uuid?: string;
+  heading?: string;
+}
+
+const { _uuid, heading = "Shared heading text" } = Astro.props;
+---
+
+<section data-rosey-ns={_uuid} class="py-16 bg-amber-50">
+  <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 text-center space-y-8">
+    <p class="text-sm uppercase tracking-wide text-gray-500">
+      Duplicate-key test — both headings share
+      <code>data-rosey="dup_key:heading"</code> and <code>data-prop="heading"</code>
+    </p>
+
+    <div class="space-y-1">
+      <span class="block text-xs font-semibold uppercase text-amber-700">Copy A</span>
+      <h2 class="text-3xl font-bold">
+        <editable-text data-prop="heading" data-rosey="dup_key:heading">{heading}</editable-text>
+      </h2>
+    </div>
+
+    <div class="space-y-1">
+      <span class="block text-xs font-semibold uppercase text-amber-700">Copy B</span>
+      <h2 class="text-3xl font-bold">
+        <editable-text data-prop="heading" data-rosey="dup_key:heading">{heading}</editable-text>
+      </h2>
+    </div>
+  </div>
+</section>
