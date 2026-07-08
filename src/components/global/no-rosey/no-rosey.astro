@@ -1,0 +1,30 @@
+---
+// No-Rosey test component.
+//
+// This block is CloudCannon-editable in Original (its <editable-text> binds to
+// data-prop="note"), but it has NO data-rosey attribute anywhere. RCC only
+// wires editors for [data-rosey] elements, and cleanClone strips all CC editing
+// markup from the swapped-in clone — so when you switch to a locale this block
+// must become non-editable, with its editing controls hidden. Use it to confirm
+// non-translatable content is correctly disabled in a locale.
+interface Props {
+  _uuid?: string;
+  note?: string;
+}
+
+const {
+  _uuid,
+  note = "This block has NO Rosey id — editable in Original, disabled in a locale.",
+} = Astro.props;
+---
+
+<section data-rosey-ns={_uuid} class="py-16 bg-slate-100">
+  <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 text-center space-y-4">
+    <span class="block text-xs font-semibold uppercase text-slate-500">
+      No-Rosey block (source-only, not translatable)
+    </span>
+    <p class="text-2xl font-bold">
+      <editable-text data-prop="note">{note}</editable-text>
+    </p>
+  </div>
+</section>

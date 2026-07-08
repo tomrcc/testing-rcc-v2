@@ -25,6 +25,8 @@ import BlogPagination from "../components/blog/pagination.astro";
 import BlogSummary from "../components/blog/summary.astro";
 import GlobalForm from "../components/global/form/form.astro";
 import GlobalCounter from "../components/global/counter/counter.astro";
+import GlobalDupKey from "../components/global/dup-key/dup-key.astro";
+import GlobalNoRosey from "../components/global/no-rosey/no-rosey.astro";
 import GlobalFaq from "../components/global/faq/faq.astro";
 import GlobalFaqItem from "../components/global/faq/faqItem.astro";
 import GlobalFeature from "../components/global/feature/feature.astro";
@@ -44,6 +46,8 @@ import SharedVimeo from "../components/shared/Vimeo.astro";
 // Define component registrations with proper typing
 const astroComponentRegistrations = [
   { name: "global/counter", component: GlobalCounter },
+  { name: "global/dup-key", component: GlobalDupKey },
+  { name: "global/no-rosey", component: GlobalNoRosey },
   { name: "global/hero", component: GlobalHero },
   { name: "global/video", component: GlobalVideo },
   { name: "global/team", component: GlobalTeam },

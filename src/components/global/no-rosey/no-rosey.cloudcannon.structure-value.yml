@@ -1,0 +1,21 @@
+label: No-Rosey Test
+icon: block
+tags: []
+
+value:
+  _name: global/no-rosey
+  _uuid:
+  note: This block has NO Rosey id — editable in Original, disabled in a locale.
+
+_inputs:
+  _uuid:
+    type: text
+    hidden: true
+    instance_value: UUID
+  note:
+    type: text
+
+preview:
+  text: No-Rosey Test
+  subtext:
+    - key: note

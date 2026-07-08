@@ -55,6 +55,12 @@ content_blocks:
     image: /images/video/video-thum.avif
     image_alt: Thumbnail for video
     video_url: https://vimeo.com/45830194
+  - _name: global/dup-key
+    _uuid: 11111111-2222-3333-4444-555555555555
+    heading: Shared heading text
+  - _name: global/no-rosey
+    _uuid: 22222222-3333-4444-5555-666666666666
+    note: This block has NO Rosey id — editable in Original, disabled in a locale.
   - _name: global/header
     _uuid: 6bc12c8b-c7a5-41dc-aea2-1331552311cb
     title: 'Sendit '
