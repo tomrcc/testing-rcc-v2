@@ -18,7 +18,6 @@
         "blog/index.html": 1,
         "blog/what-are-the-best-email-clients/index.html": 1,
         "contact/index.html": 1,
-        "dup-key-test/index.html": 1,
         "features/index.html": 1,
         "index.html": 1,
         "login/index.html": 1,
@@ -32,7 +31,7 @@
         "tags/showcase/index.html": 1,
         "tags/technology/index.html": 1
       },
-      "total": 26
+      "total": 25
     },
     "74d7fbde-5859-425c-879d-e87611b8dcf1:footer:title": {
       "original": "Company",
@@ -51,7 +50,6 @@
         "blog/index.html": 1,
         "blog/what-are-the-best-email-clients/index.html": 1,
         "contact/index.html": 1,
-        "dup-key-test/index.html": 1,
         "features/index.html": 1,
         "index.html": 1,
         "login/index.html": 1,
@@ -65,7 +63,7 @@
         "tags/showcase/index.html": 1,
         "tags/technology/index.html": 1
       },
-      "total": 26
+      "total": 25
     },
     "about:04a92594-1df4-466e-9a31-35ced5f4e312:hero:button_text": {
       "original": "Try This Free",
@@ -412,7 +410,6 @@
         "blog/index.html": 1,
         "blog/what-are-the-best-email-clients/index.html": 1,
         "contact/index.html": 1,
-        "dup-key-test/index.html": 1,
         "features/index.html": 1,
         "index.html": 1,
         "login/index.html": 1,
@@ -426,7 +423,7 @@
         "tags/showcase/index.html": 1,
         "tags/technology/index.html": 1
       },
-      "total": 26
+      "total": 25
     },
     "ca6c21f8-b055-446c-8cd3-2ca6552efe37:e2fc5dea-3127-495a-bf14-925be5f3371c:footer:link_text": {
       "original": "About",
@@ -445,7 +442,6 @@
         "blog/index.html": 1,
         "blog/what-are-the-best-email-clients/index.html": 1,
         "contact/index.html": 1,
-        "dup-key-test/index.html": 1,
         "features/index.html": 1,
         "index.html": 1,
         "login/index.html": 1,
@@ -459,7 +455,7 @@
         "tags/showcase/index.html": 1,
         "tags/technology/index.html": 1
       },
-      "total": 26
+      "total": 25
     },
     "ca6c21f8-b055-446c-8cd3-2ca6552efe37:e301011c-7675-41e0-b3b6-b7cb765c3875:footer:link_text": {
       "original": "Features",
@@ -478,7 +474,6 @@
         "blog/index.html": 1,
         "blog/what-are-the-best-email-clients/index.html": 1,
         "contact/index.html": 1,
-        "dup-key-test/index.html": 1,
         "features/index.html": 1,
         "index.html": 1,
         "login/index.html": 1,
@@ -492,7 +487,7 @@
         "tags/showcase/index.html": 1,
         "tags/technology/index.html": 1
       },
-      "total": 26
+      "total": 25
     },
     "ca6c21f8-b055-446c-8cd3-2ca6552efe37:fe6dbc6a-15b9-4a0b-a949-9dd109331d23:footer:link_text": {
       "original": "Price",
@@ -511,7 +506,6 @@
         "blog/index.html": 1,
         "blog/what-are-the-best-email-clients/index.html": 1,
         "contact/index.html": 1,
-        "dup-key-test/index.html": 1,
         "features/index.html": 1,
         "index.html": 1,
         "login/index.html": 1,
@@ -525,7 +519,7 @@
         "tags/showcase/index.html": 1,
         "tags/technology/index.html": 1
       },
-      "total": 26
+      "total": 25
     },
     "ca6c21f8-b055-446c-8cd3-2ca6552efe37:footer:title": {
       "original": "Main Pages",
@@ -544,7 +538,6 @@
         "blog/index.html": 1,
         "blog/what-are-the-best-email-clients/index.html": 1,
         "contact/index.html": 1,
-        "dup-key-test/index.html": 1,
         "features/index.html": 1,
         "index.html": 1,
         "login/index.html": 1,
@@ -558,7 +551,7 @@
         "tags/showcase/index.html": 1,
         "tags/technology/index.html": 1
       },
-      "total": 26
+      "total": 25
     },
     "contact:dc0aa9ec-a5a8-44c9-93d2-edda88055b7a:simple_hero:description": {
       "original": "<p>Have a question or suggestion? Feel free to drop us a message!</p>\n",
@@ -575,14 +568,6 @@
         "contact/index.html": 1
       },
       "total": 1
-    },
-    "dup-key-test:11111111-2222-3333-4444-555555555555:dup_key:heading": {
-      "original": "Shared heading text",
-      "value": null,
-      "pages": {
-        "dup-key-test/index.html": 2
-      },
-      "total": 2
     },
     "ed771f99-ff4d-43da-a217-693385413e1c:4b9250a3-488e-4618-a574-8463d06ddbb7:footer:link_text": {
       "original": "Blog",
@@ -601,7 +586,6 @@
         "blog/index.html": 1,
         "blog/what-are-the-best-email-clients/index.html": 1,
         "contact/index.html": 1,
-        "dup-key-test/index.html": 1,
         "features/index.html": 1,
         "index.html": 1,
         "login/index.html": 1,
@@ -615,7 +599,7 @@
         "tags/showcase/index.html": 1,
         "tags/technology/index.html": 1
       },
-      "total": 26
+      "total": 25
     },
     "ed771f99-ff4d-43da-a217-693385413e1c:7a0c02db-9653-499b-b4b2-947ce1544a21:footer:link_text": {
       "original": "RSS Feed",
@@ -634,7 +618,6 @@
         "blog/index.html": 1,
         "blog/what-are-the-best-email-clients/index.html": 1,
         "contact/index.html": 1,
-        "dup-key-test/index.html": 1,
         "features/index.html": 1,
         "index.html": 1,
         "login/index.html": 1,
@@ -648,7 +631,7 @@
         "tags/showcase/index.html": 1,
         "tags/technology/index.html": 1
       },
-      "total": 26
+      "total": 25
     },
     "ed771f99-ff4d-43da-a217-693385413e1c:footer:title": {
       "original": "Community",
@@ -667,7 +650,6 @@
         "blog/index.html": 1,
         "blog/what-are-the-best-email-clients/index.html": 1,
         "contact/index.html": 1,
-        "dup-key-test/index.html": 1,
         "features/index.html": 1,
         "index.html": 1,
         "login/index.html": 1,
@@ -681,7 +663,7 @@
         "tags/showcase/index.html": 1,
         "tags/technology/index.html": 1
       },
-      "total": 26
+      "total": 25
     },
     "features:319f1ab1-2482-4ad8-96b4-a6bc7d3ca090:feature:button_text": {
       "original": "Try This Free",
@@ -916,7 +898,6 @@
         "blog/index.html": 1,
         "blog/what-are-the-best-email-clients/index.html": 1,
         "contact/index.html": 1,
-        "dup-key-test/index.html": 1,
         "features/index.html": 1,
         "index.html": 1,
         "login/index.html": 1,
@@ -930,7 +911,7 @@
         "tags/showcase/index.html": 1,
         "tags/technology/index.html": 1
       },
-      "total": 26
+      "total": 25
     },
     "index:052b4d4f-2960-407f-bf1b-958d833f4cdd:hero:button_text": {
       "original": "Try This Free",
@@ -955,6 +936,14 @@
         "index.html": 1
       },
       "total": 1
+    },
+    "index:11111111-2222-3333-4444-555555555555:dup_key:heading": {
+      "original": "Shared heading text",
+      "value": null,
+      "pages": {
+        "index.html": 2
+      },
+      "total": 2
     },
     "index:5d2769c2-6ee5-4927-9028-33bbeebbe3ee:t-dolly:testimonial:author": {
       "original": " Dolly Watson ",
