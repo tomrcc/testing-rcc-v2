@@ -453,8 +453,8 @@ commit_templates:
 data_config:
   locales_fr:
     path: rosey/locales/fr.json
-  locales_de:
-    path: rosey/locales/de.json
+  locales_de-DE:
+    path: rosey/locales/de-DE.json
   blog-tags:
     path: data/blog-tags.json
   footer:

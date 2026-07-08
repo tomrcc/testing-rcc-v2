@@ -229,6 +229,11 @@
     "value": "Let's talk.",
     "_base_original": "Let's talk."
   },
+  "dup-key-test:11111111-2222-3333-4444-555555555555:dup_key:heading": {
+    "original": "Shared heading text",
+    "value": "Shared heading text",
+    "_base_original": "Shared heading text"
+  },
   "ed771f99-ff4d-43da-a217-693385413e1c:4b9250a3-488e-4618-a574-8463d06ddbb7:footer:link_text": {
     "original": "Blog",
     "value": "Blog",
@@ -398,11 +403,6 @@
     "original": "Multilingual Test",
     "value": "German Heading",
     "_base_original": " Multilingual Test "
-  },
-  "index:11111111-2222-3333-4444-555555555555:dup_key:heading": {
-    "original": "Shared heading text",
-    "value": "Shared heading text",
-    "_base_original": "Shared heading text"
   },
   "index:5d2769c2-6ee5-4927-9028-33bbeebbe3ee:t-dolly:testimonial:author": {
     "original": " Dolly Watson ",
