@@ -50,6 +50,19 @@ content_blocks:
         number: '4322'
         suffix: +
         text: Active users and growing
+  - _name: global/feature
+    _uuid: 40f07017-3cd0-499f-903b-2cd29852e068
+    title: Text Message in One Minute
+    description: >-
+      We believe that a good email marketing strategy is the key to growth. So
+      we’re helping you grow your business with tools and resources that make
+      email marketing easy.
+    image: /images/feature/feature-card-one.png
+    image_alt: Message inbox
+    button:
+      link: /signup
+      text: Try This Free
+    reversed: false
   - _name: global/video
     _uuid: 78c893eb-635e-4408-b6bb-53e49f4eb4a8
     image: /images/video/video-thum.avif
