@@ -404,6 +404,21 @@
     "value": "Shared heading text",
     "_base_original": "Shared heading text"
   },
+  "index:40f07017-3cd0-499f-903b-2cd29852e068:feature:button_text": {
+    "original": "Try This Free",
+    "value": "Try This Free",
+    "_base_original": "Try This Free"
+  },
+  "index:40f07017-3cd0-499f-903b-2cd29852e068:feature:description": {
+    "original": "<p>We believe that a good email marketing strategy is the key to growth. So we’re helping you grow your business with tools and resources that make email marketing easy.</p>\n",
+    "value": "<p>We believe that a good email marketing strategy is the key to growth. So we’re helping you grow your business with tools and resources that make email marketing easy.</p>\n",
+    "_base_original": "<p>We believe that a good email marketing strategy is the key to growth. So we’re helping you grow your business with tools and resources that make email marketing easy.</p>\n"
+  },
+  "index:40f07017-3cd0-499f-903b-2cd29852e068:feature:title": {
+    "original": " Text Message in One Minute ",
+    "value": " Text Message in One Minute ",
+    "_base_original": " Text Message in One Minute "
+  },
   "index:5d2769c2-6ee5-4927-9028-33bbeebbe3ee:t-dolly:testimonial:author": {
     "original": " Dolly Watson ",
     "value": " Dolly Watson ",
