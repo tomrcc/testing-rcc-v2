@@ -109,6 +109,21 @@
     "value": "Our leadership team",
     "_base_original": " Our leadership team "
   },
+  "about:20b39b39-5a99-49ba-acff-b565b61710fa:feature:button_text": {
+    "original": "Try This Free",
+    "value": "Try This Free",
+    "_base_original": "Try This Free"
+  },
+  "about:20b39b39-5a99-49ba-acff-b565b61710fa:feature:description": {
+    "original": "<p>We believe that a good email marketing strategy is the key to growth. So we’re helping you grow your business with tools and resources that make email marketing easy.</p>\n",
+    "value": "<p>We believe that a good email marketing strategy is the key to growth. So we’re helping you grow your business with tools and resources that make email marketing easy.</p>\n",
+    "_base_original": "<p>We believe that a good email marketing strategy is the key to growth. So we’re helping you grow your business with tools and resources that make email marketing easy.</p>\n"
+  },
+  "about:20b39b39-5a99-49ba-acff-b565b61710fa:feature:title": {
+    "original": "A freshy Changed",
+    "value": "Frenchy Freshy Stale!",
+    "_base_original": " A freshy Changed "
+  },
   "about:467aa8db-643b-47b6-9f8a-f1165190cfbe:video_left_right:button_text": {
     "original": "Follow on Linkedin",
     "value": "Follow on Linkedin",
@@ -123,6 +138,16 @@
     "original": " We love what we do ",
     "value": "We love what we do",
     "_base_original": " We love what we do "
+  },
+  "about:5ea62291-a4c7-4a0e-b704-cc7c2c3733a6:52be5be1-cc83-4223-a5bf-da56076e5f92:counter:prefix": {
+    "original": "<br class=\"ProseMirror-trailingBreak\">",
+    "value": "<br class=\"ProseMirror-trailingBreak\" />",
+    "_base_original": "<br class=\"ProseMirror-trailingBreak\">"
+  },
+  "about:5ea62291-a4c7-4a0e-b704-cc7c2c3733a6:52be5be1-cc83-4223-a5bf-da56076e5f92:counter:suffix": {
+    "original": "<br class=\"ProseMirror-trailingBreak\">",
+    "value": "<br class=\"ProseMirror-trailingBreak\" />",
+    "_base_original": "<br class=\"ProseMirror-trailingBreak\">"
   },
   "about:5ea62291-a4c7-4a0e-b704-cc7c2c3733a6:52be5be1-cc83-4223-a5bf-da56076e5f92:counter:text": {
     "original": " Established in ",
@@ -144,6 +169,11 @@
     "value": "Venture capital raised",
     "_base_original": " Venture capital raised "
   },
+  "about:5ea62291-a4c7-4a0e-b704-cc7c2c3733a6:a7ef90cc-7a92-4935-b5c4-f889eeea8501:counter:prefix": {
+    "original": "<br class=\"ProseMirror-trailingBreak\">",
+    "value": "<br class=\"ProseMirror-trailingBreak\" />",
+    "_base_original": "<br class=\"ProseMirror-trailingBreak\">"
+  },
   "about:5ea62291-a4c7-4a0e-b704-cc7c2c3733a6:a7ef90cc-7a92-4935-b5c4-f889eeea8501:counter:suffix": {
     "original": " + ",
     "value": "+",
@@ -153,6 +183,11 @@
     "original": " Amazing team members ",
     "value": "Amazing team members",
     "_base_original": " Amazing team members "
+  },
+  "about:5ea62291-a4c7-4a0e-b704-cc7c2c3733a6:c09e01a5-c968-4c8d-baaf-1c724755bf80:counter:prefix": {
+    "original": "<br class=\"ProseMirror-trailingBreak\">",
+    "value": "<br class=\"ProseMirror-trailingBreak\" />",
+    "_base_original": "<br class=\"ProseMirror-trailingBreak\">"
   },
   "about:5ea62291-a4c7-4a0e-b704-cc7c2c3733a6:c09e01a5-c968-4c8d-baaf-1c724755bf80:counter:suffix": {
     "original": " + ",
@@ -898,30 +933,5 @@
     "original": "Let's talk.",
     "value": "Let's talk.",
     "_base_original": "Resources for makers to learn, sell &amp; grow"
-  },
-  "about:20b39b39-5a99-49ba-acff-b565b61710fa:feature:title": {
-    "original": "A freshy Changed",
-    "value": "Frenchy Freshy Stale!",
-    "_base_original": "A freshy Changed"
-  },
-  "about:5ea62291-a4c7-4a0e-b704-cc7c2c3733a6:52be5be1-cc83-4223-a5bf-da56076e5f92:counter:prefix": {
-    "original": "<br class=\"ProseMirror-trailingBreak\">",
-    "value": "<br class=\"ProseMirror-trailingBreak\" />",
-    "_base_original": "<br class=\"ProseMirror-trailingBreak\">"
-  },
-  "about:5ea62291-a4c7-4a0e-b704-cc7c2c3733a6:52be5be1-cc83-4223-a5bf-da56076e5f92:counter:suffix": {
-    "original": "<br class=\"ProseMirror-trailingBreak\">",
-    "value": "<br class=\"ProseMirror-trailingBreak\" />",
-    "_base_original": "<br class=\"ProseMirror-trailingBreak\">"
-  },
-  "about:5ea62291-a4c7-4a0e-b704-cc7c2c3733a6:a7ef90cc-7a92-4935-b5c4-f889eeea8501:counter:prefix": {
-    "original": "<br class=\"ProseMirror-trailingBreak\">",
-    "value": "<br class=\"ProseMirror-trailingBreak\" />",
-    "_base_original": "<br class=\"ProseMirror-trailingBreak\">"
-  },
-  "about:5ea62291-a4c7-4a0e-b704-cc7c2c3733a6:c09e01a5-c968-4c8d-baaf-1c724755bf80:counter:prefix": {
-    "original": "<br class=\"ProseMirror-trailingBreak\">",
-    "value": "<br class=\"ProseMirror-trailingBreak\" />",
-    "_base_original": "<br class=\"ProseMirror-trailingBreak\">"
   }
 }

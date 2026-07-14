@@ -225,6 +225,30 @@
       },
       "total": 1
     },
+    "about:20b39b39-5a99-49ba-acff-b565b61710fa:feature:button_text": {
+      "original": "Try This Free",
+      "value": null,
+      "pages": {
+        "about/index.html": 1
+      },
+      "total": 1
+    },
+    "about:20b39b39-5a99-49ba-acff-b565b61710fa:feature:description": {
+      "original": "<p>We believe that a good email marketing strategy is the key to growth. So we’re helping you grow your business with tools and resources that make email marketing easy.</p>\n",
+      "value": null,
+      "pages": {
+        "about/index.html": 1
+      },
+      "total": 1
+    },
+    "about:20b39b39-5a99-49ba-acff-b565b61710fa:feature:title": {
+      "original": " A freshy Changed ",
+      "value": null,
+      "pages": {
+        "about/index.html": 1
+      },
+      "total": 1
+    },
     "about:467aa8db-643b-47b6-9f8a-f1165190cfbe:video_left_right:button_text": {
       "original": "Follow on Linkedin",
       "value": null,
