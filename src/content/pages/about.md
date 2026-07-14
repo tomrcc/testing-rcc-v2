@@ -41,6 +41,19 @@ content_blocks:
       link: /signup
       text: Try This Free
     reversed: false
+  - _name: global/feature
+    _uuid: 20b39b39-5a99-49ba-acff-b565b61710fa
+    title: A freshy Changed
+    description: >-
+      We believe that a good email marketing strategy is the key to growth. So
+      we’re helping you grow your business with tools and resources that make
+      email marketing easy.
+    image: /images/feature/feature-card-one.png
+    image_alt: Message inbox
+    button:
+      link: /signup
+      text: Try This Free
+    reversed: false
   - _name: global/counter
     _uuid: 5ea62291-a4c7-4a0e-b704-cc7c2c3733a6
     title: Built for your
@@ -48,23 +61,23 @@ content_blocks:
     description: We've built Sendit from the ground up the help grow your business faster.
     alternate_style: false
     numbers:
-      - prefix: $
-        _uuid: 96604b47-f3e3-4832-98d9-8fe5e380b4e2
+      - _uuid: 96604b47-f3e3-4832-98d9-8fe5e380b4e2
+        prefix: $
         number: '200'
         suffix: m
         text: Venture capital raised
-      - prefix:
-        _uuid: 52be5be1-cc83-4223-a5bf-da56076e5f92
+      - _uuid: 52be5be1-cc83-4223-a5bf-da56076e5f92
+        prefix:
         number: '2016'
         suffix:
         text: Established in
-      - prefix:
-        _uuid: a7ef90cc-7a92-4935-b5c4-f889eeea8501
+      - _uuid: a7ef90cc-7a92-4935-b5c4-f889eeea8501
+        prefix:
         number: '40'
         suffix: +
         text: Amazing team members
-      - prefix:
-        _uuid: c09e01a5-c968-4c8d-baaf-1c724755bf80
+      - _uuid: c09e01a5-c968-4c8d-baaf-1c724755bf80
+        prefix:
         number: '4322'
         suffix: +
         text: Active users and growing
@@ -86,43 +99,43 @@ content_blocks:
     _uuid: 11532bee-c109-4124-a79c-5833f0b5ed12
     title: Our leadership team
     team_members:
-      - name: Nikolas Mcconnell
-        _uuid: 7a50149f-4580-492c-8a16-2df77f9e77fe
+      - _uuid: 7a50149f-4580-492c-8a16-2df77f9e77fe
+        name: Nikolas Mcconnell
         designation: Co-Founder & CEO
         image: /images/team/1.jpg
         image_alt: 'Team member: Nikolas Mcconnell'
-      - name: Keiren Mcculloch
-        _uuid: ea6127fb-2de9-438e-8e80-017132f5bd85
+      - _uuid: ea6127fb-2de9-438e-8e80-017132f5bd85
+        name: Keiren Mcculloch
         designation: CMO
         image: /images/team/2.jpg
         image_alt: 'Team member: Keiren Mcculloch'
-      - name: Piers Reyes
-        _uuid: 98cdf51f-853f-4215-9d63-641e6318d07c
+      - _uuid: 98cdf51f-853f-4215-9d63-641e6318d07c
+        name: Piers Reyes
         designation: Head of Marketing
         image: /images/team/3.jpg
         image_alt: 'Team member: Piers Reyes'
-      - name: Zachary Arias
-        _uuid: c74c3c08-83f1-4815-8ab1-dda3c8f5629e
+      - _uuid: c74c3c08-83f1-4815-8ab1-dda3c8f5629e
+        name: Zachary Arias
         designation: Co-founder & CTO
         image: /images/team/4.jpg
         image_alt: 'Team member: Zachary Arias'
-      - name: Harmony Dunlop
-        _uuid: ee4652b8-3ad1-4d3d-b133-38bb059f7c93
+      - _uuid: ee4652b8-3ad1-4d3d-b133-38bb059f7c93
+        name: Harmony Dunlop
         designation: Head of Sales
         image: /images/team/5.jpg
         image_alt: 'Team member: Harmony Dunlop'
-      - name: Elize Schwartz
-        _uuid: bea7e02d-9456-49da-88cd-1cb5fbbd6a48
+      - _uuid: bea7e02d-9456-49da-88cd-1cb5fbbd6a48
+        name: Elize Schwartz
         designation: CRO
         image: /images/team/6.jpg
         image_alt: 'Team member: Elize Schwartz'
-      - name: Coen Simmons
-        _uuid: b2451189-e89e-4caa-a42a-e4110f16b4df
+      - _uuid: b2451189-e89e-4caa-a42a-e4110f16b4df
+        name: Coen Simmons
         designation: Head of Design
         image: /images/team/7.jpg
         image_alt: 'Team member: Coen Simmons'
-      - name: Fran Figureson
-        _uuid: d15ce55b-b6bf-47f2-ad85-d42e4f12c4d0
+      - _uuid: d15ce55b-b6bf-47f2-ad85-d42e4f12c4d0
+        name: Fran Figureson
         designation: Head of People
         image: /images/team/8.jpg
         image_alt: 'Team member: Fran Figureson'
