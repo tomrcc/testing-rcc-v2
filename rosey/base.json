@@ -1818,7 +1818,7 @@
       "total": 1
     },
     "simple_hero:description": {
-      "original": "<p>We believe that a good email marketing strategy is the key to growth. So we’re helping you grow your business with tools and resources that make email marketing easy.</p>\n",
+      "original": "",
       "value": null,
       "pages": {
         "blog/2/index.html": 1,
@@ -1835,7 +1835,7 @@
       "total": 10
     },
     "simple_hero:title": {
-      "original": "Resources for makers to learn, sell &amp; grow",
+      "original": "Technology",
       "value": null,
       "pages": {
         "blog/2/index.html": 1,
